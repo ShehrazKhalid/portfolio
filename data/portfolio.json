@@ -1,0 +1,2716 @@
+{
+  "name": "Shehraz Khalid",
+  "initials": "SK",
+  "role": "Software Engineer",
+  "specialty": "Unity 2D & 3D Developer",
+  "location": "Lahore, Pakistan",
+  "email": "shehrazkhalid786@gmail.com",
+  "phone": "+923044744082",
+  "experienceLabel": "7 years",
+  "experienceNote": "Experience duration and current role are reproduced from the supplied CV, not independently updated.",
+  "intro": "I build interactive experiences, one mechanic at a time. My work focuses on Unity 2D and 3D development, game physics, custom controllers and mobile games.",
+  "about": "A software engineer with a foundation in game design and interactive applications. I enjoy turning technical challenges into engaging, playable experiences.",
+  "skills": [
+    "Unity",
+    "C#",
+    "Game physics",
+    "Custom controllers",
+    "Hyper-casual mechanics",
+    "C++",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "PHP"
+  ],
+  "integrations": [
+    "AdMob Mediation",
+    "MAX Mediation",
+    "Firebase",
+    "ByteBrew",
+    "AppLovin",
+    "AppsFlyer"
+  ],
+  "experience": [
+    {
+      "role": "Sr. Games Developer",
+      "company": "OZI Technology",
+      "location": "Lahore, Pakistan",
+      "period": "Oct 2021 - Present",
+      "details": [
+        "Development of 2D and 3D games, including game physics and controllers built from scratch.",
+        "Design and implementation of hyper-casual game mechanics.",
+        "Integration of mobile ad mediation, analytics and attribution tools listed in the CV."
+      ]
+    },
+    {
+      "role": "Game Developer / Team Lead",
+      "company": "Survival Tech Valley",
+      "location": "Lahore, Pakistan",
+      "period": "Jun 2019 - Oct 2021",
+      "details": [
+        "Team leadership and Android mobile game development using Unity 3D and C#."
+      ]
+    },
+    {
+      "role": "Games Developer",
+      "company": "Mania Games Studio",
+      "location": "Lahore, Pakistan",
+      "period": "Oct 2018 - Jun 2019",
+      "details": []
+    },
+    {
+      "role": "Games Developer",
+      "company": "Gaminators Studio, OZI Groups",
+      "location": "Lahore, Pakistan",
+      "period": "Mar 2018 - Sep 2018",
+      "details": [
+        "Android mobile game development using Unity 3D and C#."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "qualification": "BS Software Engineering",
+      "institution": "Virtual University of Pakistan",
+      "location": "Lahore",
+      "year": null,
+      "result": null
+    },
+    {
+      "qualification": "Diploma of Associate Engineering - Electrical Technology",
+      "institution": "Institute of Engineering and Technology, Mughalpura",
+      "location": "Lahore",
+      "year": "2016",
+      "result": "76%"
+    },
+    {
+      "qualification": "Matric",
+      "institution": "Govt. High School, Baghbanpur",
+      "location": "Lahore",
+      "year": "2013",
+      "result": "59%"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Urdu",
+      "level": "Native"
+    },
+    {
+      "name": "Punjabi",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Beginner"
+    }
+  ],
+  "interests": [
+    "Programming",
+    "Robotics",
+    "Social networking",
+    "Browsing"
+  ],
+  "projects": [
+    {
+      "id": "bloxstrike",
+      "title": "BloxStrike",
+      "packageId": "com.ags.cube.shooter.game",
+      "platform": "Android",
+      "category": "Action / FPS",
+      "summary": "A compact, block-styled first-person shooter built around team combat, readable arenas and weapon handling. My original implementation uses offline 5v5 matches: the player and four AI teammates face five opponents. Custom navigation, target selection and shooting connect the combat systems into a complete match.",
+      "features": [
+        "Offline 5v5 team combat",
+        "Custom AI navigation, targeting and shooting",
+        "Modular gameplay systems"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#.",
+        "Built the complete project from scratch in eight days, according to the development notes in the supplied archive.",
+        "Implemented AI bots with navigation, cover, target selection and shooting behaviours.",
+        "Prioritized the main gameplay loop rather than a separate tutorial."
+      ],
+      "featured": true,
+      "order": 1,
+      "detailPage": "project-cubeshooter.html",
+      "media": {
+        "icon": "assets/projects/bloxstrike/store-icon.png",
+        "cover": "assets/projects/bloxstrike/store-a273af5003fd.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/bloxstrike/store-a273af5003fd.png",
+            "caption": "BloxStrike — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/lz25armYIHtazC6rjchQeoBoxaoPIvOjZHJtScKs1rwvD46-88ar7gzVHNu_V-_7WILzMb6LBG60UW8i2RMC8bg=w526-h296",
+            "sha256": "65f61bd153d2fbdccdb4b489485c4ce5e6b377efb072e12bca20c0b453e80ccf",
+            "preview": "assets/projects/bloxstrike/store-a273af5003fd-preview.webp"
+          },
+          {
+            "src": "assets/projects/bloxstrike/store-2169d32b8402.png",
+            "caption": "BloxStrike — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/1yJat-2z44OMuODAYqXZdb0mayw7Lgw7N_jOy7f3itgGY8JLuVnb2up6n_Y8UrPstcRcFRA8BuAYV0o0jSMm=w526-h296",
+            "sha256": "e79b3f214199862c6bbe726b18061ec77dfcd560ced6df1a25a7fc42c8f3f3de",
+            "preview": "assets/projects/bloxstrike/store-2169d32b8402-preview.webp"
+          },
+          {
+            "src": "assets/projects/bloxstrike/store-e56b61587f2a.png",
+            "caption": "BloxStrike — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Qvailq6NEhBCuRzRAc5iIFd54gVCL9ZRnWLrpRm8oUpDXuXR5v-HsuIyULjF4DgyUAv8l8KgYtjj5Gf19B4HRg=w526-h296",
+            "sha256": "eb6680bf5f4d4802d8ecb69f43062cfc08cc7ccbddbaf540323cd691f2714ab7",
+            "preview": "assets/projects/bloxstrike/store-e56b61587f2a-preview.webp"
+          },
+          {
+            "src": "assets/projects/bloxstrike/store-1c990c5e178a.png",
+            "caption": "BloxStrike — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/67d5XBttShlea1h134W9ug9-rK33zwtkhgzBYEV1PR-byqfJA5tfpW5qLxeOUOL3mXYlISCg6p7zW8r7DB_hQw=w526-h296",
+            "sha256": "c992bce4b94a78c50f323dd93eda9504e0356ea198fd5ab259d891666a60f919",
+            "preview": "assets/projects/bloxstrike/store-1c990c5e178a-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "seeded": true,
+        "galleryComplete": true,
+        "storeScreenshotCount": 4,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/WtY-XjLmC16yqNvRcqC8biSCDpWRV837IJXrwdmiDofhoeZU25xzyyq6TaKzwDrn4pxrNtoJNM2vtnYVWcViZQ=w240-h480",
+          "https://play-lh.googleusercontent.com/1yJat-2z44OMuODAYqXZdb0mayw7Lgw7N_jOy7f3itgGY8JLuVnb2up6n_Y8UrPstcRcFRA8BuAYV0o0jSMm=w526-h296",
+          "https://play-lh.googleusercontent.com/Qvailq6NEhBCuRzRAc5iIFd54gVCL9ZRnWLrpRm8oUpDXuXR5v-HsuIyULjF4DgyUAv8l8KgYtjj5Gf19B4HRg=w526-h296",
+          "https://play-lh.googleusercontent.com/67d5XBttShlea1h134W9ug9-rK33zwtkhgzBYEV1PR-byqfJA5tfpW5qLxeOUOL3mXYlISCg6p7zW8r7DB_hQw=w526-h296",
+          "https://play-lh.googleusercontent.com/lz25armYIHtazC6rjchQeoBoxaoPIvOjZHJtScKs1rwvD46-88ar7gzVHNu_V-_7WILzMb6LBG60UW8i2RMC8bg=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/bloxstrike/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/bloxstrike/store-a273af5003fd-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ags.cube.shooter.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.ags.cube.shooter.game&hl=en&gl=us",
+        "resolvedTitle": "BloxStrike"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "confirmedDuration": "8 days",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "Custom AI opponents, weapon behaviour and team-based match flow.",
+      "builtFromScratch": true,
+      "developmentFocus": "Custom AI opponents, weapon behaviour and team-based match flow."
+    },
+    {
+      "id": "ballblast",
+      "title": "Cannon Blast Master",
+      "packageId": "com.bbs.ball.blast.game",
+      "platform": "Android",
+      "category": "Arcade / Physics",
+      "summary": "A physics-based cannon game about lining up a shot and bringing structures down. Aim, fire and knock targets apart across short stages, with obstacles that reward timing and accuracy. I built the game from scratch, including the 3D assets, with a focus on satisfying impacts and clear level objectives.",
+      "features": [
+        "Cannon aiming and firing",
+        "Physics-based target destruction",
+        "Short, accessible level-based play"
+      ],
+      "duration": "1 week",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#.",
+        "Developed the entire project from scratch in one week (five working days).",
+        "Created the 3D assets myself as well as the full game implementation."
+      ],
+      "featured": true,
+      "order": 2,
+      "detailPage": "project-ballblast.html",
+      "media": {
+        "icon": "assets/projects/ballblast/store-icon.png",
+        "cover": "assets/projects/ballblast/store-9a0d8269b2e4.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/ballblast/store-9a0d8269b2e4.png",
+            "caption": "Cannon Blast Master — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/e7N2dPdXFKfYjeq0emc9SvPvRd0bYUbalmwlAAYZ2Yqv5IruTbmyuk3FfhOoJhD4zi96oJEcG1LcNA__tHf6Bg=w526-h296",
+            "sha256": "9f65e842455e0042fd22fe2c064143c661ffc8e76706af15f9cf2b9a80846738",
+            "preview": "assets/projects/ballblast/store-9a0d8269b2e4-preview.webp"
+          },
+          {
+            "src": "assets/projects/ballblast/store-8e6619c79f49.png",
+            "caption": "Cannon Blast Master — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/VQsAgRufjO1tb1JJNHmxty9xiX55ttpLdEDpkG0QWmITzMs8edNkFLuPuy76Ly6OgkUDoRSM8C1BtgjFpRRV=w526-h296",
+            "sha256": "96906558a2912bf90a34d28d02869841c980fcc777ba251b0942c5baeeaa7895",
+            "preview": "assets/projects/ballblast/store-8e6619c79f49-preview.webp"
+          },
+          {
+            "src": "assets/projects/ballblast/store-96ae281f628e.png",
+            "caption": "Cannon Blast Master — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/aOgeRpKT4Z47e9cUQIW0X4jaD_inln8bZ7Y1J71wzg8UN7__r2lsMHqEkNxqlvQXyhisacNlmKyCJy_op5R1=w526-h296",
+            "sha256": "f2df1a879e9f4b41f2c4517f2ff0d07479670c5bbb6d5738402566adf32216c7",
+            "preview": "assets/projects/ballblast/store-96ae281f628e-preview.webp"
+          },
+          {
+            "src": "assets/projects/ballblast/store-b6b364bd955e.png",
+            "caption": "Cannon Blast Master — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/g1IWPF_oMI8JsoXmLbnxx6PzYTqMqenTzYb_q6xe_c5LYAMMKmx2Mdktu0I0UTD5KoiekAe5b1swZRPUY1Dglw=w526-h296",
+            "sha256": "615659595d2d7756aeb93d4c96352f51db99baea13c0e7f2681b12da7239b971",
+            "preview": "assets/projects/ballblast/store-b6b364bd955e-preview.webp"
+          },
+          {
+            "src": "assets/projects/ballblast/store-98a220cfc7cb.png",
+            "caption": "Cannon Blast Master — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/_2dv_4p8PVeRN192Id4ngkqFYd0eM4ZdO-T_7NitkBfXAmxFq8Ij8oGiiVtvPlwSuN-9BIYxbu7Sr_lV18paDg=w526-h296",
+            "sha256": "9e2460845b1a1075c86737006d48e788a7db58ca7feea192d8927f16e288f26d",
+            "preview": "assets/projects/ballblast/store-98a220cfc7cb-preview.webp"
+          },
+          {
+            "src": "assets/projects/ballblast/store-37607246ad3a.png",
+            "caption": "Cannon Blast Master — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/tOWpDl8yt1EKhYH_4agnWsQm3qgWf_EgsOCq68BYj-PBsQnhi-ju_aS-GBpEPKTfoSpRT7JjcG-n-ZGVy8hClbE=w526-h296",
+            "sha256": "6987b8b4009d78ab421e6202acd4a67adef3b90bbd2aa448c481dfd55df46333",
+            "preview": "assets/projects/ballblast/store-37607246ad3a-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "seeded": true,
+        "galleryComplete": true,
+        "storeScreenshotCount": 6,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/L_78bIuUFhb8xvnEJ684jDN65ZyFfze49DdJgf0QNZW8q3O0XXx48h8BTNdR7lv08iKz-4bULyPdyReHT8nzBcw=w240-h480",
+          "https://play-lh.googleusercontent.com/VQsAgRufjO1tb1JJNHmxty9xiX55ttpLdEDpkG0QWmITzMs8edNkFLuPuy76Ly6OgkUDoRSM8C1BtgjFpRRV=w526-h296",
+          "https://play-lh.googleusercontent.com/e7N2dPdXFKfYjeq0emc9SvPvRd0bYUbalmwlAAYZ2Yqv5IruTbmyuk3FfhOoJhD4zi96oJEcG1LcNA__tHf6Bg=w526-h296",
+          "https://play-lh.googleusercontent.com/g1IWPF_oMI8JsoXmLbnxx6PzYTqMqenTzYb_q6xe_c5LYAMMKmx2Mdktu0I0UTD5KoiekAe5b1swZRPUY1Dglw=w526-h296",
+          "https://play-lh.googleusercontent.com/_2dv_4p8PVeRN192Id4ngkqFYd0eM4ZdO-T_7NitkBfXAmxFq8Ij8oGiiVtvPlwSuN-9BIYxbu7Sr_lV18paDg=w526-h296",
+          "https://play-lh.googleusercontent.com/tOWpDl8yt1EKhYH_4agnWsQm3qgWf_EgsOCq68BYj-PBsQnhi-ju_aS-GBpEPKTfoSpRT7JjcG-n-ZGVy8hClbE=w526-h296",
+          "https://play-lh.googleusercontent.com/aOgeRpKT4Z47e9cUQIW0X4jaD_inln8bZ7Y1J71wzg8UN7__r2lsMHqEkNxqlvQXyhisacNlmKyCJy_op5R1=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/ballblast/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/ballblast/store-9a0d8269b2e4-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bbs.ball.blast.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.bbs.ball.blast.game&hl=en&gl=us",
+        "resolvedTitle": "Cannon Blast Master"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "alias": "Ball Blast / Royal Smash",
+      "confirmedDuration": "5 working days",
+      "durationWeeks": 1,
+      "durationEstimated": true,
+      "durationBasis": "Focused cannon controls, destructible targets and short level progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Focused cannon controls, destructible targets and short level progression."
+    },
+    {
+      "id": "thief",
+      "title": "Robbery Simulator: Thief House",
+      "packageId": "com.thief.simulator.game",
+      "platform": "Android",
+      "category": "Simulation / Stealth",
+      "summary": "A first-person theft simulation built around exploring locations, collecting valuables and completing heists. My from-scratch build includes an inventory, pickable items and a day/night cycle. These systems give the player a connected sequence of preparation, interaction and escape within the game world.",
+      "features": [
+        "First-person gameplay",
+        "Inventory and pickable objects",
+        "Day/night system",
+        "Stealth and heist objectives"
+      ],
+      "duration": "4 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#.",
+        "Implemented an inventory system, pickable items, a day/night feature and first-person gameplay."
+      ],
+      "featured": true,
+      "order": 3,
+      "detailPage": "project-thief.html",
+      "media": {
+        "icon": "assets/projects/thief/store-icon.jpg",
+        "cover": "assets/projects/thief/store-55799324d942.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/thief/store-55799324d942.jpg",
+            "caption": "Robbery Simulator: Thief House — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/e2tqtx1vGTben8jVCGlk9X7l2YVTPw4PIbZMgdF36gvPup1KcbI4zUT_U24fwBm5Yc2X7JxHrXDt0_F4PEy70w=w526-h296",
+            "sha256": "5206e36f0e532edb7694d4dc2a00a09a13cf493f916e0eac3194b10eab47e185",
+            "preview": "assets/projects/thief/store-55799324d942-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief/store-bdd623b17c7c.jpg",
+            "caption": "Robbery Simulator: Thief House — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/6IN5ohIkDxHZeMk9iiGIBBsAgWNJ7MkcdOXOwl_z0MMpFdfN-RE3so6dpaUoQfmeG6t8IueJHryEMP3-9SVjxQ=w526-h296",
+            "sha256": "e5e02f90947f6c67e2518ec21f51e5dba7fd76349e4c46d715dc436fb4d2c1ce",
+            "preview": "assets/projects/thief/store-bdd623b17c7c-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief/store-ffaa034776ca.jpg",
+            "caption": "Robbery Simulator: Thief House — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/t_dPXV0TI4l_0y5sSBdQK_b3Re4rOMc612JvQ20ZpjxQ5OuHWXg9kSViqIJcp-q_hk03fqHlkmRh-mL8IE0A=w526-h296",
+            "sha256": "02f44b77987fcfbc82d7debd1953434f02afe360af9638d7e9a18881d1d28390",
+            "preview": "assets/projects/thief/store-ffaa034776ca-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief/store-47a02ce7c934.jpg",
+            "caption": "Robbery Simulator: Thief House — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/HPG4j9zSrTzF9Wi2M7PFqGSKl7ZXkRrSsMbXA1iNVMeyaGWINWAzVS1QKP1Tk_LWFC5XmMNMpE8m_eqlkORAKQ=w526-h296",
+            "sha256": "281b6b7a1d76006872866ac683eeda8d8e1e2f8db0e593db76bf98b6e74dcb16",
+            "preview": "assets/projects/thief/store-47a02ce7c934-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief/store-6ed6cbea6d1a.jpg",
+            "caption": "Robbery Simulator: Thief House — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/8S9uZVd5zbp9DktyYBUIPt5s7w9lNkRmw5rn4K_gtERde1wRS48G9Dr_xGwB3a2lyExbidroKawVb8Gg7Y-cWKk=w526-h296",
+            "sha256": "fab0c29ac287570c965d86a570202022b26996219a0a451fbdd76e4fcc59aebe",
+            "preview": "assets/projects/thief/store-6ed6cbea6d1a-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief/store-ecaf021d1e76.jpg",
+            "caption": "Robbery Simulator: Thief House — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Qgu_IEWiQvDB4XPhOAHyEeK5Uffe9WVDUz3j_FPafHO5BHNLrwU8-X1kbnckAf8xwxg10KyHqR15tuI-n02eng=w526-h296",
+            "sha256": "327d800378406b1bed23dfd3037c961ccd7504ac829793714384b41ce68db050",
+            "preview": "assets/projects/thief/store-ecaf021d1e76-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "seeded": true,
+        "galleryComplete": true,
+        "storeScreenshotCount": 6,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/WkXaxc52gl02i2DcxBzL4C24sSTJhuIcfYNAjjJjdSZqI4ey-S-l2-7SoJY1_Cl33I5gWaYTI5saJSBaP6lY=w240-h480",
+          "https://play-lh.googleusercontent.com/6IN5ohIkDxHZeMk9iiGIBBsAgWNJ7MkcdOXOwl_z0MMpFdfN-RE3so6dpaUoQfmeG6t8IueJHryEMP3-9SVjxQ=w526-h296",
+          "https://play-lh.googleusercontent.com/HPG4j9zSrTzF9Wi2M7PFqGSKl7ZXkRrSsMbXA1iNVMeyaGWINWAzVS1QKP1Tk_LWFC5XmMNMpE8m_eqlkORAKQ=w526-h296",
+          "https://play-lh.googleusercontent.com/t_dPXV0TI4l_0y5sSBdQK_b3Re4rOMc612JvQ20ZpjxQ5OuHWXg9kSViqIJcp-q_hk03fqHlkmRh-mL8IE0A=w526-h296",
+          "https://play-lh.googleusercontent.com/e2tqtx1vGTben8jVCGlk9X7l2YVTPw4PIbZMgdF36gvPup1KcbI4zUT_U24fwBm5Yc2X7JxHrXDt0_F4PEy70w=w526-h296",
+          "https://play-lh.googleusercontent.com/8S9uZVd5zbp9DktyYBUIPt5s7w9lNkRmw5rn4K_gtERde1wRS48G9Dr_xGwB3a2lyExbidroKawVb8Gg7Y-cWKk=w526-h296",
+          "https://play-lh.googleusercontent.com/Qgu_IEWiQvDB4XPhOAHyEeK5Uffe9WVDUz3j_FPafHO5BHNLrwU8-X1kbnckAf8xwxg10KyHqR15tuI-n02eng=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/thief/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/thief/store-55799324d942-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.thief.simulator.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.thief.simulator.game&hl=en&gl=us",
+        "resolvedTitle": "Robbery Simulator: Thief House"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "alias": "Thief Simulator",
+      "confirmedDuration": "About 1 month",
+      "durationWeeks": 4,
+      "durationEstimated": true,
+      "durationBasis": "First-person movement, inventory, item interactions and day/night systems.",
+      "builtFromScratch": true,
+      "developmentFocus": "First-person movement, inventory, item interactions and day/night systems."
+    },
+    {
+      "id": "going-balls",
+      "title": "Going Ball MegaRoll",
+      "packageId": "com.my.going.balls",
+      "platform": "Android",
+      "category": "Arcade / Physics",
+      "summary": "A rolling-ball arcade game with elevated tracks, jumps and obstacles. Players balance momentum against control as they guide the ball to the finish without falling. Each route puts movement, timing and quick corrections at the centre of the experience.",
+      "features": [
+        "Rolling-ball control",
+        "Obstacle courses and jumps",
+        "Balance and route timing"
+      ],
+      "duration": "1 week",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 4,
+      "detailPage": "project-going-balls.html",
+      "media": {
+        "icon": "assets/projects/going-balls/store-icon.png",
+        "cover": "assets/projects/going-balls/store-7cdc4072afe1.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/going-balls/store-7cdc4072afe1.png",
+            "caption": "Going Ball MegaRoll — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/L0WvtA50T7rswlFNeoFl7SVAmv-hGxzCvmhL4kKFSoL6uPrD_Ux6hy516SarVv4vsyjWb42a0M2p1C7SsWiC=w526-h296",
+            "sha256": "a998794060960c21f4f8c5945fb50c4eec7701d9c56ff94c430a0d9c6282917a",
+            "preview": "assets/projects/going-balls/store-7cdc4072afe1-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-d31a48bd967f.png",
+            "caption": "Going Ball MegaRoll — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/RiAGKbNuvQYRtbgJZl5q0mU5aJMsZ608uHXVHUmdGdUKGl3jpm7jmGkPlbmTF2lW8HxmdCM7JzccYMJKQ5gBNg=w526-h296",
+            "sha256": "bb94b5347c73813b41d0a46e1de315511ac51fb1232530355ae8dcb8eb3be406",
+            "preview": "assets/projects/going-balls/store-d31a48bd967f-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-b005e4ad133c.png",
+            "caption": "Going Ball MegaRoll — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/rXGdgSThHfQ3LYfGXS6NUE-G8T2ovL1T8W7YmkcdhzDlDaS4bUNUJOHIqYck1Y5fH7yAj0u1Dt940qjTuUxbTA=w526-h296",
+            "sha256": "bea3909d207a645886e56819551b1ccb1c473509faa00fde4c7e2a3df716660e",
+            "preview": "assets/projects/going-balls/store-b005e4ad133c-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-07e29179316b.png",
+            "caption": "Going Ball MegaRoll — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/l7D1Vw4-I6hxO5YkNsOj5bPuql7LkDoakhyesUo7ujxvd0J-z0Sz2YTAeDVJXJJPqlKjUduvP6M-kZugxL_emA=w526-h296",
+            "sha256": "bfc673cd60815980b052e4d46dd4f5bc356f00b307017a01f5261c11dc9d61bc",
+            "preview": "assets/projects/going-balls/store-07e29179316b-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-612a35cbec6b.png",
+            "caption": "Going Ball MegaRoll — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/aiHgMnjkvi4CabkFt05s182jN1VV3sTQ_UDxuapnhS_j03kCBFhe0BgY3MtGaIA6iyM-Cjf2HYKsWWorQ96SfQ=w526-h296",
+            "sha256": "f3d13c2df56580a91ecd12a0db7dcd14fbbe522dfa3e60a7495686beef68d536",
+            "preview": "assets/projects/going-balls/store-612a35cbec6b-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-8e0aa42d4772.png",
+            "caption": "Going Ball MegaRoll — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/1gMgocsZ0zMSueGWYMuzAq-06dst38J-Gao6XgRlNCkdgAFklKiGzc1DZw9STDl01u2HgkOFIEZAoKWUec_e=w526-h296",
+            "sha256": "723eea029d775a8719004157b2943ff26e000c14be0d7c98bf6992d30766630f",
+            "preview": "assets/projects/going-balls/store-8e0aa42d4772-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-d9a0c4276b68.png",
+            "caption": "Going Ball MegaRoll — store gallery 7",
+            "sourceUrl": "https://play-lh.googleusercontent.com/rjqfNTiZkL03Hl9cuRNaLqqxVJnccRgSbTL4u1gRIpz4Qs2UQyro_oUQrqG4mHMT2xlPHpqy0G6vud-KeIGi=w526-h296",
+            "sha256": "eb7f3617a5a6b424728ab26235b50623ebfcda1148ded3e793a87186ea6c5dcd",
+            "preview": "assets/projects/going-balls/store-d9a0c4276b68-preview.webp"
+          },
+          {
+            "src": "assets/projects/going-balls/store-6bf6874b4027.png",
+            "caption": "Going Ball MegaRoll — store gallery 8",
+            "sourceUrl": "https://play-lh.googleusercontent.com/9rPnol07QfRwNjiBZFWe-we4pSs5V9_flgZ3LrInwF2Voqy2K57eDDT4Z2d9VWn4yb1Eie9G6D7EUHCu7TjY=w526-h296",
+            "sha256": "76191caab6d8b371616cca333df07a6c3c55e72fbc4228ecfa1e9437aab99eca",
+            "preview": "assets/projects/going-balls/store-6bf6874b4027-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/HLS5J_bwabbSxidG5q00qEiIT6zW5muame3kbeqA7ueuWDPDswqxigZpqI0VfV_5l4n8qSqsfZ5lHlKitPYf=w240-h480",
+          "https://play-lh.googleusercontent.com/rXGdgSThHfQ3LYfGXS6NUE-G8T2ovL1T8W7YmkcdhzDlDaS4bUNUJOHIqYck1Y5fH7yAj0u1Dt940qjTuUxbTA=w526-h296",
+          "https://play-lh.googleusercontent.com/L0WvtA50T7rswlFNeoFl7SVAmv-hGxzCvmhL4kKFSoL6uPrD_Ux6hy516SarVv4vsyjWb42a0M2p1C7SsWiC=w526-h296",
+          "https://play-lh.googleusercontent.com/RiAGKbNuvQYRtbgJZl5q0mU5aJMsZ608uHXVHUmdGdUKGl3jpm7jmGkPlbmTF2lW8HxmdCM7JzccYMJKQ5gBNg=w526-h296",
+          "https://play-lh.googleusercontent.com/l7D1Vw4-I6hxO5YkNsOj5bPuql7LkDoakhyesUo7ujxvd0J-z0Sz2YTAeDVJXJJPqlKjUduvP6M-kZugxL_emA=w526-h296",
+          "https://play-lh.googleusercontent.com/1gMgocsZ0zMSueGWYMuzAq-06dst38J-Gao6XgRlNCkdgAFklKiGzc1DZw9STDl01u2HgkOFIEZAoKWUec_e=w526-h296",
+          "https://play-lh.googleusercontent.com/rjqfNTiZkL03Hl9cuRNaLqqxVJnccRgSbTL4u1gRIpz4Qs2UQyro_oUQrqG4mHMT2xlPHpqy0G6vud-KeIGi=w526-h296",
+          "https://play-lh.googleusercontent.com/aiHgMnjkvi4CabkFt05s182jN1VV3sTQ_UDxuapnhS_j03kCBFhe0BgY3MtGaIA6iyM-Cjf2HYKsWWorQ96SfQ=w526-h296",
+          "https://play-lh.googleusercontent.com/9rPnol07QfRwNjiBZFWe-we4pSs5V9_flgZ3LrInwF2Voqy2K57eDDT4Z2d9VWn4yb1Eie9G6D7EUHCu7TjY=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/going-balls/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/going-balls/store-7cdc4072afe1-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.my.going.balls&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.my.going.balls&hl=en&gl=us",
+        "resolvedTitle": "Going Ball MegaRoll"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "confirmedDuration": "1 week",
+      "durationWeeks": 1,
+      "durationEstimated": true,
+      "durationBasis": "A focused rolling controller, obstacle interaction and level completion loop.",
+      "builtFromScratch": true,
+      "developmentFocus": "A focused rolling controller, obstacle interaction and level completion loop."
+    },
+    {
+      "id": "naughty-cat",
+      "title": "Naughty Cat Life Simulator 3D",
+      "packageId": "com.my.badcatsimulator2.game",
+      "platform": "Android",
+      "category": "Simulation",
+      "summary": "Play as a mischievous cat exploring a house and causing trouble with everyday objects. The game combines movement, object-based pranks and encounters with an angry granny. Its small environment gives players plenty to interact with while keeping objectives easy to understand.",
+      "features": [
+        "House exploration",
+        "Object-based pranks",
+        "Cat-and-granny interactions"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 5,
+      "detailPage": "project-naughty-cat.html",
+      "media": {
+        "icon": "assets/projects/naughty-cat/store-icon.jpg",
+        "cover": "assets/projects/naughty-cat/store-14b23f794278.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/naughty-cat/store-14b23f794278.jpg",
+            "caption": "Naughty Cat Life Simulator 3D — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/XJ_Uc5XahDvDZl_cZfWjFsOnmJ2CJArjKZhbr3Te04EOvICQ_YqwUkopyVBejZMiT-kgpAk8k_dr9WcUKX2E=w526-h296",
+            "sha256": "8567a8ea3cfe0cf9238f1059690c512269d8760192e3bcc6ac2508b0b09f2895",
+            "preview": "assets/projects/naughty-cat/store-14b23f794278-preview.webp"
+          },
+          {
+            "src": "assets/projects/naughty-cat/store-b8fac65367e3.jpg",
+            "caption": "Naughty Cat Life Simulator 3D — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/XGSQK0PcfCX5a4cUnqzpVoiK_kR6BzR200OXFfMBE2Aw5Hu1PvaFAYB6H8jLABCSU_VYTdSHExdUi4ytxBt9bA=w526-h296",
+            "sha256": "a81d3204ce855d07d7dda334040d207b10074e34f36f5e057898419a39d6de67",
+            "preview": "assets/projects/naughty-cat/store-b8fac65367e3-preview.webp"
+          },
+          {
+            "src": "assets/projects/naughty-cat/store-4cf7257ba9e2.jpg",
+            "caption": "Naughty Cat Life Simulator 3D — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/6gAy3hqWMDIaV-b79xywLVISFv2rnOKhGqaZd5PYclMyOs8P4TlouMUo0EpjN0BKUKSXOwEydPU_BO5Z4RD5E0E=w526-h296",
+            "sha256": "1c8642f62c6bdfad01299892cda5044a78936a456c3ae4d24d4b1de47bf270b6",
+            "preview": "assets/projects/naughty-cat/store-4cf7257ba9e2-preview.webp"
+          },
+          {
+            "src": "assets/projects/naughty-cat/store-62999c91ea47.jpg",
+            "caption": "Naughty Cat Life Simulator 3D — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/InecwJmxcSRce76u6I4Pe5MS3PwSM8-rHvamblxgXL7OZwXR6iUc__hf6Wmg1A4d4eeN70B7wSJSLMtKIAYcNA=w526-h296",
+            "sha256": "c7e9c04b5f8f78875ff7e221a9c255626f0dfdf47fb0947d7a152dafacb93cfa",
+            "preview": "assets/projects/naughty-cat/store-62999c91ea47-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 4,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/sZJWIq0nEG83aYuC0u7MsCOrRXWDZbPTF7tv5yY6z40NQQp9c1BhJ1A9wMWEWsnt8fsumyKa7BqLC0s00jWXc9s=w240-h480",
+          "https://play-lh.googleusercontent.com/XJ_Uc5XahDvDZl_cZfWjFsOnmJ2CJArjKZhbr3Te04EOvICQ_YqwUkopyVBejZMiT-kgpAk8k_dr9WcUKX2E=w526-h296",
+          "https://play-lh.googleusercontent.com/XGSQK0PcfCX5a4cUnqzpVoiK_kR6BzR200OXFfMBE2Aw5Hu1PvaFAYB6H8jLABCSU_VYTdSHExdUi4ytxBt9bA=w526-h296",
+          "https://play-lh.googleusercontent.com/6gAy3hqWMDIaV-b79xywLVISFv2rnOKhGqaZd5PYclMyOs8P4TlouMUo0EpjN0BKUKSXOwEydPU_BO5Z4RD5E0E=w526-h296",
+          "https://play-lh.googleusercontent.com/InecwJmxcSRce76u6I4Pe5MS3PwSM8-rHvamblxgXL7OZwXR6iUc__hf6Wmg1A4d4eeN70B7wSJSLMtKIAYcNA=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/naughty-cat/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/naughty-cat/store-14b23f794278-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.my.badcatsimulator2.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.my.badcatsimulator2.game&hl=en&gl=us",
+        "resolvedTitle": "Naughty Cat Life Simulator 3D"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "House exploration, interactive objects and character encounters.",
+      "builtFromScratch": true,
+      "developmentFocus": "House exploration, interactive objects and character encounters."
+    },
+    {
+      "id": "gold-mining",
+      "title": "Gold Mining : Digging Hole Sim",
+      "packageId": "com.digging.simulator.game",
+      "platform": "Android",
+      "category": "Simulation",
+      "summary": "A digging simulation about uncovering resources and improving the tools that help you explore. Collect valuable materials, sell what you find and invest the proceeds in better equipment. The collection-and-upgrade loop gives each trip below the surface a clear purpose.",
+      "features": [
+        "Digging and resource collection",
+        "Selling discovered materials",
+        "Equipment progression"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 6,
+      "detailPage": "project-gold-mining.html",
+      "media": {
+        "icon": "assets/projects/gold-mining/store-icon.png",
+        "cover": "assets/projects/gold-mining/store-5622a46a0cbf.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/gold-mining/store-5622a46a0cbf.png",
+            "caption": "Gold Mining : Digging Hole Sim — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/NH3sVU_p9lrZDtJOurffW8Jh8JQKou1KwY4RWQsS2EHR6naXMW-YeKo502lyIRZ_nRsRsTQEWNslGrGQGF0h=w526-h296",
+            "sha256": "c185373195ec776e9e1cbf31a70432e3ebc24982df7349f0cc23d01972a0ddbf",
+            "preview": "assets/projects/gold-mining/store-5622a46a0cbf-preview.webp"
+          },
+          {
+            "src": "assets/projects/gold-mining/store-106663c9d700.png",
+            "caption": "Gold Mining : Digging Hole Sim — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/7E26FEVWDnZ-vJ-Nj6Fy_TGwbhXjj_SV1lW9VvOXikyIl4mGKhAzMinCBc7D427sU3ETP_K0WBsHAQh9pRZGNw=w526-h296",
+            "sha256": "9909278b9b426fcb0adf202af50404d5b390fb7a5ade5597859c48dab9b96fe9",
+            "preview": "assets/projects/gold-mining/store-106663c9d700-preview.webp"
+          },
+          {
+            "src": "assets/projects/gold-mining/store-b02c49687911.png",
+            "caption": "Gold Mining : Digging Hole Sim — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/QMiK6VIt_u-DFRbc4IN2T4MgUNrb29AW_VSKm7W2di9V_Tf1gHmvwkR2RWbYo8G34DBuIUQdGZGXFPkf4uFd7A=w526-h296",
+            "sha256": "d619bbdf1f78108be9db1ec1d496cb3641f3b5f071b9c1ddc3955b65ff1f2ac6",
+            "preview": "assets/projects/gold-mining/store-b02c49687911-preview.webp"
+          },
+          {
+            "src": "assets/projects/gold-mining/store-177df6f58256.png",
+            "caption": "Gold Mining : Digging Hole Sim — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/H00Bz9V1OzhfHfo9GoKdSaPWhV_NBO7OuMQGPK1papJfeo7t8aibsDSe-f-4rRY_0FoGPqLcR6Rq4HYd6b2vXQ=w526-h296",
+            "sha256": "c23556c32a2e48671fd0542103db52e3e0101ba848f5bac2a757f44b2dc75259",
+            "preview": "assets/projects/gold-mining/store-177df6f58256-preview.webp"
+          },
+          {
+            "src": "assets/projects/gold-mining/store-31463284a105.png",
+            "caption": "Gold Mining : Digging Hole Sim — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/iXqrRRm1P5x0Hc2ylnVhU3yUpnMZ_xQW7kML1QG_MNFbEjFmGXxrlEznJ_6Og96HfE2ZFkA3BpvvyKaxGi7EBdc=w526-h296",
+            "sha256": "0267684d86419cfd0366c56cef3d82b899dfa94381bffd06d9e666a4a737e123",
+            "preview": "assets/projects/gold-mining/store-31463284a105-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 5,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/RBwo2fuibTdzUXK-bsBzy5ci96QGapLORL1mBY3FclmTSU5TiolFuq2Q1L6-nhM8nAT8Ph3a-BhG_f1cQIIC=w240-h480",
+          "https://play-lh.googleusercontent.com/7E26FEVWDnZ-vJ-Nj6Fy_TGwbhXjj_SV1lW9VvOXikyIl4mGKhAzMinCBc7D427sU3ETP_K0WBsHAQh9pRZGNw=w526-h296",
+          "https://play-lh.googleusercontent.com/NH3sVU_p9lrZDtJOurffW8Jh8JQKou1KwY4RWQsS2EHR6naXMW-YeKo502lyIRZ_nRsRsTQEWNslGrGQGF0h=w526-h296",
+          "https://play-lh.googleusercontent.com/QMiK6VIt_u-DFRbc4IN2T4MgUNrb29AW_VSKm7W2di9V_Tf1gHmvwkR2RWbYo8G34DBuIUQdGZGXFPkf4uFd7A=w526-h296",
+          "https://play-lh.googleusercontent.com/H00Bz9V1OzhfHfo9GoKdSaPWhV_NBO7OuMQGPK1papJfeo7t8aibsDSe-f-4rRY_0FoGPqLcR6Rq4HYd6b2vXQ=w526-h296",
+          "https://play-lh.googleusercontent.com/iXqrRRm1P5x0Hc2ylnVhU3yUpnMZ_xQW7kML1QG_MNFbEjFmGXxrlEznJ_6Og96HfE2ZFkA3BpvvyKaxGi7EBdc=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/gold-mining/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/gold-mining/store-5622a46a0cbf-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.digging.simulator.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.digging.simulator.game&hl=en&gl=us",
+        "resolvedTitle": "Gold Mining : Digging Hole Sim"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "Resource collection, selling and equipment progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Resource collection, selling and equipment progression."
+    },
+    {
+      "id": "mahjong",
+      "title": "Mahjong Tile Match: Solitaire",
+      "packageId": "com.fgz.mahjong.club.solitaire.triple.tile.match",
+      "platform": "Android",
+      "category": "Puzzle",
+      "summary": "A tile-matching puzzle game built around clearing arranged boards by finding identical pairs. Players scan the layout, choose matches and progress to new challenges. Helpful tools support difficult puzzles while the board remains the focus of the interaction.",
+      "features": [
+        "Tile-pair matching",
+        "Board-clearing puzzles",
+        "Helpful boosters"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 7,
+      "detailPage": "project-mahjong.html",
+      "media": {
+        "icon": "assets/projects/mahjong/store-icon.png",
+        "cover": "assets/projects/mahjong/store-6c9c44001efb.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/mahjong/store-6c9c44001efb.png",
+            "caption": "Mahjong Tile Match: Solitaire — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/X208y553QullA_idcDy6alpOLL1uDp-5S24x6ckKA6c62qpofgTmPWVfl3NR4rEfrff0nNw4tzIEl2Rek9mRGyI=w526-h296",
+            "sha256": "38d3423c3b91759cf307d2fd964815acfdb0889574d7764a89f21e9d443ca5b1",
+            "preview": "assets/projects/mahjong/store-6c9c44001efb-preview.webp"
+          },
+          {
+            "src": "assets/projects/mahjong/store-916e9122b897.png",
+            "caption": "Mahjong Tile Match: Solitaire — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/nog8fT52fTGC_5Wa4yLcqrv5Vo9S8LJPEw5Mp9ULu31wNv48n-RjH1Z0EwzJwABkipyU0C0bAaof4IIbLXXB=w526-h296",
+            "sha256": "d380df4cca43721b19108f2c06a99b6ac14e758a8421ca186f088582136b5f6a",
+            "preview": "assets/projects/mahjong/store-916e9122b897-preview.webp"
+          },
+          {
+            "src": "assets/projects/mahjong/store-088fcfe2dd5d.png",
+            "caption": "Mahjong Tile Match: Solitaire — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Q0xmaIRJkNBsNz8JJ1c76-qBXNKrEEkGx6i9IKaXBaUbdQig_PXzkAxcwfxzuELNNKLzSKYRp9-utr3QnWi9ts0=w526-h296",
+            "sha256": "b347e741be02453ba9661c46fa43003e0f10e9d0686092d6ff8f072409f4ecf7",
+            "preview": "assets/projects/mahjong/store-088fcfe2dd5d-preview.webp"
+          },
+          {
+            "src": "assets/projects/mahjong/store-0afc2b8eae49.png",
+            "caption": "Mahjong Tile Match: Solitaire — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/fnOd3mEPUb0UTBa13qB6P7BpfgYzwdPLRM3Ped460Uj_ZXyTW8_-wgdNOyHw7DLQxve6Dq-KV48PWYSOwsxK6A=w526-h296",
+            "sha256": "6209ea01b0bbc5d9fc396cc219dd8af62764be15c10cf4345fbc7bc4455fda16",
+            "preview": "assets/projects/mahjong/store-0afc2b8eae49-preview.webp"
+          },
+          {
+            "src": "assets/projects/mahjong/store-88c74bf041cc.png",
+            "caption": "Mahjong Tile Match: Solitaire — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/YqCGdeBtW58SYZLHhHgcH5Xb5Q0WkfFgOCflhyKGVMEPP4s-q7mlDTQKtjVybRnwUv-1NV_D0D8bIqJO3JYKYg=w526-h296",
+            "sha256": "488232ba9d5098d7607cb42fdf452dcd40535832173559cac0a971d6936d4f40",
+            "preview": "assets/projects/mahjong/store-88c74bf041cc-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 5,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/NvckPhMI2rzKG4uBS3r_2d7kfqa4TF7_ZJtyrQnA0TRyYDDhk1RHAkC4yeGW1EASJxBz0jcEzFrcHxdRiHbmnVs=w240-h480",
+          "https://play-lh.googleusercontent.com/X208y553QullA_idcDy6alpOLL1uDp-5S24x6ckKA6c62qpofgTmPWVfl3NR4rEfrff0nNw4tzIEl2Rek9mRGyI=w526-h296",
+          "https://play-lh.googleusercontent.com/Q0xmaIRJkNBsNz8JJ1c76-qBXNKrEEkGx6i9IKaXBaUbdQig_PXzkAxcwfxzuELNNKLzSKYRp9-utr3QnWi9ts0=w526-h296",
+          "https://play-lh.googleusercontent.com/fnOd3mEPUb0UTBa13qB6P7BpfgYzwdPLRM3Ped460Uj_ZXyTW8_-wgdNOyHw7DLQxve6Dq-KV48PWYSOwsxK6A=w526-h296",
+          "https://play-lh.googleusercontent.com/YqCGdeBtW58SYZLHhHgcH5Xb5Q0WkfFgOCflhyKGVMEPP4s-q7mlDTQKtjVybRnwUv-1NV_D0D8bIqJO3JYKYg=w526-h296",
+          "https://play-lh.googleusercontent.com/nog8fT52fTGC_5Wa4yLcqrv5Vo9S8LJPEw5Mp9ULu31wNv48n-RjH1Z0EwzJwABkipyU0C0bAaof4IIbLXXB=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/mahjong/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/mahjong/store-6c9c44001efb-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fgz.mahjong.club.solitaire.triple.tile.match&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.fgz.mahjong.club.solitaire.triple.tile.match&hl=en&gl=us",
+        "resolvedTitle": "Mahjong Tile Match: Solitaire"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "Tile selection, pair matching, board state and puzzle progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Tile selection, pair matching, board state and puzzle progression."
+    },
+    {
+      "id": "card-sort",
+      "title": "Card Sort Puzzle Shuffle Sort",
+      "packageId": "com.fgz.card.sort.match.puzzle",
+      "platform": "Android",
+      "category": "Puzzle",
+      "summary": "A card-sorting puzzle that combines colour, number and merge rules. Move matching cards between decks, combine them for rewards and unlock further cards as the collection grows. Simple actions create a longer planning challenge as more colours and numbers enter play.",
+      "features": [
+        "Color and number sorting",
+        "Matching and merging cards",
+        "Deck progression"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 8,
+      "detailPage": "project-card-sort.html",
+      "media": {
+        "icon": "assets/projects/card-sort/store-icon.png",
+        "cover": "assets/projects/card-sort/store-0af034eabc10.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/card-sort/store-0af034eabc10.png",
+            "caption": "Card Sort Puzzle Shuffle Sort — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/ddlNX2_ybsGBHmra2HAIZgMqZ7ggVAN2iV563PVq_Lq9zVUzXVyd81DMtHC0Kt7byCTIEYCYR4zioEBCt7YY=w526-h296",
+            "sha256": "233778654fab6fb24eb305d24b03a722ac1dabb8eed62f94733b611d73710015",
+            "preview": "assets/projects/card-sort/store-0af034eabc10-preview.webp"
+          },
+          {
+            "src": "assets/projects/card-sort/store-72ba0fed8ee8.png",
+            "caption": "Card Sort Puzzle Shuffle Sort — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/0aLcm2psuy57e_2G9SgpiJlxAaknEK2WlDWI53UfFLj_Sa7bOGChQ-_IPHIs5oIryF5dAXhOWfDl2DMYxXYVIJ8=w526-h296",
+            "sha256": "b4033f9779a09be6f9b9f95cfc48eee3a95c5b9840c2e19a0040b066adcc631a",
+            "preview": "assets/projects/card-sort/store-72ba0fed8ee8-preview.webp"
+          },
+          {
+            "src": "assets/projects/card-sort/store-6ee4e53d1d94.png",
+            "caption": "Card Sort Puzzle Shuffle Sort — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/em7cguo0NSLtiA76SYmqDsoK6ce9r1A2SkICTOaW18GeGmRwvdXSSmuXmsJ1M-HhCJnEUlXsDxXfK8FzrrdD=w526-h296",
+            "sha256": "2ef97b684863b7930ce9e07e5b6f52aed5cd8ceff432d03f40cd8f3f868bf35a",
+            "preview": "assets/projects/card-sort/store-6ee4e53d1d94-preview.webp"
+          },
+          {
+            "src": "assets/projects/card-sort/store-148817b10db7.png",
+            "caption": "Card Sort Puzzle Shuffle Sort — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/4MVAGd7Q0LP1B5gwkzcl4HvJvxy09eu7IiB3rUYC7El8STf-AMAU9r56cq7tf-YN64dlqP4zxOLNm5SCFarosA=w526-h296",
+            "sha256": "a4528e98d52e466652ba565debaed0242c3aa5f573b0a39e76f8b13e55899151",
+            "preview": "assets/projects/card-sort/store-148817b10db7-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 4,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/p4YdkphbOSb5YgCLvg2S_wEPE_XXZVnVJ2Wg49A9QYpWAwRUkxXBmm4Ghouw1vshHIKdzEtgJsz_qkN7UA3r=w240-h480",
+          "https://play-lh.googleusercontent.com/ddlNX2_ybsGBHmra2HAIZgMqZ7ggVAN2iV563PVq_Lq9zVUzXVyd81DMtHC0Kt7byCTIEYCYR4zioEBCt7YY=w526-h296",
+          "https://play-lh.googleusercontent.com/em7cguo0NSLtiA76SYmqDsoK6ce9r1A2SkICTOaW18GeGmRwvdXSSmuXmsJ1M-HhCJnEUlXsDxXfK8FzrrdD=w526-h296",
+          "https://play-lh.googleusercontent.com/4MVAGd7Q0LP1B5gwkzcl4HvJvxy09eu7IiB3rUYC7El8STf-AMAU9r56cq7tf-YN64dlqP4zxOLNm5SCFarosA=w526-h296",
+          "https://play-lh.googleusercontent.com/0aLcm2psuy57e_2G9SgpiJlxAaknEK2WlDWI53UfFLj_Sa7bOGChQ-_IPHIs5oIryF5dAXhOWfDl2DMYxXYVIJ8=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/card-sort/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/card-sort/store-0af034eabc10-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fgz.card.sort.match.puzzle&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.fgz.card.sort.match.puzzle&hl=en&gl=us",
+        "resolvedTitle": "Card Sort Puzzle Shuffle Sort"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "Card movement, matching rules, merging and deck progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Card movement, matching rules, merging and deck progression."
+    },
+    {
+      "id": "triple-tile",
+      "title": "Triple Tile 3D: Match Puzzle",
+      "packageId": "com.fgz.triple.tile.match.pair.three.master",
+      "platform": "Android",
+      "category": "Puzzle",
+      "summary": "A three-of-a-kind puzzle with a limited collection tray. Players choose tiles from the board and clear matching triples before the tray fills with unmatched pieces. Hints, shuffle and undo provide ways to recover while preserving the need to plan each selection.",
+      "features": [
+        "Triple-tile matching",
+        "Limited collection tray",
+        "Hint, undo and shuffle tools"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 9,
+      "detailPage": "project-triple-tile.html",
+      "media": {
+        "icon": "assets/projects/triple-tile/store-icon.png",
+        "cover": "assets/projects/triple-tile/store-a1b7089382fe.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/triple-tile/store-a1b7089382fe.png",
+            "caption": "Triple Tile 3D: Match Puzzle — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/LQDIm8ND320iijhSZQths-emgx4_8w2GQA0ZCURHJsHsaMOIOhJkh4-p5xMdfRuc5GVdtCY7dmXCNAX-U2im2Q=w526-h296",
+            "sha256": "1e39754327ce666badbcbeefbbd8ac3fb25eaa754dd83583d72d89af00af5399",
+            "preview": "assets/projects/triple-tile/store-a1b7089382fe-preview.webp"
+          },
+          {
+            "src": "assets/projects/triple-tile/store-72be6425a16d.png",
+            "caption": "Triple Tile 3D: Match Puzzle — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/qbKCVWyEk4F4s-ocIKmozEAnINvbmzOJap3nqL9OumR2G605ZEklYJuxmDhKUTiyHQzhFYNVVwqjyntz8oNWRw=w526-h296",
+            "sha256": "0aeb13809e0b70c819553a3ebc283b1e7f9897245b61e726921193eecee8467b",
+            "preview": "assets/projects/triple-tile/store-72be6425a16d-preview.webp"
+          },
+          {
+            "src": "assets/projects/triple-tile/store-ba1fdf6154ce.png",
+            "caption": "Triple Tile 3D: Match Puzzle — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/5jn93u8MwgR_hIIfmAZMdqN3l9nsa2OE7jz1MTdXToOb0VF-RlxTSgr-3F5vTc-VAlR-nc_gi4qunxuxXPenFQ=w526-h296",
+            "sha256": "12429f70daf69e1d963d2d303655c3ad8f5cdf40a095bc1504d7f406e6d21887",
+            "preview": "assets/projects/triple-tile/store-ba1fdf6154ce-preview.webp"
+          },
+          {
+            "src": "assets/projects/triple-tile/store-99c99c620df0.png",
+            "caption": "Triple Tile 3D: Match Puzzle — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/3l3bwg56SlVZbZT6vQBQF7Mx3XN2btCjeMNk0QI6uS5rCHe2bQu92SS6hJZEn-Lx-r78ANLZQ2vpU1zvLk3e=w526-h296",
+            "sha256": "19f03c53c81bc591dff8ea5a7f88de59fc49b50580a238d36baebf18812e122b",
+            "preview": "assets/projects/triple-tile/store-99c99c620df0-preview.webp"
+          },
+          {
+            "src": "assets/projects/triple-tile/store-7166b54f4cad.png",
+            "caption": "Triple Tile 3D: Match Puzzle — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/dOpfzkfX7OZ0ysYB5dRZ1g3oN0E_XD9PX0xkHn4Ji9oXw_p6OU-Ogh-qpkaYBiiotcAuG6aqVDyYtebHwHpI=w526-h296",
+            "sha256": "1f5aeb4dba4c366846a37474040725d212e93aeb6ca2783d492e3f9808e7242f",
+            "preview": "assets/projects/triple-tile/store-7166b54f4cad-preview.webp"
+          },
+          {
+            "src": "assets/projects/triple-tile/store-92572e80c8d9.png",
+            "caption": "Triple Tile 3D: Match Puzzle — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/ltt_GTKHmHwa3a60WPzRc9rxTDvczfvsvRAq-XSck3bWLIRYVIujQD2T1XCX6d_yG5VAlO7lWjvQAhvu6sVmiA=w526-h296",
+            "sha256": "8022bcb24bc1ba513ee28e54d4c3aec43b9068f14c3cf2fcd3b49e04462fcb69",
+            "preview": "assets/projects/triple-tile/store-92572e80c8d9-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 6,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/zEWR5e-tFBT4cWE_g2rNMLqe2g9zQiC-HGruSO1aoL-9j-294EBHb-iTDiQf8q4Mg1gf56gHs7cxRA7wEGoWCw=w240-h480",
+          "https://play-lh.googleusercontent.com/qbKCVWyEk4F4s-ocIKmozEAnINvbmzOJap3nqL9OumR2G605ZEklYJuxmDhKUTiyHQzhFYNVVwqjyntz8oNWRw=w526-h296",
+          "https://play-lh.googleusercontent.com/LQDIm8ND320iijhSZQths-emgx4_8w2GQA0ZCURHJsHsaMOIOhJkh4-p5xMdfRuc5GVdtCY7dmXCNAX-U2im2Q=w526-h296",
+          "https://play-lh.googleusercontent.com/5jn93u8MwgR_hIIfmAZMdqN3l9nsa2OE7jz1MTdXToOb0VF-RlxTSgr-3F5vTc-VAlR-nc_gi4qunxuxXPenFQ=w526-h296",
+          "https://play-lh.googleusercontent.com/3l3bwg56SlVZbZT6vQBQF7Mx3XN2btCjeMNk0QI6uS5rCHe2bQu92SS6hJZEn-Lx-r78ANLZQ2vpU1zvLk3e=w526-h296",
+          "https://play-lh.googleusercontent.com/dOpfzkfX7OZ0ysYB5dRZ1g3oN0E_XD9PX0xkHn4Ji9oXw_p6OU-Ogh-qpkaYBiiotcAuG6aqVDyYtebHwHpI=w526-h296",
+          "https://play-lh.googleusercontent.com/ltt_GTKHmHwa3a60WPzRc9rxTDvczfvsvRAq-XSck3bWLIRYVIujQD2T1XCX6d_yG5VAlO7lWjvQAhvu6sVmiA=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/triple-tile/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/triple-tile/store-a1b7089382fe-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fgz.triple.tile.match.pair.three.master&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.fgz.triple.tile.match.pair.three.master&hl=en&gl=us",
+        "resolvedTitle": "Triple Tile 3D: Match Puzzle"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "Tile and tray state, triple matching, undo, hints and shuffle.",
+      "builtFromScratch": true,
+      "developmentFocus": "Tile and tray state, triple matching, undo, hints and shuffle."
+    },
+    {
+      "id": "hospital",
+      "title": "Hospital Simulator Doctor Game",
+      "packageId": "com.my.perfect.hospital.idle.game",
+      "platform": "Android",
+      "category": "Management",
+      "summary": "A hospital management game that starts with a small clinic and expands through staff, equipment and facility upgrades. Admit patients, organise treatment and invest in the services needed to handle a growing workload. Patient flow and business progression connect the individual tasks.",
+      "features": [
+        "Patient flow",
+        "Staff and facility management",
+        "Hospital expansion"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 10,
+      "detailPage": "project-hospital.html",
+      "media": {
+        "icon": "assets/projects/hospital/store-icon.png",
+        "cover": "assets/projects/hospital/store-f7d4b44d8f86.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/hospital/store-f7d4b44d8f86.png",
+            "caption": "Hospital Simulator Doctor Game — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/BafEdl9wR_GSeuBxr7BWqVrA8FiTE56Z2cZKb7RJRSzDgAdHLhforRGueesuerOs6h_r0pxCcg_9pPLJ8sjQEw=w526-h296",
+            "sha256": "eda17796487b186fd9003135e63fd5dd07114e987fd91e08573d7af16ae8b34b",
+            "preview": "assets/projects/hospital/store-f7d4b44d8f86-preview.webp"
+          },
+          {
+            "src": "assets/projects/hospital/store-b2fc97e067a9.png",
+            "caption": "Hospital Simulator Doctor Game — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/aHrpmSkfmVkogUWo-strHZlAWFq8sseGsHGVOOnfvpmXVal1g2YVoeObtpTq2sAY6wi9Vn1VK_6J0XMyxb-K=w526-h296",
+            "sha256": "f8901badaf8c365b027661c687d571dfe8e3aee5f074e50abd1876044cfe9844",
+            "preview": "assets/projects/hospital/store-b2fc97e067a9-preview.webp"
+          },
+          {
+            "src": "assets/projects/hospital/store-31a66ad88e74.png",
+            "caption": "Hospital Simulator Doctor Game — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/uNzYAol0lkX_pKZ9NgpWS76oeeRge-QQTH7lpWm18XOyaFyYGRnl8wNfOO26da8oEO2eCEZoPn4pDoG0AprhaQ=w526-h296",
+            "sha256": "0a787298c4310f3f5d1c7ec926d4ef941a68204eec9305df8f7b2310d391a28a",
+            "preview": "assets/projects/hospital/store-31a66ad88e74-preview.webp"
+          },
+          {
+            "src": "assets/projects/hospital/store-f8b308744305.jpg",
+            "caption": "Hospital Simulator Doctor Game — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/qkcg0yNQflaOycg_qzPOmYr7J53O8DwkYRjEwc00jBzhABbSBMu7I0VoC7aeYOLoJbzivxmruU3UVSGcl_ULPQ=w526-h296",
+            "sha256": "756f9c64ea86fa3fbb147983dd21c09b44c9e2be17dcc88030c2548d457b8af0",
+            "preview": "assets/projects/hospital/store-f8b308744305-preview.webp"
+          },
+          {
+            "src": "assets/projects/hospital/store-131b3ac51fb5.jpg",
+            "caption": "Hospital Simulator Doctor Game — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/3Oohv7ymTTc-3Vc4hBafCAIQC8DExetnh4w807KaVBxtjfleO5O31i8QCVNrctzNq_vxFBZhyq-Zo6CCTGSvpA=w526-h296",
+            "sha256": "e3218ef1eb33a990e65005ef46a2f83fab51c93b11f16e95b0599813e3bcd554",
+            "preview": "assets/projects/hospital/store-131b3ac51fb5-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 5,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/k-2Cl2rO65Nt_8fLKS59FxTXAi6NWr_BOTrJdKfnw2aobB7Wf53n2C2Wtdkdg9BQLlZtn_ePacgMEsxd1Urygr4=w240-h480",
+          "https://play-lh.googleusercontent.com/BafEdl9wR_GSeuBxr7BWqVrA8FiTE56Z2cZKb7RJRSzDgAdHLhforRGueesuerOs6h_r0pxCcg_9pPLJ8sjQEw=w526-h296",
+          "https://play-lh.googleusercontent.com/qkcg0yNQflaOycg_qzPOmYr7J53O8DwkYRjEwc00jBzhABbSBMu7I0VoC7aeYOLoJbzivxmruU3UVSGcl_ULPQ=w526-h296",
+          "https://play-lh.googleusercontent.com/aHrpmSkfmVkogUWo-strHZlAWFq8sseGsHGVOOnfvpmXVal1g2YVoeObtpTq2sAY6wi9Vn1VK_6J0XMyxb-K=w526-h296",
+          "https://play-lh.googleusercontent.com/uNzYAol0lkX_pKZ9NgpWS76oeeRge-QQTH7lpWm18XOyaFyYGRnl8wNfOO26da8oEO2eCEZoPn4pDoG0AprhaQ=w526-h296",
+          "https://play-lh.googleusercontent.com/3Oohv7ymTTc-3Vc4hBafCAIQC8DExetnh4w807KaVBxtjfleO5O31i8QCVNrctzNq_vxFBZhyq-Zo6CCTGSvpA=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/hospital/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/hospital/store-f7d4b44d8f86-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.my.perfect.hospital.idle.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.my.perfect.hospital.idle.game&hl=en&gl=us",
+        "resolvedTitle": "Hospital Simulator Doctor Game"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Patient flow, staff management and facility expansion.",
+      "builtFromScratch": true,
+      "developmentFocus": "Patient flow, staff management and facility expansion."
+    },
+    {
+      "id": "keyboard-escape",
+      "title": "+1 Speed Keyboard Escape",
+      "packageId": "com.cgs.keyboard.escape.run.game",
+      "platform": "Android",
+      "category": "Arcade / Platformer",
+      "summary": "An obstacle-course platformer set across a giant keyboard. Run and jump between keys, avoid traps and cross moving obstacles to reach the finish. The oversized setting makes the route immediately recognisable while timing and movement provide the challenge.",
+      "features": [
+        "Keyboard-themed parkour",
+        "Jumping and obstacle avoidance",
+        "Platform challenges"
+      ],
+      "duration": "1 week",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 11,
+      "detailPage": "project-keyboard-escape.html",
+      "media": {
+        "icon": "assets/projects/keyboard-escape/store-icon.png",
+        "cover": "assets/projects/keyboard-escape/store-9639f6f1332d.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/keyboard-escape/store-9639f6f1332d.png",
+            "caption": "+1 Speed Keyboard Escape — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/8XsTHU_duMfMWYZA5oLXiqtuqZSFjTa933_jiNPfbYsKuFyzJDOZ9IWMr9NPlp80R3lkvQbGljj7ARHhi15V1Q=w526-h296",
+            "sha256": "026d11c660197f98b2c43b11f74476408bcc0d439b99898e935048786afabd92",
+            "preview": "assets/projects/keyboard-escape/store-9639f6f1332d-preview.webp"
+          },
+          {
+            "src": "assets/projects/keyboard-escape/store-0e291c76440b.png",
+            "caption": "+1 Speed Keyboard Escape — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/TidMl979BpivAe85_Vp2qlWov8PIBOqIJ1MReoiQ-B18TifObOhK2goWNz8U_E2ryaSoHIEoOGl_Tuv5SpiA=w526-h296",
+            "sha256": "aed15c709cb6fbf94a727834a39a12d6aefe9697be6ce23de5e79b4e2924bcb3",
+            "preview": "assets/projects/keyboard-escape/store-0e291c76440b-preview.webp"
+          },
+          {
+            "src": "assets/projects/keyboard-escape/store-f7c621fced4b.png",
+            "caption": "+1 Speed Keyboard Escape — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/bW_-Wi4miYRjz-riJqG3qeGZPaChdl595nQcWMhJFpiTCqsVd3v4qDv3WCRm1aMP39dFUsICjJfaa0pf_aWY9P8=w526-h296",
+            "sha256": "80910ea0f9e17a923b7b54da6cacf69cd9b9d87f16f20b6822f7a9708b16ff5c",
+            "preview": "assets/projects/keyboard-escape/store-f7c621fced4b-preview.webp"
+          },
+          {
+            "src": "assets/projects/keyboard-escape/store-12ae5dc530b1.png",
+            "caption": "+1 Speed Keyboard Escape — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/2ePqIYNqIDf5DQkMMTuzfAtcPY7DCui2pqJyHiqfHTqR0IkTjQqMdEfylGPYf6-bVkermQXIyK2KUUnM_NCmTr4=w526-h296",
+            "sha256": "f98776f17a35784acd26d8ac8885172cb9fa709bc5a7e99e1b8ccf26297d3fec",
+            "preview": "assets/projects/keyboard-escape/store-12ae5dc530b1-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 4,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/pRXfNq9y8b93FIIy1xDnG8kIjUnHC6EkY0AgUukIeq4zeWc9JEi96EAlde7RemJR-yioE2QpjT-aQHmSBvNEsvI=w240-h480",
+          "https://play-lh.googleusercontent.com/8XsTHU_duMfMWYZA5oLXiqtuqZSFjTa933_jiNPfbYsKuFyzJDOZ9IWMr9NPlp80R3lkvQbGljj7ARHhi15V1Q=w526-h296",
+          "https://play-lh.googleusercontent.com/2ePqIYNqIDf5DQkMMTuzfAtcPY7DCui2pqJyHiqfHTqR0IkTjQqMdEfylGPYf6-bVkermQXIyK2KUUnM_NCmTr4=w526-h296",
+          "https://play-lh.googleusercontent.com/bW_-Wi4miYRjz-riJqG3qeGZPaChdl595nQcWMhJFpiTCqsVd3v4qDv3WCRm1aMP39dFUsICjJfaa0pf_aWY9P8=w526-h296",
+          "https://play-lh.googleusercontent.com/TidMl979BpivAe85_Vp2qlWov8PIBOqIJ1MReoiQ-B18TifObOhK2goWNz8U_E2ryaSoHIEoOGl_Tuv5SpiA=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/keyboard-escape/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/keyboard-escape/store-9639f6f1332d-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.cgs.keyboard.escape.run.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.cgs.keyboard.escape.run.game&hl=en&gl=us",
+        "resolvedTitle": "+1 Speed Keyboard Escape"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 1,
+      "durationEstimated": true,
+      "durationBasis": "Character movement, jumping, obstacles and finish conditions.",
+      "builtFromScratch": true,
+      "developmentFocus": "Character movement, jumping, obstacles and finish conditions."
+    },
+    {
+      "id": "punch-master",
+      "title": "Punch Master: Fist Fight",
+      "packageId": "com.cg.charge.fist.game",
+      "platform": "Android",
+      "category": "Action",
+      "summary": "A casual combat game built around tapping and swiping to throw punches. Encounter new opponents, clear short challenges and unlock upgrades as the action progresses. The gameplay keeps the player close to the impact, with straightforward controls and quick rounds.",
+      "features": [
+        "Punch-based combat",
+        "Enemy encounters",
+        "Level progression"
+      ],
+      "duration": "1 week",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 12,
+      "detailPage": "project-punch-master.html",
+      "media": {
+        "icon": "assets/projects/punch-master/store-icon.png",
+        "cover": "assets/projects/punch-master/store-2795b2f2fa75.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/punch-master/store-2795b2f2fa75.png",
+            "caption": "Punch Master: Fist Fight — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Mf6viVNSd_Y9fitlUzgRmc5X6lCbYeqSCaRDO8ls6iQ-GTTaW6gwCDHtTv0VQqregZB05YzEHlBlsheX60PJmg=w526-h296",
+            "sha256": "cda036aaeba96a6a76484c7dbbcef547591f969782b964aeaeea1b25d0ee1324",
+            "preview": "assets/projects/punch-master/store-2795b2f2fa75-preview.webp"
+          },
+          {
+            "src": "assets/projects/punch-master/store-c87fbf991a8d.png",
+            "caption": "Punch Master: Fist Fight — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/IuW0yMM9OI-I0LcYuUNu8a12n3i4qHH1kAaouqiUuSulWZaQImn1wsFp_o9b9Jc82ts-ZwcjbpghE2LWMqFi=w526-h296",
+            "sha256": "b87a7e2d86251445e80c7745dc723cecff23bf24cdf446b88bfd1375c43c2715",
+            "preview": "assets/projects/punch-master/store-c87fbf991a8d-preview.webp"
+          },
+          {
+            "src": "assets/projects/punch-master/store-8522ea487dd9.png",
+            "caption": "Punch Master: Fist Fight — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/jlM2JuLy_Wxizm9DlQy_uBoIigiqOgLvgQy-pmSkaOdUfM-GT7ymZm2gqgs2JunEJnGUww1qr_9G_6YusCDTRbc=w526-h296",
+            "sha256": "7d12570cabc59febbb4a0ec0d674839465a368ecda237113520a1380385af216",
+            "preview": "assets/projects/punch-master/store-8522ea487dd9-preview.webp"
+          },
+          {
+            "src": "assets/projects/punch-master/store-3f74329e1958.png",
+            "caption": "Punch Master: Fist Fight — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/FPK9mr77RC_Fd8QIOiT8bVepL-McLvye0dNefzNQBf2xr8afe327RVObMuCHAYYSpzXC3rPzzJ6VxeKgUIqIsA=w526-h296",
+            "sha256": "dd85e71049e41c663e1d5f54a9c36bfcbc819c9c51b667af7411fc8bc41c90e0",
+            "preview": "assets/projects/punch-master/store-3f74329e1958-preview.webp"
+          },
+          {
+            "src": "assets/projects/punch-master/store-048a8f3c042f.png",
+            "caption": "Punch Master: Fist Fight — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/sQDSBLC9N8RDrg25o3-Aa4sJrjZlwF_ugW9w1A_gePsRkGUzhoilzm0ufAHi40WbFNba9M0bqJk12EMPt6YH=w526-h296",
+            "sha256": "5433fb42596426086120b4504fe2df1a7b27a9ce265a6176514c315742d381f1",
+            "preview": "assets/projects/punch-master/store-048a8f3c042f-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 5,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/v4S96GtXzlXtbqXpys55bl_yeUF0OAajNsvK6uGHFstuWXxjVeAaZ_8zYW2GI4kBL6EEJnxQ1Hbg4f0tmJgpjg=w240-h480",
+          "https://play-lh.googleusercontent.com/Mf6viVNSd_Y9fitlUzgRmc5X6lCbYeqSCaRDO8ls6iQ-GTTaW6gwCDHtTv0VQqregZB05YzEHlBlsheX60PJmg=w526-h296",
+          "https://play-lh.googleusercontent.com/IuW0yMM9OI-I0LcYuUNu8a12n3i4qHH1kAaouqiUuSulWZaQImn1wsFp_o9b9Jc82ts-ZwcjbpghE2LWMqFi=w526-h296",
+          "https://play-lh.googleusercontent.com/FPK9mr77RC_Fd8QIOiT8bVepL-McLvye0dNefzNQBf2xr8afe327RVObMuCHAYYSpzXC3rPzzJ6VxeKgUIqIsA=w526-h296",
+          "https://play-lh.googleusercontent.com/jlM2JuLy_Wxizm9DlQy_uBoIigiqOgLvgQy-pmSkaOdUfM-GT7ymZm2gqgs2JunEJnGUww1qr_9G_6YusCDTRbc=w526-h296",
+          "https://play-lh.googleusercontent.com/sQDSBLC9N8RDrg25o3-Aa4sJrjZlwF_ugW9w1A_gePsRkGUzhoilzm0ufAHi40WbFNba9M0bqJk12EMPt6YH=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/punch-master/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/punch-master/store-2795b2f2fa75-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.cg.charge.fist.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.cg.charge.fist.game&hl=en&gl=us",
+        "resolvedTitle": "Punch Master: Fist Fight"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 1,
+      "durationEstimated": true,
+      "durationBasis": "Punch input, enemy encounters, hit feedback and upgrades.",
+      "builtFromScratch": true,
+      "developmentFocus": "Punch input, enemy encounters, hit feedback and upgrades."
+    },
+    {
+      "id": "gorilla",
+      "title": "Gorilla Tag",
+      "packageId": "com.cgs.gorilla.survival.game",
+      "platform": "Android",
+      "category": "Adventure",
+      "summary": "A jungle adventure focused on moving like a gorilla through forests, rocky terrain and hidden routes. Run, jump, climb and swing while completing challenges and finding rewards. Traversal is the central system, supported by exploration and mission objectives.",
+      "features": [
+        "Jungle traversal",
+        "Climbing and swinging",
+        "Adventure challenges"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 13,
+      "detailPage": "project-gorilla.html",
+      "media": {
+        "icon": "assets/projects/gorilla/store-icon.png",
+        "cover": "assets/projects/gorilla/store-f5dbea793986.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/gorilla/store-f5dbea793986.png",
+            "caption": "Gorilla Tag — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/F_dsTf_sY6xvZxJfIakEFxmsgPcVmnj_VI06BrmmWI3nwDtVhLwdaoCMXxqHdedATT6YKCkt9rCTbiDNfdK6=w526-h296",
+            "sha256": "aa2a855fe411279cc795d053ba8eeb62d9cdd310886352a03c3458fac3f31fc0",
+            "preview": "assets/projects/gorilla/store-f5dbea793986-preview.webp"
+          },
+          {
+            "src": "assets/projects/gorilla/store-606cb9ad9e5a.png",
+            "caption": "Gorilla Tag — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/aSXbvhn_ANfYHMJeEmEsHVz5RVWGwrgZ1xna6s47ais50_tNyFTk-He-Efp13i5bejvWa98BvALt-wrZEnzhxg=w526-h296",
+            "sha256": "ea6a19d41c73b3ada21802fbaf9154f9124c09ca171dc2da081522c366075534",
+            "preview": "assets/projects/gorilla/store-606cb9ad9e5a-preview.webp"
+          },
+          {
+            "src": "assets/projects/gorilla/store-a779b95fc8cd.png",
+            "caption": "Gorilla Tag — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/MrepcyZt1nnD0I9DtKchj5G5rVXO5GhpOGTURzTxOPUVj6x7bleFJC43FQ6SY2nkisqOcSlslI_gLn1Gi9OVrw=w526-h296",
+            "sha256": "0e91b6c33ebcd046d126d0e39d86f11199525d4aa1a3009fd3e54f7f9d10ab96",
+            "preview": "assets/projects/gorilla/store-a779b95fc8cd-preview.webp"
+          },
+          {
+            "src": "assets/projects/gorilla/store-23e8b4169e5b.png",
+            "caption": "Gorilla Tag — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/5_YysOmzLcjYjug7vMPNGPONn7A7vAZnOSxGp-vM77yA1YwIjk8mYInPGyWMW5orkN-iDo0b2LfOGrukFXoYYQ=w526-h296",
+            "sha256": "87a58449ce0daed27fbf4d0fc6a69849af857eae0ee614bdc5a78ce59409a5e2",
+            "preview": "assets/projects/gorilla/store-23e8b4169e5b-preview.webp"
+          },
+          {
+            "src": "assets/projects/gorilla/store-b52aacf1a19f.png",
+            "caption": "Gorilla Tag — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/nI38e2d76tq2SatuoJETYaFnnQZCesTLXiTZLD40yzxoT7Sd_jHK9kkcBeYx_AQvxH9GFm3bPHiRkEg61xNjIg=w526-h296",
+            "sha256": "e8aaf71ae939faf77d1af72c3b08d908ed6498ac00469b7865d807fc3b45f14b",
+            "preview": "assets/projects/gorilla/store-b52aacf1a19f-preview.webp"
+          },
+          {
+            "src": "assets/projects/gorilla/store-609a992d1db7.png",
+            "caption": "Gorilla Tag — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/2bPTrXNFAXYpbVPo5DlaFXRYHomaB16_eMgnINj6N20BpXsIS7KD2v69xoNOR2WxjPusmmi2FkyByqWYZFSiFg=w526-h296",
+            "sha256": "220c90b0f396f477782423ff14cc18b218781a0366c4848a1c9cfa3b15765cbf",
+            "preview": "assets/projects/gorilla/store-609a992d1db7-preview.webp"
+          },
+          {
+            "src": "assets/projects/gorilla/store-597317acef22.png",
+            "caption": "Gorilla Tag — store gallery 7",
+            "sourceUrl": "https://play-lh.googleusercontent.com/2dX1_wzEfz2K7PgFooziWjScb_PWPav-r1bddHFBRPC7WSZjRF0iGtvfOKwcqjRPNdhq4U3RKULBVQ-jSuK5pnE=w526-h296",
+            "sha256": "5ec1cf7173a90c6255a578f15292b10fde424bf2fcf4c8430857684123833d30",
+            "preview": "assets/projects/gorilla/store-597317acef22-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 7,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/FedcAxMitft_ZFbNTrn7vlA9tWar3Pkk-Nek3rij6wvFwaOpct1kGXqYoAbuhe21xla-qiaLDB2B5o65rAMtcA=w240-h480",
+          "https://play-lh.googleusercontent.com/aSXbvhn_ANfYHMJeEmEsHVz5RVWGwrgZ1xna6s47ais50_tNyFTk-He-Efp13i5bejvWa98BvALt-wrZEnzhxg=w526-h296",
+          "https://play-lh.googleusercontent.com/MrepcyZt1nnD0I9DtKchj5G5rVXO5GhpOGTURzTxOPUVj6x7bleFJC43FQ6SY2nkisqOcSlslI_gLn1Gi9OVrw=w526-h296",
+          "https://play-lh.googleusercontent.com/5_YysOmzLcjYjug7vMPNGPONn7A7vAZnOSxGp-vM77yA1YwIjk8mYInPGyWMW5orkN-iDo0b2LfOGrukFXoYYQ=w526-h296",
+          "https://play-lh.googleusercontent.com/F_dsTf_sY6xvZxJfIakEFxmsgPcVmnj_VI06BrmmWI3nwDtVhLwdaoCMXxqHdedATT6YKCkt9rCTbiDNfdK6=w526-h296",
+          "https://play-lh.googleusercontent.com/2bPTrXNFAXYpbVPo5DlaFXRYHomaB16_eMgnINj6N20BpXsIS7KD2v69xoNOR2WxjPusmmi2FkyByqWYZFSiFg=w526-h296",
+          "https://play-lh.googleusercontent.com/nI38e2d76tq2SatuoJETYaFnnQZCesTLXiTZLD40yzxoT7Sd_jHK9kkcBeYx_AQvxH9GFm3bPHiRkEg61xNjIg=w526-h296",
+          "https://play-lh.googleusercontent.com/2dX1_wzEfz2K7PgFooziWjScb_PWPav-r1bddHFBRPC7WSZjRF0iGtvfOKwcqjRPNdhq4U3RKULBVQ-jSuK5pnE=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/gorilla/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/gorilla/store-f5dbea793986-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.cgs.gorilla.survival.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.cgs.gorilla.survival.game&hl=en&gl=us",
+        "resolvedTitle": "Gorilla Tag"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Traversal, climbing and swinging, exploration and challenge progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Traversal, climbing and swinging, exploration and challenge progression."
+    },
+    {
+      "id": "scary-escape",
+      "title": "Scary Escape Grandma House",
+      "packageId": "com.bbs.playtoy.scary.game",
+      "platform": "Android",
+      "category": "Horror / Adventure",
+      "summary": "A horror escape game set in an abandoned toy factory. Search dark rooms and corridors for keys, tools and clues, then use those discoveries to solve environmental puzzles and open the way forward. Exploration and suspense give each interaction a reason to matter.",
+      "features": [
+        "Exploration and clues",
+        "Keys and environmental puzzles",
+        "Escape objectives"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 14,
+      "detailPage": "project-scary-escape.html",
+      "media": {
+        "icon": "assets/projects/scary-escape/store-icon.png",
+        "cover": "assets/projects/scary-escape/store-144bf3c9742f.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/scary-escape/store-144bf3c9742f.png",
+            "caption": "Scary Escape Grandma House — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/eZzVuAcnVR-S15VGrYqrxG-RVEWXqwgPq1LZp_2OBjFgbflAFpFpD69UR9Y3xHEy-JrLkhSaOduqwCgShvFagg=w526-h296",
+            "sha256": "c6437941dae180f1580a37db39ab2156e8ac8bbcb9e503343ef668c250d79c11",
+            "preview": "assets/projects/scary-escape/store-144bf3c9742f-preview.webp"
+          },
+          {
+            "src": "assets/projects/scary-escape/store-32c83d456976.png",
+            "caption": "Scary Escape Grandma House — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/P1N3sIFE1n6zKLMKQv1yBQuw_P_zYgToJneNNIRSFue1R8V6AbGrX3w2Q-CD2SaddDumRYM-JGUT2JhhuMAX=w526-h296",
+            "sha256": "97695ee2ed7df81359ab3ec07810820ca63b6181a856998c49f2d60033d61885",
+            "preview": "assets/projects/scary-escape/store-32c83d456976-preview.webp"
+          },
+          {
+            "src": "assets/projects/scary-escape/store-9f975c23a1d0.png",
+            "caption": "Scary Escape Grandma House — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/19pIHTTw_A6a0wUsqINUVtDZXac896g3aCNnehccMniw4mcIIbQC1rptWLCGQFbdBQGuSBl5uHQV0TJf_PtA0Q=w526-h296",
+            "sha256": "c936ed8c810eca0f6855868d520e430d864531dc141b7807ee652c8748d86103",
+            "preview": "assets/projects/scary-escape/store-9f975c23a1d0-preview.webp"
+          },
+          {
+            "src": "assets/projects/scary-escape/store-3bf27528028b.png",
+            "caption": "Scary Escape Grandma House — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/cHNyrieauQ3qIasPQJVmSr1udYxfjEKPR7GjB2hFCAcFae_qRu6aaBWQeSu5gCFMc3lmbtTuF1zP9d7GuDmo=w526-h296",
+            "sha256": "487c16fd0569e11c3a229379d1e5cd21152bb4bbb0600b585afac2e5e5749646",
+            "preview": "assets/projects/scary-escape/store-3bf27528028b-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 4,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/P1N3sIFE1n6zKLMKQv1yBQuw_P_zYgToJneNNIRSFue1R8V6AbGrX3w2Q-CD2SaddDumRYM-JGUT2JhhuMAX=w526-h296",
+          "https://play-lh.googleusercontent.com/KoCkegtLPmuFCzo2IxZyVQGtF372LwIMRZeKyCM2RL1EuWxkJtZsdjUe7HKw2VmaujUCUoqlDDfquRB1ADukqg=w240-h480",
+          "https://play-lh.googleusercontent.com/19pIHTTw_A6a0wUsqINUVtDZXac896g3aCNnehccMniw4mcIIbQC1rptWLCGQFbdBQGuSBl5uHQV0TJf_PtA0Q=w526-h296",
+          "https://play-lh.googleusercontent.com/eZzVuAcnVR-S15VGrYqrxG-RVEWXqwgPq1LZp_2OBjFgbflAFpFpD69UR9Y3xHEy-JrLkhSaOduqwCgShvFagg=w526-h296",
+          "https://play-lh.googleusercontent.com/cHNyrieauQ3qIasPQJVmSr1udYxfjEKPR7GjB2hFCAcFae_qRu6aaBWQeSu5gCFMc3lmbtTuF1zP9d7GuDmo=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/scary-escape/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/scary-escape/store-144bf3c9742f-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bbs.playtoy.scary.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.bbs.playtoy.scary.game&hl=en&gl=us",
+        "resolvedTitle": "Scary Escape Grandma House"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Exploration, item collection, locked doors and environmental puzzles.",
+      "builtFromScratch": true,
+      "developmentFocus": "Exploration, item collection, locked doors and environmental puzzles."
+    },
+    {
+      "id": "hole-rush",
+      "title": "Hole Rush: Jungle Master",
+      "packageId": "com.ags.hole.eating.world.game",
+      "platform": "Android",
+      "category": "Arcade",
+      "summary": "Control a growing hole through jungle levels and consume objects in the environment. Start with small items, increase in size and work towards larger obstacles. Planning a route through objects of the right size creates a clear collection-and-growth loop.",
+      "features": [
+        "Moving-hole control",
+        "Size-based object collection",
+        "Jungle level challenges"
+      ],
+      "duration": "2 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 15,
+      "detailPage": "project-hole-rush.html",
+      "media": {
+        "icon": "assets/projects/hole-rush/store-icon.png",
+        "cover": "assets/projects/hole-rush/store-852b9ab9c072.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/hole-rush/store-852b9ab9c072.png",
+            "caption": "Hole Rush: Jungle Master — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/iLA6_3358lAhpNvDK4Cb4OqQjivPnJCbC9zQEeNlMXy_1oa822ky_qZ3BnGVycwM1Qn4khmom36HGPJnzhO6hA=w526-h296",
+            "sha256": "4690897308417d6df95d327ea85de0c99c93e0d2a2a04f189937b9ef5e9ee0a6",
+            "preview": "assets/projects/hole-rush/store-852b9ab9c072-preview.webp"
+          },
+          {
+            "src": "assets/projects/hole-rush/store-a9f94137c6e9.png",
+            "caption": "Hole Rush: Jungle Master — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/2QrxG3UaClyJWnyq8gGEXGS3-YakmqLZc5JBYVaL2yKUTfV3Xc8jyRSFpKxo0TmuOT8Y_eelPEwHujuu12UyTg=w526-h296",
+            "sha256": "0d3e1c78b500143ebc325b6e164035b255346cda8a617231be463ae5e5130056",
+            "preview": "assets/projects/hole-rush/store-a9f94137c6e9-preview.webp"
+          },
+          {
+            "src": "assets/projects/hole-rush/store-6fe09cd9e880.png",
+            "caption": "Hole Rush: Jungle Master — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/83DWMt0k-aWf9yW8MbxrZQTt636SB3wYk7gJkVKPybxafMSaqS3qbF4StmKSDVQeW0XnkCYO-EhFjkP1JyDxtg=w526-h296",
+            "sha256": "caef2ae17da5e24cd3a600ab23d363a4d3bb91ecd67b2129ac7ed8166a16cc3b",
+            "preview": "assets/projects/hole-rush/store-6fe09cd9e880-preview.webp"
+          },
+          {
+            "src": "assets/projects/hole-rush/store-d9b13ab822d6.png",
+            "caption": "Hole Rush: Jungle Master — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/BhFrHWaKp8fRyKDZp5hhjqu0bQac0cNySy6tB_Yl_v98WQNzGdjm4dBohrabHK32v3t4alPE949asa_j625B92g=w526-h296",
+            "sha256": "7944a14c66b0bcbd8a3082a42bb9465c586c982438d8cc82d7727b25809bff0c",
+            "preview": "assets/projects/hole-rush/store-d9b13ab822d6-preview.webp"
+          },
+          {
+            "src": "assets/projects/hole-rush/store-f1fff262b847.png",
+            "caption": "Hole Rush: Jungle Master — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/oi-VnN67kGVrvyHptkDms9gcKxtnvfVZuWowVSmELhCEezo5Q0BQrGiLhmIMROukTndPVj2ThLBow-yyv6D4ow=w526-h296",
+            "sha256": "aafd95c8bff41aa03ba3a71016ae8c769601a51d1b87b287139f620eedf7c604",
+            "preview": "assets/projects/hole-rush/store-f1fff262b847-preview.webp"
+          },
+          {
+            "src": "assets/projects/hole-rush/store-02f3ca64a7c4.png",
+            "caption": "Hole Rush: Jungle Master — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/vCMeYIoz7yAN8G_4-QRkWTSLB0Wzn9siua9igYu3_wOfjWcySXwVbbCAkVwY6Cy7Y6HMguQuKsdhgc84xRtx=w526-h296",
+            "sha256": "8ba93ff1a1f92bc54afbbb053d893ad78df5b2b03b8ef45f6497c355ae4b88b2",
+            "preview": "assets/projects/hole-rush/store-02f3ca64a7c4-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 6,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/Vr_5KDO_2ua-jHvp8yXnegcRyepSFep7VBaezLPDySdjisSEJEwaBpprNQPl3ZzLETMeVgRxHblBDq9ejCIX=w240-h480",
+          "https://play-lh.googleusercontent.com/iLA6_3358lAhpNvDK4Cb4OqQjivPnJCbC9zQEeNlMXy_1oa822ky_qZ3BnGVycwM1Qn4khmom36HGPJnzhO6hA=w526-h296",
+          "https://play-lh.googleusercontent.com/2QrxG3UaClyJWnyq8gGEXGS3-YakmqLZc5JBYVaL2yKUTfV3Xc8jyRSFpKxo0TmuOT8Y_eelPEwHujuu12UyTg=w526-h296",
+          "https://play-lh.googleusercontent.com/BhFrHWaKp8fRyKDZp5hhjqu0bQac0cNySy6tB_Yl_v98WQNzGdjm4dBohrabHK32v3t4alPE949asa_j625B92g=w526-h296",
+          "https://play-lh.googleusercontent.com/oi-VnN67kGVrvyHptkDms9gcKxtnvfVZuWowVSmELhCEezo5Q0BQrGiLhmIMROukTndPVj2ThLBow-yyv6D4ow=w526-h296",
+          "https://play-lh.googleusercontent.com/83DWMt0k-aWf9yW8MbxrZQTt636SB3wYk7gJkVKPybxafMSaqS3qbF4StmKSDVQeW0XnkCYO-EhFjkP1JyDxtg=w526-h296",
+          "https://play-lh.googleusercontent.com/vCMeYIoz7yAN8G_4-QRkWTSLB0Wzn9siua9igYu3_wOfjWcySXwVbbCAkVwY6Cy7Y6HMguQuKsdhgc84xRtx=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/hole-rush/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/hole-rush/store-852b9ab9c072-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ags.hole.eating.world.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.ags.hole.eating.world.game&hl=en&gl=us",
+        "resolvedTitle": "Hole Rush: Jungle Master"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 2,
+      "durationEstimated": true,
+      "durationBasis": "Hole movement, object-size rules, growth and level completion.",
+      "builtFromScratch": true,
+      "developmentFocus": "Hole movement, object-size rules, growth and level completion."
+    },
+    {
+      "id": "thief-2",
+      "title": "Robbery Game : Thief Simulator",
+      "packageId": "com.thief2.simulator.game",
+      "platform": "Android",
+      "category": "Simulation / Stealth",
+      "summary": "An open-world robbery simulation with risky missions, valuables and stealth objectives. Players explore locations, plan a heist, enter a property and try to leave without being caught. It is a separate app from Robbery Simulator: Thief House, with its own store identifier and gallery.",
+      "features": [
+        "Heists and valuables",
+        "Stealth objectives",
+        "Open-world exploration"
+      ],
+      "duration": "4 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 16,
+      "detailPage": "project-thief-2.html",
+      "media": {
+        "icon": "assets/projects/thief-2/store-icon.jpg",
+        "cover": "assets/projects/thief-2/store-a0006c59585b.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/thief-2/store-a0006c59585b.jpg",
+            "caption": "Robbery Game : Thief Simulator — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/XkzgUfLj2TXw5MsiemMLjrultLnykYd-6uPdOnn656XMHccORFJUr9gPB6kwyC84_NQUdvvzhaOVlFT2NeTtfU0=w526-h296",
+            "sha256": "678d1b15701e2520b6d1c4c19d179e7c3d5a91885812239f882035bc9311ca7f",
+            "preview": "assets/projects/thief-2/store-a0006c59585b-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief-2/store-5305d0ee5aae.jpg",
+            "caption": "Robbery Game : Thief Simulator — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/F2GfGszTm_14kbQYd4d8wqbUYFwJlsGYBrpHbYY1DN4H3hzocS7mcBtgHEV0LJLXAPgeBJNFe5FC2yaiHx4skPU=w526-h296",
+            "sha256": "1505077d23c960edc8879ecd52fab4f320f3e12e7cf8dfc7ddc781a7c09be800",
+            "preview": "assets/projects/thief-2/store-5305d0ee5aae-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief-2/store-59d0ef7b234c.jpg",
+            "caption": "Robbery Game : Thief Simulator — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/NhJ1CeCouqB2TzTyq-W5KEosWGzFaodtFtO4UQK3_eOz4c5F7TWMIDL3i5DTjCiwGZPtecAwwbO-MK3Aj2rgqQA=w526-h296",
+            "sha256": "306c9623302bd9ae89bef8360290d2523fc343c8b2354e4285205abe36099180",
+            "preview": "assets/projects/thief-2/store-59d0ef7b234c-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief-2/store-827ba47ab901.jpg",
+            "caption": "Robbery Game : Thief Simulator — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/UPeEp3ttWALsAGOOG9LX4fuvJBw0XBO9Ix-Ns4SRZ7onWr1cZomNQPEWQ7Ss33JXQaqXAou3hep7nJpwFvU2ew=w526-h296",
+            "sha256": "dbfc5ddded4acfc61f4af6efa56de922515940ced81408eff7bed68192929648",
+            "preview": "assets/projects/thief-2/store-827ba47ab901-preview.webp"
+          },
+          {
+            "src": "assets/projects/thief-2/store-0d1a2b70f5e2.jpg",
+            "caption": "Robbery Game : Thief Simulator — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/xapRelTDGT2jnyZXso5L_brVCiZsFc5HnzoihWEvTwERStokVUxZTKr5ToTfu3RHIuayZOzXAGu-7ncersptxA=w526-h296",
+            "sha256": "9c749bca97ee2c654cb746eee153f7a05c1d8bac5ec5c4361ce43eb9b1a0da78",
+            "preview": "assets/projects/thief-2/store-0d1a2b70f5e2-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 5,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/YhpajXgp3KtoR7iQn_lAcEZRarurW_qRhJs6M4AkKwfkDYdW7_T6G7psNKRZHaTLbww3OS016xy09esP_zEbYA=w240-h480",
+          "https://play-lh.googleusercontent.com/XkzgUfLj2TXw5MsiemMLjrultLnykYd-6uPdOnn656XMHccORFJUr9gPB6kwyC84_NQUdvvzhaOVlFT2NeTtfU0=w526-h296",
+          "https://play-lh.googleusercontent.com/UPeEp3ttWALsAGOOG9LX4fuvJBw0XBO9Ix-Ns4SRZ7onWr1cZomNQPEWQ7Ss33JXQaqXAou3hep7nJpwFvU2ew=w526-h296",
+          "https://play-lh.googleusercontent.com/F2GfGszTm_14kbQYd4d8wqbUYFwJlsGYBrpHbYY1DN4H3hzocS7mcBtgHEV0LJLXAPgeBJNFe5FC2yaiHx4skPU=w526-h296",
+          "https://play-lh.googleusercontent.com/NhJ1CeCouqB2TzTyq-W5KEosWGzFaodtFtO4UQK3_eOz4c5F7TWMIDL3i5DTjCiwGZPtecAwwbO-MK3Aj2rgqQA=w526-h296",
+          "https://play-lh.googleusercontent.com/xapRelTDGT2jnyZXso5L_brVCiZsFc5HnzoihWEvTwERStokVUxZTKr5ToTfu3RHIuayZOzXAGu-7ncersptxA=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/thief-2/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/thief-2/store-a0006c59585b-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.thief2.simulator.game&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.thief2.simulator.game&hl=en&gl=us",
+        "resolvedTitle": "Robbery Game : Thief Simulator"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 4,
+      "durationEstimated": true,
+      "durationBasis": "Exploration, heist objectives, valuable-item interactions and escape flow.",
+      "builtFromScratch": true,
+      "developmentFocus": "Exploration, heist objectives, valuable-item interactions and escape flow."
+    },
+    {
+      "id": "gym-ios",
+      "title": "Gym Simulator 24 Fitness Games",
+      "packageId": "ios:6475784064",
+      "platform": "iOS",
+      "category": "Simulation / Fitness",
+      "summary": "An iOS fitness simulation built around a virtual gym and a range of exercise activities. Players explore workout routines, follow progress and pursue fitness goals within the game. The project combines an interactive environment with a clear activity-and-progression structure.",
+      "features": [
+        "Virtual gym activities",
+        "Workout interactions",
+        "Fitness goals and progression"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 17,
+      "detailPage": "project-gym-ios.html",
+      "media": {
+        "icon": "assets/projects/gym-ios/store-icon.jpg",
+        "cover": "assets/projects/gym-ios/store-2c39c915e543.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/gym-ios/store-2c39c915e543.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 1",
+            "sourceUrl": "https://img.tapimg.net/market/images/f4e6ba660f6e926aeaf0895dd4d0dc1d.jpg",
+            "sha256": "aca23a46257c042be7394a1b27d3c084d9da394cf2ea37ea7523b3589815dc55",
+            "preview": "assets/projects/gym-ios/store-2c39c915e543-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-b1fd7dd308ae.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 2",
+            "sourceUrl": "https://img.tapimg.net/market/images/54aff00d8b88cb10a152151a0dca752f.jpg",
+            "sha256": "420d30ed64e9ef869561b1d3a9703cad8660a025123e26399b60ceafc0399909",
+            "preview": "assets/projects/gym-ios/store-b1fd7dd308ae-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-6b84f9de56c7.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 3",
+            "sourceUrl": "https://img.tapimg.net/market/images/db5130e93bf93bf2f0e7d4cabcbaec83.jpg",
+            "sha256": "8ace5b0ff8eaeaf4ab40e80b86a0772a67c63a2caf402decdb49bcb392dd4525",
+            "preview": "assets/projects/gym-ios/store-6b84f9de56c7-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-de7c10fc0d6c.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 4",
+            "sourceUrl": "https://img.tapimg.net/market/images/ae5a29f951a2a52a5b9f0a5133c302ef.jpg",
+            "sha256": "028df0b34866714791cdbc45c731241a2c177e218adeddbfce04001bc51022d5",
+            "preview": "assets/projects/gym-ios/store-de7c10fc0d6c-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-531ff2e63545.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 5",
+            "sourceUrl": "https://img.tapimg.net/market/images/4e945710e219d0a97307a58454c26df3.jpg",
+            "sha256": "dded64a870dc8d2f6e3247237734423da91876daf25769ce34e3f49f0bc2fb1d",
+            "preview": "assets/projects/gym-ios/store-531ff2e63545-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-e691cc9c1620.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 6",
+            "sourceUrl": "https://img.tapimg.net/market/images/380285b788c6d3cea96e470355e94aa0.jpg",
+            "sha256": "020e12e894f38c3065745dc7dd4b328d00a95c51e9e74bb9475ee99db06803fd",
+            "preview": "assets/projects/gym-ios/store-e691cc9c1620-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-eefb8c224b56.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 7",
+            "sourceUrl": "https://img.tapimg.net/market/images/b3366cefcfc2b8c47b4d5bc9503e108a.jpg",
+            "sha256": "0d9cdbaf96cdc6bfa6a667ab52e47b0d56a11f2fbf9a0d139c6c0ed75e761bf3",
+            "preview": "assets/projects/gym-ios/store-eefb8c224b56-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-753e8439efdd.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 8",
+            "sourceUrl": "https://img.tapimg.net/market/images/e292b088eb5079e83a3163fcbe5c1295.jpg",
+            "sha256": "13ae5c9d5a02a0fb00e7a1cee049a8295dc4a1dac6a0ad398fb6ffbe21c3674a",
+            "preview": "assets/projects/gym-ios/store-753e8439efdd-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-ios/store-a4567bce8350.jpg",
+            "caption": "Gym Simulator 24 Fitness Games — archived store gallery 9",
+            "sourceUrl": "https://img.tapimg.net/market/images/410e9cfda810795d861be62a9eb5b439.jpg",
+            "sha256": "7dc450fc0f79ce26ed67fc165f5c67929523ddbf844d2bc13aeaf62a3f2ce4e2",
+            "preview": "assets/projects/gym-ios/store-a4567bce8350-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on TapTap",
+        "galleryComplete": true,
+        "storeScreenshotCount": 9,
+        "duplicateStoreImages": 0,
+        "archived": true,
+        "archiveUrl": "https://www.taptap.io/app/33657128",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://img.tapimg.net/market/images/f4e6ba660f6e926aeaf0895dd4d0dc1d.jpg",
+          "https://img.tapimg.net/market/images/de9a3135a9319bf14a90f340158e28ba.jpg",
+          "https://img.tapimg.net/market/images/54aff00d8b88cb10a152151a0dca752f.jpg",
+          "https://img.tapimg.net/market/images/db5130e93bf93bf2f0e7d4cabcbaec83.jpg",
+          "https://img.tapimg.net/market/images/4e945710e219d0a97307a58454c26df3.jpg",
+          "https://img.tapimg.net/market/images/ae5a29f951a2a52a5b9f0a5133c302ef.jpg",
+          "https://img.tapimg.net/market/images/b3366cefcfc2b8c47b4d5bc9503e108a.jpg",
+          "https://img.tapimg.net/market/images/380285b788c6d3cea96e470355e94aa0.jpg",
+          "https://img.tapimg.net/market/images/e292b088eb5079e83a3163fcbe5c1295.jpg",
+          "https://img.tapimg.net/market/images/410e9cfda810795d861be62a9eb5b439.jpg"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/gym-ios/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/gym-ios/store-2c39c915e543-preview.webp"
+      },
+      "storeUrl": "https://apps.apple.com/pk/app/gym-simulator-24-fitness-games/id6475784064",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://apps.apple.com/pk/app/gym-simulator-24-fitness-games/id6475784064",
+        "archiveUrl": "https://www.taptap.io/app/33657128",
+        "resolvedTitle": "Gym Simulator 24 Fitness Games"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Gym interactions, workout activities and goal progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Gym interactions, workout activities and goal progression."
+    },
+    {
+      "id": "gym-workout",
+      "title": "Idle Tycoon Gym Workout Games",
+      "packageId": "com.sky.gym.workout.fitness.sim.game",
+      "platform": "Android",
+      "category": "Management",
+      "summary": "A gym management simulation about growing a small fitness business. Improve equipment, develop rooms and bring in staff and athletes as the gym expands. Workout activities and business decisions connect the individual facilities into a longer progression loop.",
+      "features": [
+        "Gym expansion",
+        "Equipment upgrades",
+        "Staff and visitor management"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 18,
+      "detailPage": "project-gym-workout.html",
+      "media": {
+        "icon": "assets/projects/gym-workout/store-icon.png",
+        "cover": "assets/projects/gym-workout/store-f709d269d6e3.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/gym-workout/store-f709d269d6e3.jpg",
+            "caption": "Idle Tycoon Gym Workout Games — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/5tuAERd7nkyjJx7Acr2_K5f0xajlsdY1xGjUISxInklpkTNKEnRLsdJ7wVX-vnz4NKc=s0",
+            "sha256": "228ff03c0a6ae26637a07a28632bd2b16f364444f5dbfeebdf6396733392faf7",
+            "preview": "assets/projects/gym-workout/store-f709d269d6e3-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-workout/store-2e13e071e75a.jpg",
+            "caption": "Idle Tycoon Gym Workout Games — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/uoKaPEwH6XrTLvh9dy9b6yIzWGdpQvByQybvBpfPjpXtQX3oIrcv9wwU44MwRSyRcSU=s0",
+            "sha256": "68722108cfe924c8bf540a6707ece053e6f5ed3be61c8aee748a538c1f364b63",
+            "preview": "assets/projects/gym-workout/store-2e13e071e75a-preview.webp"
+          },
+          {
+            "src": "assets/projects/gym-workout/store-36b05a00751f.jpg",
+            "caption": "Idle Tycoon Gym Workout Games — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/zxurwqha31p_G1YyuQiYEz7DnaTj5_zZx8_i6sfOTJTQiC1hntQcr5mHH-ZzExr6ujin=s0",
+            "sha256": "4065f7337d79de5db0679a4fb2321e8826965b32d37548183a0b20d201453f45",
+            "preview": "assets/projects/gym-workout/store-36b05a00751f-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 5,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/gym-fitness-3d-simulation-game/com.sky.gym.workout.fitness.sim.game",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/gvN4JtX1U5bGFPioO2EtKDZ8Ueev-UorR9SW8XZS2dpZanwvYr3JltV-hwc2xAHNoQ=s0",
+          "https://play-lh.googleusercontent.com/tKdI_FB8vcDerhQ5UtNHN0DZJ7v5fhqZr5SKV7l9-XNVEy1qclfvhuY14jUa2I4cYgM=s0",
+          "https://play-lh.googleusercontent.com/Cvbos9HxEXlXnSx5ezGZHSHAGwLefGqoDQPd9oqjajBT6empFUmmRGMlxZJJ1ypSXzD3=s0",
+          "https://play-lh.googleusercontent.com/5Jn3vamvu0mDQVPp2Hbs0UYpNPE_wPASmx7sjvAbi64UO4E1_67sNOz0WDNp8m7ATw=s0",
+          "https://play-lh.googleusercontent.com/zxurwqha31p_G1YyuQiYEz7DnaTj5_zZx8_i6sfOTJTQiC1hntQcr5mHH-ZzExr6ujin=s0",
+          "https://image.winudf.com/v2/image1/Y29tLnNreS5neW0ud29ya291dC5maXRuZXNzLnNpbS5nYW1lX2ljb25fMTcyMDczMjM3M18wMTY/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/0wUdpJNHbD6S6Bg1vDuGF49wZzAFx72iTJnVLILWmvccuftLJVHErZ2gc9sPeju9lWE=s0",
+          "https://play-lh.googleusercontent.com/5tuAERd7nkyjJx7Acr2_K5f0xajlsdY1xGjUISxInklpkTNKEnRLsdJ7wVX-vnz4NKc=s0",
+          "https://play-lh.googleusercontent.com/uoKaPEwH6XrTLvh9dy9b6yIzWGdpQvByQybvBpfPjpXtQX3oIrcv9wwU44MwRSyRcSU=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/gym-workout/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/gym-workout/store-f709d269d6e3-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.sky.gym.workout.fitness.sim.game&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.sky.gym.workout.fitness.sim.game&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/gym-fitness-3d-simulation-game/com.sky.gym.workout.fitness.sim.game",
+        "resolvedTitle": "Idle Tycoon Gym Workout Games"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Equipment upgrades, workout interactions and gym management.",
+      "builtFromScratch": true,
+      "developmentFocus": "Equipment upgrades, workout interactions and gym management."
+    },
+    {
+      "id": "police-chase",
+      "title": "US Police Car driving Chase 3D",
+      "packageId": "com.trends.games.production.mexican.traffic.police.car.chase.simulator2k20",
+      "platform": "Android",
+      "category": "Driving / Racing",
+      "summary": "A police driving game centred on pursuing suspects and completing city missions. Control the patrol car, follow objectives and navigate traffic and turns during a chase. Vehicle handling and mission flow work together to give each route a clear start and finish.",
+      "features": [
+        "Police pursuit missions",
+        "Vehicle selection",
+        "Driving controls"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 19,
+      "detailPage": "project-police-chase.html",
+      "media": {
+        "icon": "assets/projects/police-chase/store-icon.png",
+        "cover": "assets/projects/police-chase/store-280a0bd81620.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/police-chase/store-280a0bd81620.jpg",
+            "caption": "US Police Car driving Chase 3D — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/qKfAxyq0fnOjo-IYdVybgMffSjn1xw6xX-3ZECWgs9udh0G66cGMuifmtIYksi4G5A=s0",
+            "sha256": "200fd0ed656d55f25975953567f8ead2b4e73b21c97f2b2f2067a3bd4849252f",
+            "preview": "assets/projects/police-chase/store-280a0bd81620-preview.webp"
+          },
+          {
+            "src": "assets/projects/police-chase/store-9cc472a86fab.jpg",
+            "caption": "US Police Car driving Chase 3D — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/9-6IJG22g_m67Mlu6lLBSGPdXMNdtTz2_f8sYLvIeLfbdCE1mAWI_CrCpT6BIBt6xQ6f=s0",
+            "sha256": "548deae5e00fe9130d4b589f788c8b8ac47458210f0d15646803451c20253805",
+            "preview": "assets/projects/police-chase/store-9cc472a86fab-preview.webp"
+          },
+          {
+            "src": "assets/projects/police-chase/store-eea488ab3c4c.png",
+            "caption": "US Police Car driving Chase 3D — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/SWoYU1HZ_DkG_wcyVS-oSEs4Tjo-NTCGZm5Idz0WVPvXxkslHH1f4oEdHBZf5OMDjFkx=s0",
+            "sha256": "8b309f1af26e4c58f9c0ffebb7033bc9ba7f737ea7b2e91d411c3e66723f2461",
+            "preview": "assets/projects/police-chase/store-eea488ab3c4c-preview.webp"
+          },
+          {
+            "src": "assets/projects/police-chase/store-b117d40e09cd.jpg",
+            "caption": "US Police Car driving Chase 3D — archived store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/1PHkrBDB1j5llZKwYjloXPB0TDK_euwJv7tjz-BczEhT0_-FxJYcpmxzAYD36Lk-Csk=s0",
+            "sha256": "1031db031f2e7f29a3d403d32d4c3b0aae6aaa92ec11243a9d66cdadd4024c78",
+            "preview": "assets/projects/police-chase/store-b117d40e09cd-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 4,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/us-police-car-driving-chase-3d/com.trends.games.production.mexican.traffic.police.car.chase.simulator2k20",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLnRyZW5kcy5nYW1lcy5wcm9kdWN0aW9uLm1leGljYW4udHJhZmZpYy5wb2xpY2UuY2FyLmNoYXNlLnNpbXVsYXRvcjJrMjBfaWNvbl8xNjY3MjIyNTA5XzAyMA/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/ZBDZKDZ1-L7oMmasdAG6F0EchAYblEQQO4M5K1ryjbcopuKjbMbrhfx_4suG78XX3bk=s0",
+          "https://play-lh.googleusercontent.com/7gVNyeTUhtQhe5mOs_ibeKDgf7ffCw1POe9bug-_I_7U1LYrBzWf4LWCQbDF60MaBZY=s0",
+          "https://play-lh.googleusercontent.com/qKfAxyq0fnOjo-IYdVybgMffSjn1xw6xX-3ZECWgs9udh0G66cGMuifmtIYksi4G5A=s0",
+          "https://play-lh.googleusercontent.com/iT19bewmU4oWBDAIg8XRROGauIT7Y1dB-BBT278M1YiI4GgOlso4FBv_ZG5Fi9zuGSQ=s0",
+          "https://play-lh.googleusercontent.com/9-6IJG22g_m67Mlu6lLBSGPdXMNdtTz2_f8sYLvIeLfbdCE1mAWI_CrCpT6BIBt6xQ6f=s0",
+          "https://play-lh.googleusercontent.com/jUBoEVSQRFtAuCK-0-ewTFP53YrI_x4ge0837E5maSRgssVqLo0foIMA9av1bwox3dw=s0",
+          "https://play-lh.googleusercontent.com/1PHkrBDB1j5llZKwYjloXPB0TDK_euwJv7tjz-BczEhT0_-FxJYcpmxzAYD36Lk-Csk=s0",
+          "https://play-lh.googleusercontent.com/SWoYU1HZ_DkG_wcyVS-oSEs4Tjo-NTCGZm5Idz0WVPvXxkslHH1f4oEdHBZf5OMDjFkx=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/police-chase/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/police-chase/store-280a0bd81620-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.trends.games.production.mexican.traffic.police.car.chase.simulator2k20&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.trends.games.production.mexican.traffic.police.car.chase.simulator2k20&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/us-police-car-driving-chase-3d/com.trends.games.production.mexican.traffic.police.car.chase.simulator2k20",
+        "resolvedTitle": "US Police Car driving Chase 3D"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Vehicle control, chase objectives and city mission progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Vehicle control, chase objectives and city mission progression."
+    },
+    {
+      "id": "formula-racing",
+      "title": "Formula Car Racing 3d Games",
+      "packageId": "com.trends.games.formula.car.racing.ramp.stunts.impossible.tracks",
+      "platform": "Android",
+      "category": "Driving / Racing",
+      "summary": "A formula-style racing game combining fast driving with elevated stunt routes. Guide the car around corners, onto ramps and through challenging tracks while racing towards the finish. The project focuses on vehicle handling, track layout and repeatable driving challenges.",
+      "features": [],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 20,
+      "detailPage": "project-formula-racing.html",
+      "media": {
+        "icon": "assets/projects/formula-racing/store-icon.png",
+        "cover": "assets/projects/formula-racing/store-70c157130e84.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/formula-racing/store-70c157130e84.png",
+            "caption": "Formula Car Racing 3d Games — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/b2yfrcsVTnXP5NrjkSoPSFjO2krza4rbCUrMGcX19oU69Zu20LgOjBfBY5I3XbvzOwU=s0",
+            "sha256": "cc4cd91775feae325c4de5cde1c024a752be2c85cc7dd403220101d07ae8d249",
+            "preview": "assets/projects/formula-racing/store-70c157130e84-preview.webp"
+          },
+          {
+            "src": "assets/projects/formula-racing/store-9bfd69bfbd02.png",
+            "caption": "Formula Car Racing 3d Games — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/CeXiBat_94fLkfBkJCpewXOLmKpZnRL6lgjYlV5eznJl-qx0vwRvKU48d9k-1GVLYws=s0",
+            "sha256": "3dc33f27ec018375a6af26a9bc8d374e753004939170f4c1b27fbf587b68c417",
+            "preview": "assets/projects/formula-racing/store-9bfd69bfbd02-preview.webp"
+          },
+          {
+            "src": "assets/projects/formula-racing/store-c9d32186e8cc.png",
+            "caption": "Formula Car Racing 3d Games — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/k1Cvd4nP_XxetQWBvUlBxOF1ad2g9FXToImFLXFpT9VEIEb9XqiUvGsE7pCVVWRneWA=s0",
+            "sha256": "caa87c16fd8c9f83247c18262c8fd74a7b6bbb5d5f37481ade11ac29fbb2610b",
+            "preview": "assets/projects/formula-racing/store-c9d32186e8cc-preview.webp"
+          },
+          {
+            "src": "assets/projects/formula-racing/store-7fffcd5040b1.png",
+            "caption": "Formula Car Racing 3d Games — archived store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/mR-62t_SEVR8B-3IGMKN8W6KHRdwlL3OqPfcTg7LQMr5mwhN9oiqvI7WBCgWCHOrfRo=s0",
+            "sha256": "4292af121b70fc416260097e0c7db5d9463a76dd62f33c65dd53c6a362b95e52",
+            "preview": "assets/projects/formula-racing/store-7fffcd5040b1-preview.webp"
+          },
+          {
+            "src": "assets/projects/formula-racing/store-58d5d860968b.jpg",
+            "caption": "Formula Car Racing 3d Games — archived store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/l1lRqvFbEuTUb5PI7M_NyxhBXBDZs3OHRPOfnA2P6oY3os6rzFMFMZYtEmUDik8Dopyq=s0",
+            "sha256": "06f640c4a7fb5af384878960dfbc69186fed56992ab4b8b648c899443271c377",
+            "preview": "assets/projects/formula-racing/store-58d5d860968b-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 3,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/formula-car-racing-3d-games/com.trends.games.formula.car.racing.ramp.stunts.impossible.tracks",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLnRyZW5kcy5nYW1lcy5mb3JtdWxhLmNhci5yYWNpbmcucmFtcC5zdHVudHMuaW1wb3NzaWJsZS50cmFja3NfaWNvbl8xNjU3NzYwMzMyXzA5NA/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/odx1Z1haJhVHLROfbbyYGT3JwI6Qw7ga7rNsxb-EMZtYN0BfRDUm2bTFzOmz6AQXBGI=s0",
+          "https://play-lh.googleusercontent.com/EYV9ypK5d35e1onO18BqFlW0_YIOgw9u9ukrUXUl-KTtZqRjGiydNHI7d6GxIt0nXis=s0",
+          "https://play-lh.googleusercontent.com/mR-62t_SEVR8B-3IGMKN8W6KHRdwlL3OqPfcTg7LQMr5mwhN9oiqvI7WBCgWCHOrfRo=s0",
+          "https://play-lh.googleusercontent.com/l1lRqvFbEuTUb5PI7M_NyxhBXBDZs3OHRPOfnA2P6oY3os6rzFMFMZYtEmUDik8Dopyq=s0",
+          "https://play-lh.googleusercontent.com/2Ta-C4T-07g5kkKkBZ9JVPEW4HXz2a2ldIYNZ-Q7ZCHsx6DXqFvrSOjTHEbEiU-w5g=s0",
+          "https://play-lh.googleusercontent.com/b2yfrcsVTnXP5NrjkSoPSFjO2krza4rbCUrMGcX19oU69Zu20LgOjBfBY5I3XbvzOwU=s0",
+          "https://play-lh.googleusercontent.com/k1Cvd4nP_XxetQWBvUlBxOF1ad2g9FXToImFLXFpT9VEIEb9XqiUvGsE7pCVVWRneWA=s0",
+          "https://play-lh.googleusercontent.com/CeXiBat_94fLkfBkJCpewXOLmKpZnRL6lgjYlV5eznJl-qx0vwRvKU48d9k-1GVLYws=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/formula-racing/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/formula-racing/store-70c157130e84-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.trends.games.formula.car.racing.ramp.stunts.impossible.tracks&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.trends.games.formula.car.racing.ramp.stunts.impossible.tracks&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/formula-car-racing-3d-games/com.trends.games.formula.car.racing.ramp.stunts.impossible.tracks",
+        "resolvedTitle": "Formula Car Racing 3d Games"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Racing controls, ramp interaction and track progression.",
+      "builtFromScratch": true,
+      "developmentFocus": "Racing controls, ramp interaction and track progression."
+    },
+    {
+      "id": "bike-stunts",
+      "title": "Tricky Bike Stunt Racing Sim",
+      "packageId": "com.trends.games.production.extreme.stuntbike.racing.trails.impossible.ramp",
+      "platform": "Android",
+      "category": "Driving / Racing",
+      "summary": "A stunt-bike racing game featuring ramps, narrow tracks and demanding obstacle routes. Players manage speed and balance to land jumps and stay on the course. The challenge comes from connecting precise vehicle control with a sequence of increasingly difficult track sections.",
+      "features": [
+        "Bike riding",
+        "Ramp and obstacle courses",
+        "Stunt challenges"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 21,
+      "detailPage": "project-bike-stunts.html",
+      "media": {
+        "icon": "assets/projects/bike-stunts/store-icon.png",
+        "cover": "assets/projects/bike-stunts/store-8c8f73bd19f9.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/bike-stunts/store-8c8f73bd19f9.jpg",
+            "caption": "Tricky Bike Stunt Racing Sim — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/1sC20ilnF2MPkA3AzkyKFYp7wso0pgXJwRlGfr9LroL3UOgXaM4BBTDnqEVvXVd5BBxV=s0",
+            "sha256": "08e28da3d2ddc8fa6ea794f5c5c67cd91c770ae59cf2c5dab4b4c8cb71cc6e73",
+            "preview": "assets/projects/bike-stunts/store-8c8f73bd19f9-preview.webp"
+          },
+          {
+            "src": "assets/projects/bike-stunts/store-95b2d58ffab9.jpg",
+            "caption": "Tricky Bike Stunt Racing Sim — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/R3dhB_35JAggtmmaXSh4HRQqqEDyNEI5P5IkqvpFYwy-dHtpdIM4y8rJcGdKkKfLnlDc=s0",
+            "sha256": "8189b4a33c8c4c846597cc12fe6ee6e313dc7dc9f588a5f594728c7b43321da0",
+            "preview": "assets/projects/bike-stunts/store-95b2d58ffab9-preview.webp"
+          },
+          {
+            "src": "assets/projects/bike-stunts/store-bbd3098cbba6.jpg",
+            "caption": "Tricky Bike Stunt Racing Sim — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/54Ferwjzad6aQa7EmMXM1Tnsg23ReOShZ8HewXLyNJfWvmtbfv7a4sJg6ICzLsE97qk=s0",
+            "sha256": "a3588f36e46d2a4caf912adb8742bfaeaba403cb511d19eb0ba328e3d38a5e7a",
+            "preview": "assets/projects/bike-stunts/store-bbd3098cbba6-preview.webp"
+          },
+          {
+            "src": "assets/projects/bike-stunts/store-79c13ff90e41.jpg",
+            "caption": "Tricky Bike Stunt Racing Sim — archived store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/OkclynIkREX54937ninsRGb18mgfO2DEot-KsEka4ZcJydQeWpPgEfSG1oTvpw9qj2A=s0",
+            "sha256": "219072fca63e19ffd4ccc8d5e93add960fc3568135eebad71d7ea870cbad980d",
+            "preview": "assets/projects/bike-stunts/store-79c13ff90e41-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 4,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/tricky-bike-stunt-racing-sim/com.trends.games.production.extreme.stuntbike.racing.trails.impossible.ramp",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLnRyZW5kcy5nYW1lcy5wcm9kdWN0aW9uLmV4dHJlbWUuc3R1bnRiaWtlLnJhY2luZy50cmFpbHMuaW1wb3NzaWJsZS5yYW1wX2ljb25fMTY2NzU2NTkxNF8wMTg/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/UbXmBs8_3wyqDRQxC5Ank4HmxmPVSbR5XHvkjqSi5wi9nu4_DODfsqKRQRkzPRd-cqU=s0",
+          "https://play-lh.googleusercontent.com/EyuMU6aqvrMU_6NfC04kXHSfYrLkCqOMZs64J93XkLBbTEJzLqEHIStQ15bDuMtISdsU=s0",
+          "https://play-lh.googleusercontent.com/1sC20ilnF2MPkA3AzkyKFYp7wso0pgXJwRlGfr9LroL3UOgXaM4BBTDnqEVvXVd5BBxV=s0",
+          "https://play-lh.googleusercontent.com/sWp4ztppJ_vIiWWWyGdzWnVNqB_KXwMd2ZuJkVAjbmpmFrnjTum1Hu3C0BlTzl2uSONm=s0",
+          "https://play-lh.googleusercontent.com/R3dhB_35JAggtmmaXSh4HRQqqEDyNEI5P5IkqvpFYwy-dHtpdIM4y8rJcGdKkKfLnlDc=s0",
+          "https://play-lh.googleusercontent.com/OkclynIkREX54937ninsRGb18mgfO2DEot-KsEka4ZcJydQeWpPgEfSG1oTvpw9qj2A=s0",
+          "https://play-lh.googleusercontent.com/54Ferwjzad6aQa7EmMXM1Tnsg23ReOShZ8HewXLyNJfWvmtbfv7a4sJg6ICzLsE97qk=s0",
+          "https://play-lh.googleusercontent.com/rKfhEPI4nOGLFsXYbnHKDipGTtH-8BZ_BzhfpefZU0zlkrhHmbFT2OIm0mUtrmp23yk=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/bike-stunts/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/bike-stunts/store-8c8f73bd19f9-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.trends.games.production.extreme.stuntbike.racing.trails.impossible.ramp&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.trends.games.production.extreme.stuntbike.racing.trails.impossible.ramp&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/tricky-bike-stunt-racing-sim/com.trends.games.production.extreme.stuntbike.racing.trails.impossible.ramp",
+        "resolvedTitle": "Tricky Bike Stunt Racing Sim"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Bike handling, balance, jump landings and stunt tracks.",
+      "builtFromScratch": true,
+      "developmentFocus": "Bike handling, balance, jump landings and stunt tracks."
+    },
+    {
+      "id": "demolition-derby",
+      "title": "Demolition Derby Car Games 3D",
+      "packageId": "com.extreme.games.production.demolition.car.derby.stunt.shooting.game2k20",
+      "platform": "Android",
+      "category": "Driving / Racing",
+      "summary": "An arena driving game built around collisions and vehicle survival. Steer into opponents, use the available space to line up a hit and stay mobile during destructive encounters. Driving, impact feedback and arena objectives combine into an action-focused car game.",
+      "features": [
+        "Vehicle selection",
+        "Car collisions",
+        "Destruction challenges"
+      ],
+      "duration": "4 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 22,
+      "detailPage": "project-demolition-derby.html",
+      "media": {
+        "icon": "assets/projects/demolition-derby/store-icon.jpg",
+        "cover": "assets/projects/demolition-derby/store-f26345278114.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/demolition-derby/store-f26345278114.jpg",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/9WOlrCyqbnweVWkM4LelRQkN7TW-yTTegl-dNZEXznoHJd7v1zA1LyfQSt7-04niPWM=s0",
+            "sha256": "d9a70f3a009fdcba2779db849ad4c7682d121b7bd3337b6331b566c57357791b",
+            "preview": "assets/projects/demolition-derby/store-f26345278114-preview.webp"
+          },
+          {
+            "src": "assets/projects/demolition-derby/store-17b346290cf5.jpg",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/1osPEtRW4uHZDv-gAKVeILuGGeSWwzUVzBuyKn8b46fyI5vdowIV19yyqfNQcRrovQs=s0",
+            "sha256": "2e235350de035b153dbcf2ef716a7350f98ed3ae8bce247360cae16f18f4b2f3",
+            "preview": "assets/projects/demolition-derby/store-17b346290cf5-preview.webp"
+          },
+          {
+            "src": "assets/projects/demolition-derby/store-f7c5fab439d5.png",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Id3uA7lpTHKEKgr0AT9OUZ63-kU52QnTZzNPdq3pui8lMRmB9RIJ4DlVLtjL-4occak=s0",
+            "sha256": "5fb5624ac3c01fcd18822e5e231467c59271f3e461f8f3a6b13b238eab8b1b29",
+            "preview": "assets/projects/demolition-derby/store-f7c5fab439d5-preview.webp"
+          },
+          {
+            "src": "assets/projects/demolition-derby/store-19564a06823d.jpg",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/PBDT5Hiq5XulSq3KalL00W67y1lpGQT7pzo1rmWw7lJ07gZ6AZBtsv6Yee0cuTjNSKpz=s0",
+            "sha256": "7d9a6d890cd98dc2a27d76db6fececc7aae94d2d1e7b97fbec6fde6224c5eee8",
+            "preview": "assets/projects/demolition-derby/store-19564a06823d-preview.webp"
+          },
+          {
+            "src": "assets/projects/demolition-derby/store-a5d250ec6e84.jpg",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/R1AxFAopK2E2d8RmuN_edyadJfZwAxAZ6tM_4mKZIRQ2C2v1oZnt0WxNDsShqB7mgw=s0",
+            "sha256": "8ed90d4eb601bb12eb10d6d760280f47c48f17c5f694bce45aa01a06bdd65e96",
+            "preview": "assets/projects/demolition-derby/store-a5d250ec6e84-preview.webp"
+          },
+          {
+            "src": "assets/projects/demolition-derby/store-5ca06e0a3423.jpg",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/lxWzMbvl4-gtulrH7OQ9a4WO3VfRWos6y2LqUo6lkezv4jwjc0J7ochbufttQohARLs=s0",
+            "sha256": "d1e1a1f1d83f06b88026c2f819b4b4b752f1d37262ce571e6a40d70b125dc00a",
+            "preview": "assets/projects/demolition-derby/store-5ca06e0a3423-preview.webp"
+          },
+          {
+            "src": "assets/projects/demolition-derby/store-384944b75ccd.jpg",
+            "caption": "Demolition Derby Car Games 3D — archived store gallery 7",
+            "sourceUrl": "https://play-lh.googleusercontent.com/AjoJSxuzTFfqDqfFEI4AIOA1WZa2DHozUHg8-SUBcF-i-k3dC8UmlR5y3dAGBGVXbu02=s0",
+            "sha256": "dfa70cb633e607e5bfda850bdf7418e0f997b3276defe16ba03c9c2cc35fca7c",
+            "preview": "assets/projects/demolition-derby/store-384944b75ccd-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 1,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/demolition-derby-car-games-3d/com.extreme.games.production.demolition.car.derby.stunt.shooting.game2k20",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLmV4dHJlbWUuZ2FtZXMucHJvZHVjdGlvbi5kZW1vbGl0aW9uLmNhci5kZXJieS5zdHVudC5zaG9vdGluZy5nYW1lMmsyMF9pY29uXzE2ODg1MjIzODlfMDE0/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/rlum9iXOZ4n_1r_8phFmv8hO0v4d54zIt4f7F_3m7EnImAoZh273I3mD4PI48cbR-dg=s0",
+          "https://play-lh.googleusercontent.com/1osPEtRW4uHZDv-gAKVeILuGGeSWwzUVzBuyKn8b46fyI5vdowIV19yyqfNQcRrovQs=s0",
+          "https://play-lh.googleusercontent.com/R1AxFAopK2E2d8RmuN_edyadJfZwAxAZ6tM_4mKZIRQ2C2v1oZnt0WxNDsShqB7mgw=s0",
+          "https://play-lh.googleusercontent.com/PBDT5Hiq5XulSq3KalL00W67y1lpGQT7pzo1rmWw7lJ07gZ6AZBtsv6Yee0cuTjNSKpz=s0",
+          "https://play-lh.googleusercontent.com/Id3uA7lpTHKEKgr0AT9OUZ63-kU52QnTZzNPdq3pui8lMRmB9RIJ4DlVLtjL-4occak=s0",
+          "https://play-lh.googleusercontent.com/9WOlrCyqbnweVWkM4LelRQkN7TW-yTTegl-dNZEXznoHJd7v1zA1LyfQSt7-04niPWM=s0",
+          "https://play-lh.googleusercontent.com/lxWzMbvl4-gtulrH7OQ9a4WO3VfRWos6y2LqUo6lkezv4jwjc0J7ochbufttQohARLs=s0",
+          "https://play-lh.googleusercontent.com/AjoJSxuzTFfqDqfFEI4AIOA1WZa2DHozUHg8-SUBcF-i-k3dC8UmlR5y3dAGBGVXbu02=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/demolition-derby/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/demolition-derby/store-f26345278114-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.extreme.games.production.demolition.car.derby.stunt.shooting.game2k20&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.extreme.games.production.demolition.car.derby.stunt.shooting.game2k20&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/demolition-derby-car-games-3d/com.extreme.games.production.demolition.car.derby.stunt.shooting.game2k20",
+        "resolvedTitle": "Demolition Derby Car Games 3D"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 4,
+      "durationEstimated": true,
+      "durationBasis": "Vehicle combat, collision feedback and arena gameplay.",
+      "builtFromScratch": true,
+      "developmentFocus": "Vehicle combat, collision feedback and arena gameplay."
+    },
+    {
+      "id": "tuk-tuk",
+      "title": "Tuk Tuk Taxi Driving Games 3D",
+      "packageId": "com.trendsgamesproduction.tuktuk.rickshaw.stunt.master.driving.games2021",
+      "platform": "Android",
+      "category": "Driving / Racing",
+      "summary": "A tuk-tuk driving and stunt game that takes the vehicle onto ramps, obstacle courses and elevated routes. Steer through moving hazards, line up jumps and reach checkpoints while keeping the rickshaw under control. The unusual vehicle gives familiar stunt challenges a distinct feel.",
+      "features": [
+        "Tuk-tuk driving",
+        "Obstacle routes",
+        "Stunt challenges"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 23,
+      "detailPage": "project-tuk-tuk.html",
+      "media": {
+        "icon": "assets/projects/tuk-tuk/store-icon.png",
+        "cover": "assets/projects/tuk-tuk/store-90f2127c7515.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/tuk-tuk/store-90f2127c7515.png",
+            "caption": "Tuk Tuk Taxi Driving Games 3D — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/_wu9BdgZWaWcm0azLOAZwfoHLXPOZBScIAPMQOk6JVoETpyzo6RStj_vX1CaXdFRe_nS=s0",
+            "sha256": "c591c35f0d6e8a9d7943facb0f574b3a13efa431e534665a1f4f2e6ab83d2839",
+            "preview": "assets/projects/tuk-tuk/store-90f2127c7515-preview.webp"
+          },
+          {
+            "src": "assets/projects/tuk-tuk/store-23a6f955ce1b.jpg",
+            "caption": "Tuk Tuk Taxi Driving Games 3D — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/TI3jtFL1n0DiooPNuD55YulYFIKGpw0yKVciDZCgnuNdxdY3IAtIRF3lfPSS1sDFafU=s0",
+            "sha256": "84039788d9f5394be6e7327b89e0e58d4f7bc733187ce801313e2b2a9e7b7ab4",
+            "preview": "assets/projects/tuk-tuk/store-23a6f955ce1b-preview.webp"
+          },
+          {
+            "src": "assets/projects/tuk-tuk/store-303d84a4766f.jpg",
+            "caption": "Tuk Tuk Taxi Driving Games 3D — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/0LX0nKNp1jVZEr34rWjtDJcIt5Ize80_1XjASoFGNxzpUIIu_iW1rgtyt2BogFdrvQ=s0",
+            "sha256": "42a20710b9dbdb96726811e04cae0ee09de095b076a282cfa3abb850651fe200",
+            "preview": "assets/projects/tuk-tuk/store-303d84a4766f-preview.webp"
+          },
+          {
+            "src": "assets/projects/tuk-tuk/store-745ebabdc048.jpg",
+            "caption": "Tuk Tuk Taxi Driving Games 3D — archived store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/BAO5GA-Hbtz30A1eL65-IEoOnXS9LtdrYuVJOJ9OWgW1uHWGXnbK-2gYIDjkxt_eUMI=s0",
+            "sha256": "65b05e84fa6c1742f1ac2d2696d3fd36688a1f24a9dd3c57a9395ccd27acd833",
+            "preview": "assets/projects/tuk-tuk/store-745ebabdc048-preview.webp"
+          },
+          {
+            "src": "assets/projects/tuk-tuk/store-777e836731df.jpg",
+            "caption": "Tuk Tuk Taxi Driving Games 3D — archived store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/6hnZ3x0ivQg09Ujv9vKence6BEZQSNp4De08eUC5A2eLTSvKjtTZu5n8J7skagy_pJ8=s0",
+            "sha256": "79666ddb325a693f111af1db58c26201b896846de18c97be4f40354d855f33e3",
+            "preview": "assets/projects/tuk-tuk/store-777e836731df-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 3,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/tuk-tuk-taxi-driving-games-3d/com.trendsgamesproduction.tuktuk.rickshaw.stunt.master.driving.games2021",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLnRyZW5kc2dhbWVzcHJvZHVjdGlvbi50dWt0dWsucmlja3NoYXcuc3R1bnQubWFzdGVyLmRyaXZpbmcuZ2FtZXMyMDIxX2ljb25fMTcxMTI4NzQ5M18wMjk/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/n4Xg2ZIcV2KSJPiiZvNGexUOtXIa5K6B-m1eUfYJMmERa_074aL9sHc93zYpS-3nPJ4=s0",
+          "https://play-lh.googleusercontent.com/BAO5GA-Hbtz30A1eL65-IEoOnXS9LtdrYuVJOJ9OWgW1uHWGXnbK-2gYIDjkxt_eUMI=s0",
+          "https://play-lh.googleusercontent.com/6hnZ3x0ivQg09Ujv9vKence6BEZQSNp4De08eUC5A2eLTSvKjtTZu5n8J7skagy_pJ8=s0",
+          "https://play-lh.googleusercontent.com/FXI64cTHjH2bey_R37RIlR-s0nrEj-mDJmcodO6MXTDdF3GDpc3436rFNA5_SKuusBq5=s0",
+          "https://play-lh.googleusercontent.com/_wu9BdgZWaWcm0azLOAZwfoHLXPOZBScIAPMQOk6JVoETpyzo6RStj_vX1CaXdFRe_nS=s0",
+          "https://play-lh.googleusercontent.com/0LX0nKNp1jVZEr34rWjtDJcIt5Ize80_1XjASoFGNxzpUIIu_iW1rgtyt2BogFdrvQ=s0",
+          "https://play-lh.googleusercontent.com/K_FFnzAeKFo3-_6f2jY936ig3WWepS9F72ig6OmXPITPfoFNRuQYYfozKt041nnZTGw=s0",
+          "https://play-lh.googleusercontent.com/TI3jtFL1n0DiooPNuD55YulYFIKGpw0yKVciDZCgnuNdxdY3IAtIRF3lfPSS1sDFafU=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/tuk-tuk/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/tuk-tuk/store-90f2127c7515-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.trendsgamesproduction.tuktuk.rickshaw.stunt.master.driving.games2021&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.trendsgamesproduction.tuktuk.rickshaw.stunt.master.driving.games2021&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/tuk-tuk-taxi-driving-games-3d/com.trendsgamesproduction.tuktuk.rickshaw.stunt.master.driving.games2021",
+        "resolvedTitle": "Tuk Tuk Taxi Driving Games 3D"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Rickshaw handling, moving obstacles and checkpoint-based stunt routes.",
+      "builtFromScratch": true,
+      "developmentFocus": "Rickshaw handling, moving obstacles and checkpoint-based stunt routes."
+    },
+    {
+      "id": "tractor-farming",
+      "title": "Real Indian Tractor Simulator",
+      "packageId": "com.skyloom.farm.sim.Tractor.Farming.Simulator23",
+      "platform": "Android",
+      "category": "Simulation",
+      "summary": "A tractor farming simulation covering field work and transport. Drive the tractor through tasks such as preparing land, sowing, watering and harvesting, then carry produce to market. The project links agricultural activities with vehicle control and mission progression.",
+      "features": [
+        "Tractor driving",
+        "Sowing and harvesting",
+        "Crop care",
+        "Produce transport"
+      ],
+      "duration": "4 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 24,
+      "detailPage": "project-tractor-farming.html",
+      "media": {
+        "icon": "assets/projects/tractor-farming/store-icon.jpg",
+        "cover": "assets/projects/tractor-farming/store-321023de8581.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/tractor-farming/store-321023de8581.jpg",
+            "caption": "Real Indian Tractor Simulator — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Yb1tESDDoMKRGHW-WNJuIYBjAGG_7D_a_OGPcw64aMD2UAUteOmoqurte6T8oPMc_Q=s0",
+            "sha256": "bfba219a1abf5b996c715b5e016b2c4e68716125d73b4379752599f40692d6ce",
+            "preview": "assets/projects/tractor-farming/store-321023de8581-preview.webp"
+          },
+          {
+            "src": "assets/projects/tractor-farming/store-6ebc9601d97f.jpg",
+            "caption": "Real Indian Tractor Simulator — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/i_UiQuc2Wu0rs8i2B72yP_iVjrcm8AZbYYOtMwhlQbDNotcLgdqOGu1bEEdjCZQkHe53=s0",
+            "sha256": "4847f800347348292c8e6203d16e38c67703053a433996101730228efc25f402",
+            "preview": "assets/projects/tractor-farming/store-6ebc9601d97f-preview.webp"
+          },
+          {
+            "src": "assets/projects/tractor-farming/store-af45f2a2c718.jpg",
+            "caption": "Real Indian Tractor Simulator — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/-3qGG15hNL1P_wARpXqC656TI6F-zTWVCsV5OjN2FeqjfTFzSaiga2emOx8dCua7aBZO=s0",
+            "sha256": "bdc44969e954da135f1897676d6fb0e4e44e56be32f66ebd1df284fb701e756a",
+            "preview": "assets/projects/tractor-farming/store-af45f2a2c718-preview.webp"
+          },
+          {
+            "src": "assets/projects/tractor-farming/store-3ed138c4c83d.jpg",
+            "caption": "Real Indian Tractor Simulator — archived store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/r0jPE--3TyXsnId4C6mYJiL1RYOJtLxHWgL8ba0KrNbLnSqimVjakT5S-dErS8AZ8vI=s0",
+            "sha256": "dfba625cc2ff25f7cf335d2d69bbb2360dde04adda2f3d76db0b998098b8a68e",
+            "preview": "assets/projects/tractor-farming/store-3ed138c4c83d-preview.webp"
+          },
+          {
+            "src": "assets/projects/tractor-farming/store-7ad8bf95a5cf.jpg",
+            "caption": "Real Indian Tractor Simulator — archived store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/2g9FBgngXokO3n6H7aJ9RQ6k-qwVeUvgiWEEd6I3MGdyfjKEHtUGmmoicFfCxdk4cwI=s0",
+            "sha256": "53fb9af897e39b13bb498ee285ce208d9c079a6cd57ffc7b247a9c93eba49e35",
+            "preview": "assets/projects/tractor-farming/store-7ad8bf95a5cf-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 3,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/tractor-game-farming-games/com.skyloom.farm.sim.Tractor.Farming.Simulator23",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLnNreWxvb20uZmFybS5zaW0uVHJhY3Rvci5GYXJtaW5nLlNpbXVsYXRvcjIzX2ljb25fMTcxOTcxNjMwMl8wODQ/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/s_UwJx-kLCeiYAAIdN7ZnTXaEjAcupBAHRH7I98rac3p2n4sV57MlJ0UB2UYTO1wNyi9=s0",
+          "https://play-lh.googleusercontent.com/oViidMKETJE0I78wzpIeam8AslBGZJZvuK8w6Pz-S8ijndihyBeLLqMXSyeB0MAXPcU=s0",
+          "https://play-lh.googleusercontent.com/r0jPE--3TyXsnId4C6mYJiL1RYOJtLxHWgL8ba0KrNbLnSqimVjakT5S-dErS8AZ8vI=s0",
+          "https://play-lh.googleusercontent.com/Yb1tESDDoMKRGHW-WNJuIYBjAGG_7D_a_OGPcw64aMD2UAUteOmoqurte6T8oPMc_Q=s0",
+          "https://play-lh.googleusercontent.com/i_UiQuc2Wu0rs8i2B72yP_iVjrcm8AZbYYOtMwhlQbDNotcLgdqOGu1bEEdjCZQkHe53=s0",
+          "https://play-lh.googleusercontent.com/ie4rgInjWbiN9gLYqycVQQ_sxf-t_ifSHfwY4iiCDgiX-uP6jusMZqhErFPQD7QBsk4J=s0",
+          "https://play-lh.googleusercontent.com/-3qGG15hNL1P_wARpXqC656TI6F-zTWVCsV5OjN2FeqjfTFzSaiga2emOx8dCua7aBZO=s0",
+          "https://play-lh.googleusercontent.com/2g9FBgngXokO3n6H7aJ9RQ6k-qwVeUvgiWEEd6I3MGdyfjKEHtUGmmoicFfCxdk4cwI=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/tractor-farming/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/tractor-farming/store-321023de8581-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.skyloom.farm.sim.Tractor.Farming.Simulator23&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.skyloom.farm.sim.Tractor.Farming.Simulator23&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/tractor-game-farming-games/com.skyloom.farm.sim.Tractor.Farming.Simulator23",
+        "resolvedTitle": "Real Indian Tractor Simulator"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 4,
+      "durationEstimated": true,
+      "durationBasis": "Tractor driving, farming tasks and produce transport.",
+      "builtFromScratch": true,
+      "developmentFocus": "Tractor driving, farming tasks and produce transport."
+    },
+    {
+      "id": "siren-jungle",
+      "title": "Scary Horror 3D: Escape Games",
+      "packageId": "com.arbi.horror.scary.adventure.siren.head.jungle",
+      "platform": "Android",
+      "category": "Horror / Adventure",
+      "summary": "A horror adventure built around exploring threatening locations and finding a way to survive. Search for useful objects, avoid hostile creatures and work through escape objectives across eerie environments. Atmosphere, exploration and interactive challenges carry the experience.",
+      "features": [
+        "Atmospheric exploration",
+        "Survival encounters",
+        "Object interactions",
+        "Escape objectives"
+      ],
+      "duration": "3 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 25,
+      "detailPage": "project-siren-jungle.html",
+      "media": {
+        "icon": "assets/projects/siren-jungle/store-icon.jpg",
+        "cover": "assets/projects/siren-jungle/store-1e0e85b8fa03.jpg",
+        "screenshots": [
+          {
+            "src": "assets/projects/siren-jungle/store-1e0e85b8fa03.jpg",
+            "caption": "Scary Horror 3D: Escape Games — archived store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/zTQsUro5jTzVLSw6d2uXyk_k2B2DtV5nTu4EH8NJgBMevwcQ0OieBDNFHJHyLdewVibK=s0",
+            "sha256": "7eb88b2ae2aa4e4e1b57e6e158169b69cc14cf35af477892310ced5797927285",
+            "preview": "assets/projects/siren-jungle/store-1e0e85b8fa03-preview.webp"
+          },
+          {
+            "src": "assets/projects/siren-jungle/store-71c5681d7f0f.jpg",
+            "caption": "Scary Horror 3D: Escape Games — archived store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/tF2uB5ueInXcW7e41JQmcLNOPatgl2ADtgjhHhjbWZvmZm0otj_WUs92uH6bY88tK3Y=s0",
+            "sha256": "dadbb9d67cdc43deb640f879493da36512a22a244efe4f7f9024ad6f23e3e568",
+            "preview": "assets/projects/siren-jungle/store-71c5681d7f0f-preview.webp"
+          },
+          {
+            "src": "assets/projects/siren-jungle/store-b6bd13ca8a5b.png",
+            "caption": "Scary Horror 3D: Escape Games — archived store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/JcPhb7QMMMV1FPN62AUsSIozZ_AWThMwPmmgAyg7mLdzgVfngbAC7wcdb63qtKC8LFg8=s0",
+            "sha256": "29c2a373a4935320727c619d326531b0d3584dfb2b9315251ba3f15c2a481951",
+            "preview": "assets/projects/siren-jungle/store-b6bd13ca8a5b-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Store artwork recovered from the exact app listing on APKPure",
+        "galleryComplete": true,
+        "storeScreenshotCount": 8,
+        "duplicateStoreImages": 5,
+        "archived": true,
+        "archiveUrl": "https://apkpure.net/siren-head-scary-horror-chase/com.arbi.horror.scary.adventure.siren.head.jungle",
+        "downloadedOn": "2026-09-06T13:49:43.096Z",
+        "originalURLs": [
+          "https://image.winudf.com/v2/image1/Y29tLmFyYmkuaG9ycm9yLnNjYXJ5LmFkdmVudHVyZS5zaXJlbi5oZWFkLmp1bmdsZV9pY29uXzE3MzY1NDAzOTNfMDY4/icon.png?w=1024&fakeurl=1",
+          "https://play-lh.googleusercontent.com/q8j6YMTsEJLwesxv0fgWKRpooV42oh_0q6LwRuTOOWrJXNLTxsORjD7_7zDX8-vZYXQ=s0",
+          "https://play-lh.googleusercontent.com/Bzw2tI5bcqi2zeqRtL2XEWkBG64ilcs3qL2Ijbjj3Uri9WHKYGhsfgCOEp6CsHlrtHg=s0",
+          "https://play-lh.googleusercontent.com/AlPx7e4ziBK_hnPgXRh8DkErhe5qFQQxZM0ahTvybAbZgEgPr0yehQlr-hGuhNV0AQ=s0",
+          "https://play-lh.googleusercontent.com/6KB8260KtrUo439thMJt7Ge6f3ShezFOWld9Yt0HFSXdw2OBsc8Y303XIxgZcqkvr3A=s0",
+          "https://play-lh.googleusercontent.com/tF2uB5ueInXcW7e41JQmcLNOPatgl2ADtgjhHhjbWZvmZm0otj_WUs92uH6bY88tK3Y=s0",
+          "https://play-lh.googleusercontent.com/zTQsUro5jTzVLSw6d2uXyk_k2B2DtV5nTu4EH8NJgBMevwcQ0OieBDNFHJHyLdewVibK=s0",
+          "https://play-lh.googleusercontent.com/WbxkZuys2EhTQ628fsZcz-VnuihQGC7Yy0x691HUfqfBayqDHAXlDw95-k2-kF-A3g=s0",
+          "https://play-lh.googleusercontent.com/JcPhb7QMMMV1FPN62AUsSIozZ_AWThMwPmmgAyg7mLdzgVfngbAC7wcdb63qtKC8LFg8=s0"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/siren-jungle/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/siren-jungle/store-1e0e85b8fa03-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.arbi.horror.scary.adventure.siren.head.jungle&hl=en&gl=us",
+      "source": {
+        "kind": "archived-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.arbi.horror.scary.adventure.siren.head.jungle&hl=en&gl=us",
+        "archiveUrl": "https://apkpure.net/siren-head-scary-horror-chase/com.arbi.horror.scary.adventure.siren.head.jungle",
+        "resolvedTitle": "Scary Horror 3D: Escape Games"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 3,
+      "durationEstimated": true,
+      "durationBasis": "Exploration, survival encounters and escape objectives.",
+      "builtFromScratch": true,
+      "developmentFocus": "Exploration, survival encounters and escape objectives."
+    },
+    {
+      "id": "fire-hero",
+      "title": "Fire Hero Robot Rescue Mission",
+      "packageId": "com.bbs.grand.fire.robot.hero.fighting.flying.robot.games",
+      "platform": "Android",
+      "category": "Action",
+      "summary": "An action adventure featuring a fire-powered robot hero in an open city. Fly, climb and move between rescue missions and combat encounters while responding to threats around the environment. Superhero movement, mission objectives and action interactions form the core of the game.",
+      "features": [
+        "Flying and climbing",
+        "City rescue missions",
+        "Action encounters"
+      ],
+      "duration": "4 weeks",
+      "roleNotes": [
+        "Built this game from scratch in Unity and C#."
+      ],
+      "featured": false,
+      "order": 26,
+      "detailPage": "project-fire-hero.html",
+      "media": {
+        "icon": "assets/projects/fire-hero/store-icon.png",
+        "cover": "assets/projects/fire-hero/store-a38ab8080bf0.png",
+        "screenshots": [
+          {
+            "src": "assets/projects/fire-hero/store-a38ab8080bf0.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 1",
+            "sourceUrl": "https://play-lh.googleusercontent.com/f9P1uzriKlOXKDBc0yn0iBAYbgHOe9Y1OhJ6kl0qaklkbRPCRAUqURpY0asRJc6wKV2A1DP36AxBiMM4Pd3_nQ=w526-h296",
+            "sha256": "755c004c1d480b02b4207d4e3daca8aaa1f6f0415ae5421f33e2e1c7f2f7df9e",
+            "preview": "assets/projects/fire-hero/store-a38ab8080bf0-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-9ab79e4f0686.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 2",
+            "sourceUrl": "https://play-lh.googleusercontent.com/EOf-std3hQqFrSXr8oDnokcqxnhrWpr0kWY8nO3GJYrdsw4D9IlhKnx9Y-oujp1NW4Dcq_3eh6nWjIXPN6jKICA=w526-h296",
+            "sha256": "7868bdc076bc7d2345b02d149ebadb6446dce671fbd56137f7148474b478bddc",
+            "preview": "assets/projects/fire-hero/store-9ab79e4f0686-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-37a017bd1dc0.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 3",
+            "sourceUrl": "https://play-lh.googleusercontent.com/73qlnljWAR-sQPue4HEx-epE0bptGubRLJV2obwfYdPNE-Io8BCYPZgYJJNg8cGMRr1MrStad5gAW0iNzoFyjw=w526-h296",
+            "sha256": "82d8107584c66c8f44615f7649c150644cbd9810450d3d89987d1c8d728e7a36",
+            "preview": "assets/projects/fire-hero/store-37a017bd1dc0-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-e6a1baeabb94.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 4",
+            "sourceUrl": "https://play-lh.googleusercontent.com/bKmLE-MLEtIbpPe9eRW4lCUel2JBalAMQZoMtYU-gRCQ-amKlkCxQr1SdxmyXt_KSWnvS7u-SDdPs30qbdxX=w526-h296",
+            "sha256": "5ba5099d58b74b9db11787fdfba1bcdbf87f37cae3d41c21e8eb76def6290f99",
+            "preview": "assets/projects/fire-hero/store-e6a1baeabb94-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-617e2f6fbe47.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 5",
+            "sourceUrl": "https://play-lh.googleusercontent.com/IjBLY_o3EgkaQQRb2vUOtHlOPOwIvFl0EdKXmNCKLZ1wDFaySZYUrLayU6FR93hk2OqAkLLQeg1QHFWCXnXPwA=w526-h296",
+            "sha256": "5d64e816fec2eb8419a1da4148d6dd4efa4bc48f9d7d5961717bc230a866371b",
+            "preview": "assets/projects/fire-hero/store-617e2f6fbe47-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-d247f0edc306.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 6",
+            "sourceUrl": "https://play-lh.googleusercontent.com/HNVkN8k0Z2KKMz11b3rGEUYfAWY5wDeRtWxkJa_Ihb1ZgYxGJSEp5Zp0vgKKmXHwbyiajgxl4wUXOEuAX27YAQ=w526-h296",
+            "sha256": "02227167c06b6ed43426432afd9ef6281f5c52805045d1f9ca210911b62a11b9",
+            "preview": "assets/projects/fire-hero/store-d247f0edc306-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-da6793563df1.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 7",
+            "sourceUrl": "https://play-lh.googleusercontent.com/cI7p1Aj97liOHKxpbBUgSiEFV4cVpxT3Awrw_LUVzYLBXRzDSQ8snj6dENZaIOIbCzrC_3wWzuS8W8UisdAd7g=w526-h296",
+            "sha256": "f37e10944258bd87eece4498af690c6f33d7fcf94f789110630ecca2c1fd7337",
+            "preview": "assets/projects/fire-hero/store-da6793563df1-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-244d9304f3d0.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 8",
+            "sourceUrl": "https://play-lh.googleusercontent.com/Nr8RFeoe7hbmEn448HnD9qn-DVetcIsuvO_Swt6WvQeQpsiL9VW6tAs0jd_FpJxTNdoVuKalYg-VeTfmQPle0g=w526-h296",
+            "sha256": "569c1161701bb95392270a8ad492ba7430538c5c1fbda5a0c56aa9638ffc0bc0",
+            "preview": "assets/projects/fire-hero/store-244d9304f3d0-preview.webp"
+          },
+          {
+            "src": "assets/projects/fire-hero/store-f6e69194e5e5.png",
+            "caption": "Fire Hero Robot Rescue Mission — store gallery 9",
+            "sourceUrl": "https://play-lh.googleusercontent.com/jd8phYO_lcRJJF-B724fbr6Pvw6Jc93ABqPkX6LydUil3xcuV6E507986ph8wmtduIb5vDq3W29U1w_hYbFhYEw=w526-h296",
+            "sha256": "7a4e60b229dfb6185fed8898cc03d51ee2ca388233c55dd9eb4a5b6faa6dbe63",
+            "preview": "assets/projects/fire-hero/store-f6e69194e5e5-preview.webp"
+          }
+        ],
+        "status": "local",
+        "source": "Official store gallery, saved locally at original resolution",
+        "galleryComplete": true,
+        "storeScreenshotCount": 9,
+        "duplicateStoreImages": 0,
+        "downloadedOn": "2026-09-06T13:36:42.196Z",
+        "originalURLs": [
+          "https://play-lh.googleusercontent.com/9w0ZGp7nrIUni6yeakLPUZ5ynAyDaM9blK7PUy8egL9teyNOQP6REYFxSxSPzvwgImmUMQUIPiju9tvg2VKRWA=w240-h480",
+          "https://play-lh.googleusercontent.com/f9P1uzriKlOXKDBc0yn0iBAYbgHOe9Y1OhJ6kl0qaklkbRPCRAUqURpY0asRJc6wKV2A1DP36AxBiMM4Pd3_nQ=w526-h296",
+          "https://play-lh.googleusercontent.com/73qlnljWAR-sQPue4HEx-epE0bptGubRLJV2obwfYdPNE-Io8BCYPZgYJJNg8cGMRr1MrStad5gAW0iNzoFyjw=w526-h296",
+          "https://play-lh.googleusercontent.com/EOf-std3hQqFrSXr8oDnokcqxnhrWpr0kWY8nO3GJYrdsw4D9IlhKnx9Y-oujp1NW4Dcq_3eh6nWjIXPN6jKICA=w526-h296",
+          "https://play-lh.googleusercontent.com/IjBLY_o3EgkaQQRb2vUOtHlOPOwIvFl0EdKXmNCKLZ1wDFaySZYUrLayU6FR93hk2OqAkLLQeg1QHFWCXnXPwA=w526-h296",
+          "https://play-lh.googleusercontent.com/bKmLE-MLEtIbpPe9eRW4lCUel2JBalAMQZoMtYU-gRCQ-amKlkCxQr1SdxmyXt_KSWnvS7u-SDdPs30qbdxX=w526-h296",
+          "https://play-lh.googleusercontent.com/HNVkN8k0Z2KKMz11b3rGEUYfAWY5wDeRtWxkJa_Ihb1ZgYxGJSEp5Zp0vgKKmXHwbyiajgxl4wUXOEuAX27YAQ=w526-h296",
+          "https://play-lh.googleusercontent.com/cI7p1Aj97liOHKxpbBUgSiEFV4cVpxT3Awrw_LUVzYLBXRzDSQ8snj6dENZaIOIbCzrC_3wWzuS8W8UisdAd7g=w526-h296",
+          "https://play-lh.googleusercontent.com/jd8phYO_lcRJJF-B724fbr6Pvw6Jc93ABqPkX6LydUil3xcuV6E507986ph8wmtduIb5vDq3W29U1w_hYbFhYEw=w526-h296",
+          "https://play-lh.googleusercontent.com/Nr8RFeoe7hbmEn448HnD9qn-DVetcIsuvO_Swt6WvQeQpsiL9VW6tAs0jd_FpJxTNdoVuKalYg-VeTfmQPle0g=w526-h296"
+        ],
+        "failures": [],
+        "iconPreview": "assets/projects/fire-hero/store-icon-icon-preview.webp",
+        "coverPreview": "assets/projects/fire-hero/store-a38ab8080bf0-preview.webp"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bbs.grand.fire.robot.hero.fighting.flying.robot.games&hl=en&gl=us",
+      "source": {
+        "kind": "official-store",
+        "checkedOn": "2026-09-06",
+        "url": "https://play.google.com/store/apps/details?id=com.bbs.grand.fire.robot.hero.fighting.flying.robot.games&hl=en&gl=us",
+        "resolvedTitle": "Fire Hero Robot Rescue Mission"
+      },
+      "developmentSource": "From-scratch development confirmed by Shehraz Khalid. The 1–4 week duration is an editorial estimate based on the gameplay scope, not a recorded production schedule.",
+      "durationWeeks": 4,
+      "durationEstimated": true,
+      "durationBasis": "Flying and climbing, city exploration, rescue objectives and combat.",
+      "builtFromScratch": true,
+      "developmentFocus": "Flying and climbing, city exploration, rescue objectives and combat."
+    }
+  ],
+  "projectNote": "All 26 games confirmed by the owner as built from scratch. Durations are scope-based estimates of 1, 2, 3 or 4 weeks.",
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "website": ""
+  },
+  "cvPath": "assets/documents/Shehraz-Khalid-CV.pdf",
+  "schemaVersion": 6,
+  "updated": "2026-09-06",
+  "publisherLinks": [
+    {
+      "title": "Falcon Gamerz",
+      "url": "https://play.google.com/store/apps/dev?id=7064287589566803330",
+      "note": "Publisher collection supplied as an additional link. The complete publisher catalog is not attributed to Shehraz."
+    }
+  ],
+  "duplicateReport": {
+    "rule": "Exact Android package or iOS numeric app identifier, not title similarity.",
+    "removed": [
+      {
+        "packageId": "com.thief.simulator.game",
+        "reason": "Submitted twice; retained once as featured project 03."
+      }
+    ],
+    "keptSeparate": [
+      "com.thief2.simulator.game",
+      "ios:6475784064",
+      "com.sky.gym.workout.fitness.sim.game"
+    ],
+    "individualProjectCount": 26,
+    "publisherCollectionCount": 1,
+    "checkedOn": "2026-09-06",
+    "checks": {
+      "projects": 26,
+      "uniqueIds": 26,
+      "uniquePackages": 26,
+      "uniquePages": 26
+    }
+  },
+  "careerJourney": [
+    {
+      "id": "career-0",
+      "x": -40,
+      "z": -58,
+      "year": "2018",
+      "headline": "The first chapter",
+      "story": "My game-development journey started at Gaminators Studio, OZI Groups. I worked on Android games with Unity 3D and C#.",
+      "role": "Games Developer",
+      "company": "Gaminators Studio, OZI Groups",
+      "location": "Lahore, Pakistan",
+      "period": "Mar 2018 - Sep 2018",
+      "details": [
+        "Android mobile game development using Unity 3D and C#."
+      ]
+    },
+    {
+      "id": "career-1",
+      "x": -12,
+      "z": -58,
+      "year": "2018 - 2019",
+      "headline": "Building experience",
+      "story": "I continued my journey as a Games Developer at Mania Games Studio.",
+      "role": "Games Developer",
+      "company": "Mania Games Studio",
+      "location": "Lahore, Pakistan",
+      "period": "Oct 2018 - Jun 2019",
+      "details": []
+    },
+    {
+      "id": "career-2",
+      "x": 16,
+      "z": -58,
+      "year": "2019 - 2021",
+      "headline": "From developer to team lead",
+      "story": "At Survival Tech Valley, I took on team leadership alongside Android game development in Unity 3D and C#.",
+      "role": "Game Developer / Team Lead",
+      "company": "Survival Tech Valley",
+      "location": "Lahore, Pakistan",
+      "period": "Jun 2019 - Oct 2021",
+      "details": [
+        "Team leadership and Android mobile game development using Unity 3D and C#."
+      ]
+    },
+    {
+      "id": "career-3",
+      "x": 44,
+      "z": -58,
+      "year": "2021 - Present",
+      "headline": "Making systems feel like play",
+      "story": "At OZI Technology, my CV describes work on 2D/3D games, custom controllers, game physics, hyper-casual mechanics and mobile integrations.",
+      "role": "Sr. Games Developer",
+      "company": "OZI Technology",
+      "location": "Lahore, Pakistan",
+      "period": "Oct 2021 - Present",
+      "details": [
+        "Development of 2D and 3D games, including game physics and controllers built from scratch.",
+        "Design and implementation of hyper-casual game mechanics.",
+        "Integration of mobile ad mediation, analytics and attribution tools listed in the CV."
+      ]
+    }
+  ]
+}

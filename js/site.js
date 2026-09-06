@@ -1,0 +1,7 @@
+import {installLightbox} from './lightbox.js';
+installLightbox();
+const menu=document.querySelector('.mobile-menu-toggle'),nav=document.querySelector('.site-nav');
+menu?.addEventListener('click',()=>{const on=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(on));menu.setAttribute('aria-label',on?'Close navigation':'Open navigation');});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav?.classList.contains('open')){nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.focus();}});
+const input=document.querySelector('#project-search'),category=document.querySelector('#project-category'),platform=document.querySelector('#project-platform');
+if(input){const cards=[...document.querySelectorAll('[data-project-card]')];const apply=()=>{let count=0;const q=input.value.trim().toLowerCase();for(const card of cards){const show=(!q||card.dataset.search.includes(q))&&(!category.value||card.dataset.category===category.value)&&(!platform.value||card.dataset.platform===platform.value);card.hidden=!show;if(show)count++;}document.querySelector('#project-count').textContent=`${count} of ${cards.length} projects`;document.querySelector('#empty-projects').hidden=count!==0;};input.addEventListener('input',apply);category.addEventListener('change',apply);platform.addEventListener('change',apply);document.querySelector('#reset-filters').addEventListener('click',()=>{input.value='';category.value='';platform.value='';apply();input.focus();});}

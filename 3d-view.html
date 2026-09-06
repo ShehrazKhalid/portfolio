@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#263d38">
+  <meta name="description" content="Explore Shehraz Khalid's interactive portfolio. Unity 2D and 3D development, game physics, custom controllers and mobile games. Based in Lahore, Pakistan.">
+  <meta property="og:title" content="Shehraz Khalid - A little world. A lot of play.">
+  <meta property="og:description" content="An original driving portfolio. Explore the work, the tools and the person behind the games.">
+  <meta property="og:type" content="website">
+  <title>Shehraz Khalid - Interactive Portfolio</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/content.css"><link rel="stylesheet" href="css/world-content.css"></head>
+<body class="is-intro">
+  <a class="skip-link" href="profile.html">Skip the game and read the portfolio</a>
+  <canvas id="world" aria-label="Interactive 3D driving world. Use W A S D or arrow keys to drive, Enter to interact. A text version is available." tabindex="0"></canvas>
+  <div id="blast-flash" aria-hidden="true"></div><div class="screen-shade" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="wordmark" href="profile.html" aria-label="Shehraz Khalid text portfolio"><span class="brand-mark">sk<span>.</span></span><span class="brand-name">SHEHRAZ KHALID<small>SOFTWARE ENGINEER</small></span></a>
+    <nav class="topnav" aria-label="Portfolio controls">
+      <a class="back-home" href="index.html">&#8592; Portfolio home</a><button data-action="portfolio" class="nav-label">The portfolio <span aria-hidden="true">&#8599;</span></button>
+      <a class="cv-link" href="assets/documents/Shehraz-Khalid-CV.pdf" download>Download CV <span aria-hidden="true">&#8595;</span></a>
+      <span class="nav-separator"></span>
+      <button class="icon-button" data-action="audio" id="audio-toggle" aria-label="Enable sound" title="Sound (L)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4zM16 8l5 8m0-8-5 8"/></svg></button>
+      <button class="icon-button" data-action="settings" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 17h16M8 4v6m8 4v6"/></svg></button>
+    </nav>
+  </header>
+
+  <main id="intro" aria-labelledby="intro-title">
+    <div class="intro-copy">
+      <p class="eyebrow"><span class="status-dot"></span> WELCOME TO MY CORNER OF THE INTERNET</p>
+      <h1 id="intro-title">My work.<br><em>Your adventure.</em></h1>
+      <p class="intro-description">I'm Shehraz. Drive through my career from 2018 onwards, tap a building to meet the maker, or explore real projects in the open-air exhibition.</p>
+      <div class="intro-tags"><span>UNITY 2D &amp; 3D</span><span>CUSTOM CONTROLLERS</span><span>LAHORE, PK</span></div>
+      <button id="start-button" class="primary-button" disabled><span id="start-label">Building your world...</span><span aria-hidden="true">&#8594;</span></button>
+      <div class="load-meta"><div class="load-track" aria-hidden="true"><i id="load-progress"></i></div><span id="load-label" role="status">Preparing the island</span></div>
+      <a class="text-link" href="profile.html">Just here for the portfolio? Take the scenic shortcut. <span aria-hidden="true">&#8599;</span></a>
+      <p id="load-error" hidden role="alert"></p><button id="world-retry" class="secondary-button" hidden>Retry loading</button>
+    </div>
+    <div class="intro-bottom"><span>AN ORIGINAL INTERACTIVE WORLD</span><span>EXPLORE. EXPERIMENT. SAY HELLO.</span><span>06 / PLAY & EXPLORE EDITION</span></div>
+  </main>
+
+  <section id="hud" aria-label="Driving dashboard" hidden>
+    <div id="explore-shortcuts"><button data-action="travel" data-id="career-road">2018 &#8594; Career road</button><button data-action="travel" data-id="projects">Project exhibition &#8599;</button><button data-action="travel" data-id="blast-yard">TNT playground &#8599;</button></div>
+    <section id="career-overlay" aria-label="Live career story" hidden>
+      <header><span id="career-chapter">CHAPTER 01 / 04</span><button id="career-dismiss" aria-label="Collapse or expand the career story">&#8722;</button></header>
+      <div id="career-live" aria-live="polite" aria-atomic="true"><strong id="career-year">2018</strong><h2 id="career-company"></h2><p id="career-role"></p><p id="career-story"></p><small id="career-period"></small></div>
+      <div class="career-actions"><button id="career-read">Read this chapter &#8599;</button><span>Drive forward to continue &#8594;</span></div>
+      <div class="career-road-progress" aria-hidden="true"><i id="career-meter"></i></div>
+      <nav class="career-step-links" aria-label="Career chapters"><button data-career-step data-action="travel" data-id="career-0" aria-label="Visit Gaminators 2018">01</button><button data-career-step data-action="travel" data-id="career-1" aria-label="Visit Mania Games 2018">02</button><button data-career-step data-action="travel" data-id="career-2" aria-label="Visit Survival Tech Valley 2019">03</button><button data-career-step data-action="travel" data-id="career-3" aria-label="Visit OZI Technology 2021">04</button></nav>
+    </section>
+    <div id="world-context" hidden><div><small id="nearby-type">YOU ARE EXPLORING</small><strong id="nearby-title"></strong></div><button id="nearby-open">Open this section</button></div>
+    <div class="journey-card"><span class="eyebrow">YOUR LITTLE EXPEDITION</span><button data-action="map" class="journey-title"><span id="journey-label">Meet the maker</span><span aria-hidden="true">&#8599;</span></button><div class="journey-meta"><span id="visited-count">0 / 7 places discovered</span><span id="token-count">0 / 12 sparks</span></div><div class="journey-progress"><i id="journey-progress"></i></div></div>
+    <div id="race-hud" hidden><span class="eyebrow" id="race-phase">GROVE CIRCUIT</span><strong id="race-time">00:00.000</strong><span id="race-checkpoint">0 / 12 CHECKPOINTS</span><button data-action="end-race" aria-label="End race">&#215;</button></div>
+    <div id="countdown" aria-live="polite" hidden></div>
+    <button class="map-widget" data-action="map" title="Open world map (M)" aria-label="Open world map"><span class="map-title">THE GROVE <span>LIVE MAP &#8599;</span></span><canvas id="mini-map" width="400" height="310" aria-hidden="true"></canvas><span class="map-caption"><i class="legend-car"></i> YOU ARE HERE <span>M</span></span></button>
+    <div class="drive-hint"><span><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> drive</span><i></i><span><kbd>SHIFT</kbd> boost</span><i></i><span><kbd>SPACE</kbd> jump</span><button data-action="guide" aria-label="Open control guide">?</button></div>
+    <div class="speed-widget"><div class="speed-line"><span id="speed">0</span><div><span id="gear">N</span><small>KM/H</small></div></div><div class="boost-label">ELECTRIC BOOST <span id="boost-percent">100%</span></div><div class="boost-track"><i id="boost-meter"></i></div><div class="vehicle-label"><span class="status-dot"></span><span id="vehicle-name">SK ROVER / 01</span><button data-action="garage" aria-label="Open garage" title="Garage (G)">&#9881;</button></div></div>
+    <button id="interact-prompt" data-action="interact" hidden><kbd>ENTER</kbd><span><small id="interact-category">DISCOVER</small><strong id="interact-label">The Garage</strong></span><span aria-hidden="true">&#8594;</span></button>
+    <div class="bottom-tools"><button data-action="reset" title="Recover vehicle (R)">&#8634; Recover</button><button data-action="photo" title="Photo mode (P)">Photo mode</button><button data-action="challenges">Field notes <span id="achievement-count">0</span></button></div>
+  </section>
+
+  <div id="touch-controls" aria-label="Touch driving controls" hidden>
+    <div id="joystick" aria-label="Drag to steer and drive" role="application"><div class="joystick-arrows" aria-hidden="true">&#8593;</div><div id="stick"></div><span>DRIVE</span></div>
+    <div class="touch-actions"><button data-hold="boost" aria-label="Hold to boost">BOOST</button><button data-action="jump" aria-label="Jump">JUMP</button><button data-hold="brake" aria-label="Hold to brake">BRAKE</button><button data-action="interact" aria-label="Interact">ENTER</button></div>
+  </div>
+
+  <div id="world-tooltip" hidden></div><div id="toast-stack" aria-live="polite" aria-atomic="false"></div>
+  <div id="modal-backdrop" hidden></div>
+  <section id="panel" class="panel" role="dialog" aria-modal="true" aria-labelledby="panel-title" hidden>
+    <header class="panel-top"><span id="panel-kicker" class="eyebrow">THE PORTFOLIO</span><button id="close-panel" class="icon-button" aria-label="Close panel">&#215;</button></header>
+    <div id="panel-content"></div>
+    <footer class="panel-footer"><span>SHEHRAZ KHALID / THE GROVE</span><span><kbd>ESC</kbd> BACK TO EXPLORING</span></footer>
+  </section>
+  <div id="photo-toolbar" hidden><span>PHOTO MODE <small>Drag to orbit / scroll to zoom</small></span><button data-action="capture" class="primary-button">Capture image &#8595;</button><button data-action="photo" class="secondary-button">Back to driving</button></div>
+  <div id="connection-notice" hidden role="alert"></div>
+  <noscript><div class="no-script"><h1>Shehraz Khalid</h1><p>This driving experience needs JavaScript. You can still read my CV.</p><a href="assets/documents/Shehraz-Khalid-CV.pdf">Read the CV</a><p>Unity 2D &amp; 3D Developer - Lahore, Pakistan</p><a href="mailto:shehrazkhalid786@gmail.com">Get in touch</a></div></noscript>
+  <script src="js/world-loader.js"></script>
+</body>
+</html>
+
+

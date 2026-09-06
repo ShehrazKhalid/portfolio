@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BloxStrike | Project Details</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#10b981', /* Emerald 500 */
+                        dark: '#0f172a',    /* Slate 900 */
+                        darker: '#020617',  /* Slate 950 */
+                        card: '#1e293b'     /* Slate 800 */
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-darker text-slate-300 font-sans antialiased overflow-x-hidden selection:bg-primary selection:text-white pb-20">
+
+    <!-- Navbar -->
+    <nav class="w-full z-50 top-0 transition-all duration-300 bg-darker border-b border-slate-800">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center h-20">
+                <a href="index.html" class="text-slate-400 hover:text-white transition duration-300 flex items-center gap-2 font-medium">
+                    <i class="fas fa-arrow-left"></i> Back to Portfolio
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-20">
+        
+        <!-- Play Store Style Header -->
+        <div class="flex flex-col md:flex-row gap-8 items-start mb-12">
+            <!-- Game Icon -->
+            <div class="w-32 h-32 md:w-48 md:h-48 shrink-0">
+                <img src="assets/icon.png" alt="BloxStrike Icon" class="rounded-3xl w-full h-full object-cover shadow-2xl border border-slate-800">
+            </div>
+            
+            <div class="flex-1">
+                <h1 class="text-3xl md:text-5xl font-extrabold text-white mb-2 leading-tight">BloxStrike</h1>
+                <p class="text-primary font-semibold text-lg md:text-xl mb-4">Shehraz Khalid</p>
+                <div class="flex flex-wrap gap-4 text-sm text-slate-400 mb-8">
+                    <div class="flex flex-col">
+                        <span class="font-bold text-white text-base">Action / Shooter</span>
+                        <span>Category</span>
+                    </div>
+                    <div class="w-px h-8 bg-slate-700"></div>
+                    <div class="flex flex-col">
+                        <span class="font-bold text-white text-base">Aug 27, 2026</span>
+                        <span>Updated</span>
+                    </div>
+                </div>
+                <a href="https://play.google.com/store/apps/details?id=com.ags.cube.shooter.game&gl=us" target="_blank" class="inline-flex items-center justify-center gap-3 bg-primary text-white px-8 py-3.5 rounded-full font-bold hover:bg-emerald-600 transition duration-300 shadow-lg shadow-primary/25 w-full md:w-auto">
+                    <i class="fab fa-google-play text-xl"></i> Install on Google Play
+                </a>
+            </div>
+        </div>
+
+        <!-- Screenshots Gallery -->
+        <div class="mb-16 relative group">
+            <button id="prev-screenshot" class="absolute left-0 top-1/2 -translate-y-1/2 -ml-4 w-12 h-12 bg-slate-800 text-white rounded-full shadow-lg z-10 hover:bg-primary transition flex items-center justify-center opacity-0 group-hover:opacity-100 hidden md:flex">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            
+            <div id="screenshots-container" class="flex gap-4 overflow-x-auto pb-6 snap-x hide-scrollbar scroll-smooth">
+                <!-- Scraped Screenshots -->
+                <img src="assets/ss1.png" class="screenshot-img h-56 md:h-80 rounded-xl snap-center shadow-lg border border-slate-800 shrink-0 object-cover cursor-pointer hover:opacity-90 transition">
+                <img src="assets/ss2.png" class="screenshot-img h-56 md:h-80 rounded-xl snap-center shadow-lg border border-slate-800 shrink-0 object-cover cursor-pointer hover:opacity-90 transition">
+                <img src="assets/ss3.png" class="screenshot-img h-56 md:h-80 rounded-xl snap-center shadow-lg border border-slate-800 shrink-0 object-cover cursor-pointer hover:opacity-90 transition">
+                <img src="assets/ss4.png" class="screenshot-img h-56 md:h-80 rounded-xl snap-center shadow-lg border border-slate-800 shrink-0 object-cover cursor-pointer hover:opacity-90 transition">
+                <img src="assets/ss5.png" class="screenshot-img h-56 md:h-80 rounded-xl snap-center shadow-lg border border-slate-800 shrink-0 object-cover cursor-pointer hover:opacity-90 transition">
+            </div>
+
+            <button id="next-screenshot" class="absolute right-0 top-1/2 -translate-y-1/2 -mr-4 w-12 h-12 bg-slate-800 text-white rounded-full shadow-lg z-10 hover:bg-primary transition flex items-center justify-center opacity-0 group-hover:opacity-100 hidden md:flex">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+
+        <!-- About Game -->
+        <div class="mb-16">
+            <h2 id="about-btn" class="text-2xl font-bold text-white mb-6 flex items-center justify-between cursor-pointer group hover:text-primary transition duration-300">
+                <span class="flex items-center gap-3">About this game <i class="fas fa-arrow-right text-sm text-slate-500 group-hover:text-primary transition duration-300"></i></span>
+            </h2>
+            <div class="text-slate-400 leading-relaxed space-y-4 line-clamp-3">
+                <p><strong>BloxStrike is a fast-paced, competitive 5v5 shooter where strategy, aim, and teamwork decide the outcome.</strong></p>
+                <p>Battle across detailed maps in intense round-based combat. Eliminate opponents, plant or defuse the objective, and outplay the enemy team. Earn cash each round by performing well—then spend them on a wide arsenal of weapons, utility, and gear to gain the upper hand in future rounds.</p>
+            </div>
+        </div>
+
+        <!-- About Game Modal -->
+        <div id="about-modal" class="fixed inset-0 z-[100] flex items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300">
+            <!-- Backdrop -->
+            <div id="about-modal-backdrop" class="absolute inset-0 bg-darker/80 backdrop-blur-sm"></div>
+            
+            <!-- Modal Content -->
+            <div class="relative bg-card w-full max-w-2xl max-h-[85vh] rounded-3xl shadow-2xl border border-slate-700 m-4 flex flex-col transform scale-95 transition-transform duration-300" id="about-modal-content">
+                <!-- Header -->
+                <div class="flex items-center justify-between p-6 border-b border-slate-700">
+                    <h3 class="text-2xl font-bold text-white flex items-center gap-3">
+                        <img src="assets/icon.png" class="w-10 h-10 rounded-xl object-cover"> 
+                        About this game
+                    </h3>
+                    <button id="close-modal-btn" class="text-slate-400 hover:text-white transition w-10 h-10 flex items-center justify-center rounded-full hover:bg-slate-700 focus:outline-none">
+                        <i class="fas fa-times text-2xl"></i>
+                    </button>
+                </div>
+                <!-- Body -->
+                <div class="p-6 overflow-y-auto text-slate-300 leading-relaxed space-y-5 hide-scrollbar">
+                    <p class="text-lg text-white"><strong>BloxStrike is a fast-paced, competitive 5v5 shooter where strategy, aim, and teamwork decide the outcome.</strong></p>
+                    <p>Battle across detailed maps in intense round-based combat. Eliminate opponents, plant or defuse the objective, and outplay the enemy team.</p>
+                    <p>Earn cash each round by performing well—then spend them on a wide arsenal of weapons, utility, and gear to gain the upper hand in future rounds. Featuring an evolving weapon skin economy, unique gameplay, and regular updates, BloxStrike delivers a next-generation FPS experience.</p>
+                    
+                    <div class="pt-4 border-t border-slate-700">
+                        <span class="block text-primary font-bold mb-3 uppercase tracking-wider text-sm">Key Game Features</span>
+                        <ul class="list-none space-y-2 text-slate-400">
+                            <li><i class="fas fa-check text-primary mr-2"></i> Fast-paced 5v5 action</li>
+                            <li><i class="fas fa-check text-primary mr-2"></i> Advanced AI bots mimicking real players</li>
+                            <li><i class="fas fa-check text-primary mr-2"></i> Engaging multiplayer feel without relying on servers</li>
+                            <li><i class="fas fa-check text-primary mr-2"></i> Developed from scratch with highly modular code</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Developer Insights / Behind the Scenes -->
+        <div class="bg-card border border-slate-800 rounded-3xl p-8 md:p-12 shadow-2xl relative overflow-hidden">
+            <!-- Decorative accent line -->
+            <div class="absolute top-0 left-0 w-2 h-full bg-primary"></div>
+            <div class="absolute top-0 right-0 p-8 opacity-5">
+                <i class="fas fa-code text-9xl"></i>
+            </div>
+            
+            <h2 class="text-3xl font-extrabold text-white mb-8 flex items-center gap-4 relative z-10">
+                <i class="fas fa-laptop-code text-primary"></i> Developer Insights & Post-Mortem
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-10 relative z-10">
+                <!-- Point 1 -->
+                <div>
+                    <h3 class="text-white font-bold text-xl mb-3 border-b border-slate-700 pb-2">The 8-Day Crunch Challenge</h3>
+                    <p class="text-slate-400 leading-relaxed">
+                        This entire project was conceptualized, developed, and published in a rapid, highly intensive cycle of just <strong>8 days</strong>. Building a fully functional 3D shooter in such a tight timeframe required intense focus, quick decision-making, and writing highly modular and reusable code from scratch.
+                    </p>
+                </div>
+
+                <!-- Point 2 -->
+                <div>
+                    <h3 class="text-white font-bold text-xl mb-3 border-b border-slate-700 pb-2">Custom Built AI Systems</h3>
+                    <p class="text-slate-400 leading-relaxed">
+                        Instead of relying on pre-built assets, all AI behaviors were programmed entirely from scratch. The AI agents are capable of dynamic pathfinding, taking cover, acquiring targets, and shooting strategically. They behave so organically that players often forget they aren't playing against real human opponents.
+                    </p>
+                </div>
+
+                <!-- Point 3 -->
+                <div>
+                    <h3 class="text-white font-bold text-xl mb-3 border-b border-slate-700 pb-2">The 5v5 Multiplayer Illusion</h3>
+                    <p class="text-slate-400 leading-relaxed">
+                        A core goal was to make this offline game feel like a lively multiplayer match. The game features a 5v5 team deathmatch format where the player fights alongside 4 AI companions against 5 AI enemies. The constant interaction between the agents ensures the battlefield always feels alive and reactive.
+                    </p>
+                </div>
+
+                <!-- Point 4 -->
+                <div>
+                    <h3 class="text-white font-bold text-xl mb-3 border-b border-slate-700 pb-2">Trade-offs & Achievements</h3>
+                    <p class="text-slate-400 leading-relaxed">
+                        Due to the strict 8-day deadline, some secondary features had to be skipped, such as an introductory tutorial sequence. However, this allowed me to pour all my effort into the core gameplay loop. By maximizing interactivity and responsive shooting mechanics, the game remains highly engaging despite the rapid development cycle.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Fullscreen Image Viewer Modal -->
+    <div id="image-viewer-modal" class="fixed inset-0 z-[200] flex items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 bg-black/95">
+        <button id="close-viewer-btn" class="absolute top-4 right-4 md:top-8 md:right-8 text-slate-400 hover:text-white transition w-12 h-12 flex items-center justify-center rounded-full bg-slate-800/50 hover:bg-slate-700 focus:outline-none z-[210]">
+            <i class="fas fa-times text-2xl md:text-3xl"></i>
+        </button>
+        
+        <button id="viewer-prev" class="absolute left-2 md:left-8 top-1/2 -translate-y-1/2 w-12 h-12 md:w-16 md:h-16 bg-slate-800/50 text-white rounded-full shadow-lg hover:bg-primary transition flex items-center justify-center z-[210]">
+            <i class="fas fa-chevron-left text-xl md:text-2xl"></i>
+        </button>
+        
+        <img id="viewer-img" src="" class="max-w-[90vw] max-h-[90vh] object-contain select-none shadow-2xl relative z-[205]">
+        
+        <button id="viewer-next" class="absolute right-2 md:right-8 top-1/2 -translate-y-1/2 w-12 h-12 md:w-16 md:h-16 bg-slate-800/50 text-white rounded-full shadow-lg hover:bg-primary transition flex items-center justify-center z-[210]">
+            <i class="fas fa-chevron-right text-xl md:text-2xl"></i>
+        </button>
+    </div>
+
+    <script src="js/script.js?v=2"></script>
+</body>
+</html>

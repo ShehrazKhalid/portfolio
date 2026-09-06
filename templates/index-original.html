@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shehraz Khalid | Games Developer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#10b981',
+                        dark: '#0f172a',
+                        darker: '#020617',
+                        card: '#1e293b'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-darker text-slate-300 font-sans antialiased overflow-x-hidden selection:bg-primary selection:text-white relative">
+
+    <!-- Cyberpunk Environment -->
+    <div class="bg-grid"></div>
+    <div class="scanlines"></div>
+    <div class="fixed top-[-10%] left-[-10%] w-[40rem] h-[40rem] bg-emerald-500/10 rounded-full blur-[128px] pointer-events-none z-0"></div>
+    <div class="fixed bottom-[-10%] right-[-10%] w-[40rem] h-[40rem] bg-cyan-500/10 rounded-full blur-[128px] pointer-events-none z-0"></div>
+
+    <!-- Navbar -->
+    <nav id="navbar" class="fixed w-full z-50 top-0 transition-all duration-300 bg-darker/90 backdrop-blur-md border-b border-slate-800/80">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex-shrink-0 flex items-center">
+                    <a href="#" class="nav-logo text-3xl font-black text-white tracking-widest drop-shadow-[0_0_8px_rgba(16,185,129,0.8)]">
+                        SHEHRAZ<span class="text-primary">.</span>
+                    </a>
+                </div>
+                <!-- Desktop Menu -->
+                <div class="hidden md:flex space-x-8">
+                    <a href="#about" class="text-slate-300 hover:text-primary transition duration-300 font-bold tracking-wider uppercase text-sm">About</a>
+                    <a href="#experience" class="text-slate-300 hover:text-primary transition duration-300 font-bold tracking-wider uppercase text-sm">Experience</a>
+                    <a href="#projects" class="text-slate-300 hover:text-primary transition duration-300 font-bold tracking-wider uppercase text-sm">Projects</a>
+                    <a href="#contact" class="text-slate-300 hover:text-primary transition duration-300 font-bold tracking-wider uppercase text-sm">Contact</a>
+                </div>
+                <!-- Mobile Menu Button -->
+                <div class="md:hidden flex items-center">
+                    <button id="mobile-menu-button" class="text-primary hover:text-white focus:outline-none drop-shadow-[0_0_5px_rgba(16,185,129,0.8)]">
+                        <i class="fas fa-bars text-3xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-darker/95 border-b border-primary/30 backdrop-blur-lg">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 text-center">
+                <a href="#about" class="block px-3 py-3 text-base font-bold tracking-widest uppercase text-slate-300 hover:text-primary hover:bg-slate-800/50 rounded-md">About</a>
+                <a href="#experience" class="block px-3 py-3 text-base font-bold tracking-widest uppercase text-slate-300 hover:text-primary hover:bg-slate-800/50 rounded-md">Experience</a>
+                <a href="#projects" class="block px-3 py-3 text-base font-bold tracking-widest uppercase text-slate-300 hover:text-primary hover:bg-slate-800/50 rounded-md">Projects</a>
+                <a href="#contact" class="block px-3 py-3 text-base font-bold tracking-widest uppercase text-slate-300 hover:text-primary hover:bg-slate-800/50 rounded-md">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="about" class="pt-32 pb-20 md:pt-48 md:pb-32 relative z-10 flex flex-col items-center justify-center min-h-[90vh]">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+            <div class="max-w-4xl mx-auto text-center animate-float">
+                <p class="text-primary font-bold tracking-widest uppercase mb-4 drop-shadow-[0_0_5px_rgba(16,185,129,0.5)]"><i class="fas fa-terminal"></i> INITIALIZING_PLAYER_PROFILE...</p>
+                <h1 class="glitch-text text-5xl md:text-[5.5rem] font-black text-white mb-6 drop-shadow-[0_0_20px_rgba(16,185,129,0.6)] leading-none" data-text="SHEHRAZ KHALID">
+                    SHEHRAZ KHALID
+                </h1>
+                <h2 class="text-3xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 mb-10 animate-pulse tracking-wide">
+                    BUILDING IMMERSIVE WORLDS.
+                </h2>
+                <div class="flex flex-col sm:flex-row gap-6 justify-center flex-wrap">
+                    <a href="3d-view.html" class="cyber-btn inline-flex items-center justify-center gap-3 bg-cyan-500 text-darker px-8 py-4 font-black uppercase tracking-widest hover:bg-cyan-400 transition-all duration-300 shadow-[0_0_20px_rgba(6,182,212,0.6)] hover:shadow-[0_0_40px_rgba(6,182,212,0.9)] order-first sm:order-none">
+                        <i class="fas fa-cube text-xl"></i> Enter 3D World
+                    </a>
+                    <a href="Shehraz%20Khalid%20(4)-2%20(1).pdf" class="cyber-btn inline-flex items-center justify-center gap-3 bg-primary text-darker px-8 py-4 font-black uppercase tracking-widest hover:bg-emerald-400 transition-all duration-300 shadow-[0_0_20px_rgba(16,185,129,0.4)] hover:shadow-[0_0_40px_rgba(16,185,129,0.8)]">
+                        <i class="fas fa-download"></i> CV
+                    </a>
+                    <a href="#projects" class="cyber-btn inline-flex items-center justify-center gap-3 bg-dark text-primary border-2 border-primary px-8 py-4 font-black uppercase tracking-widest hover:bg-primary/10 transition-all duration-300 shadow-[0_0_15px_rgba(16,185,129,0.1)] hover:shadow-[0_0_30px_rgba(16,185,129,0.5)]">
+                        <i class="fas fa-gamepad"></i> Projects
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+            <!-- Experience & Education Section -->
+    <section id="experience" class="py-20 relative z-10 bg-slate-900/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
+                
+                <!-- Experience Column -->
+                <div>
+                    <div class="text-center md:text-left mb-10">
+                        <h2 class="text-3xl font-bold text-white mb-4"><i class="fas fa-briefcase text-primary mr-3"></i> Professional <span class="text-primary">Experience</span></h2>
+                        <div class="w-16 h-1 bg-primary rounded-full md:mx-0 mx-auto"></div>
+                    </div>
+                    <div class="space-y-6">
+                        <div class="bg-card p-6 rounded-2xl border border-slate-800 hover:border-primary transition duration-300">
+                            <h3 class="text-xl font-bold text-white mb-1">Sr. Games Developer</h3>
+                            <h4 class="text-primary font-bold mb-3 text-sm">OZI Technology | Oct 2021 - Present</h4>
+                            <p class="text-slate-400 text-sm">Developing 2D and 3D games, game physics, and controllers from scratch. Integrating AdMob, MAX, Firebase, etc.</p>
+                        </div>
+                        <div class="bg-card p-6 rounded-2xl border border-slate-800 hover:border-primary transition duration-300">
+                            <h3 class="text-xl font-bold text-white mb-1">Game Developer / Team Lead</h3>
+                            <h4 class="text-primary font-bold mb-3 text-sm">Survival Tech Valley | Jun 2019 - Oct 2021</h4>
+                            <p class="text-slate-400 text-sm">Team leadership and Android mobile game development using Unity 3D and C#.</p>
+                        </div>
+                        <div class="bg-card p-6 rounded-2xl border border-slate-800 hover:border-primary transition duration-300">
+                            <h3 class="text-xl font-bold text-white mb-1">Earlier Roles</h3>
+                            <h4 class="text-primary font-bold mb-3 text-sm">Mania Games & Gaminators | Mar 2018 - Jun 2019</h4>
+                            <p class="text-slate-400 text-sm">Contributed to casual Android games development cycle using C#.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Education Column -->
+                <div>
+                    <div class="text-center md:text-left mb-10">
+                        <h2 class="text-3xl font-bold text-white mb-4"><i class="fas fa-graduation-cap text-primary mr-3"></i> Education & <span class="text-primary">Study</span></h2>
+                        <div class="w-16 h-1 bg-primary rounded-full md:mx-0 mx-auto"></div>
+                    </div>
+                    <div class="space-y-6">
+                        <div class="bg-card p-6 rounded-2xl border border-slate-800 hover:border-primary transition duration-300">
+                            <h3 class="text-xl font-bold text-white mb-1">BS Software Engineering</h3>
+                            <h4 class="text-primary font-bold mb-3 text-sm">Virtual University of Pakistan | Lahore</h4>
+                            <p class="text-slate-400 text-sm">Higher education focusing on software development and computer science principles.</p>
+                        </div>
+                        <div class="bg-card p-6 rounded-2xl border border-slate-800 hover:border-primary transition duration-300">
+                            <h3 class="text-xl font-bold text-white mb-1">DAE Electrical Technology</h3>
+                            <h4 class="text-primary font-bold mb-3 text-sm">Institute of Engineering & Tech | 2016</h4>
+                            <p class="text-slate-400 text-sm">Diploma of Associate Engineering, Mughalpura Lahore. Secured 76% marks.</p>
+                        </div>
+                        <div class="bg-card p-6 rounded-2xl border border-slate-800 hover:border-primary transition duration-300">
+                            <h3 class="text-xl font-bold text-white mb-1">Matriculation</h3>
+                            <h4 class="text-primary font-bold mb-3 text-sm">Govt. High School Baghbanpur | 2013</h4>
+                            <p class="text-slate-400 text-sm">Completed basic secondary education. Secured 59% marks.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="py-20 relative z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">Technical <span class="text-primary">Skills</span></h2>
+                <div class="w-16 h-1 bg-primary mx-auto rounded-full"></div>
+            </div>
+            <div class="flex flex-wrap justify-center gap-6 max-w-4xl mx-auto">
+                <span class="px-8 py-4 bg-slate-800 text-primary border border-primary/30 rounded-full font-bold shadow-[0_0_15px_rgba(16,185,129,0.2)] text-lg">UNITY 2D/3D</span>
+                <span class="px-8 py-4 bg-slate-800 text-white border border-slate-700 rounded-full font-bold text-lg">C#</span>
+                <span class="px-8 py-4 bg-slate-800 text-white border border-slate-700 rounded-full font-bold text-lg">.NET</span>
+                <span class="px-8 py-4 bg-slate-800 text-white border border-slate-700 rounded-full font-bold text-lg">WEB DEVELOPMENT</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-20 relative z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">Featured <span class="text-primary">Projects</span></h2>
+                <div class="w-16 h-1 bg-primary mx-auto rounded-full"></div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-8">
+                
+                <!-- Game Card 1 (BloxStrike) -->
+                <div class="bg-card rounded-2xl overflow-hidden border border-slate-800 group hover:-translate-y-2 transition duration-300 shadow-lg">
+                    <a href="project-cubeshooter.html" class="block h-full">
+                        <div class="h-48 bg-slate-800 overflow-hidden relative">
+                            <img src="assets/icon.png" alt="BloxStrike" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                            <div class="absolute inset-0 bg-primary/20 opacity-0 group-hover:opacity-100 transition duration-300"></div>
+                        </div>
+                        <div class="p-6">
+                            <span class="text-xs font-bold text-primary tracking-wider uppercase mb-2 block">Action / FPS</span>
+                            <h3 class="text-xl font-bold text-white mb-3">BloxStrike</h3>
+                            <p class="text-slate-400 mb-6 text-sm line-clamp-3">
+                                Online shooter with pixel graphics, avowed action and 5v5 multiplayer. Built entirely from scratch in just 8 days with custom AI mechanics.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Game Card 2 (Ball Blast) -->
+                <div class="bg-card rounded-2xl overflow-hidden border border-slate-800 group hover:-translate-y-2 transition duration-300 shadow-lg">
+                    <a href="project-ballblast.html" class="block h-full">
+                        <div class="h-48 bg-slate-800 overflow-hidden relative">
+                            <img src="assets/p2_ss.png" alt="Ball Blast" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                            <div class="absolute inset-0 bg-gradient-to-t from-darker to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="text-xs text-primary font-bold tracking-widest mb-2">ARCADE / PHYSICS</div>
+                            <h3 class="text-2xl font-bold text-white mb-3 font-['Orbitron']">Ball Blast</h3>
+                            <p class="text-slate-400 text-sm mb-4 line-clamp-3">Full project developed entirely from scratch in just 1 week (5 working days). Features custom 3D assets, optimized physics, and satisfying core gameplay loops.</p>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="bg-card rounded-2xl overflow-hidden border border-slate-800 group hover:-translate-y-2 transition duration-300 shadow-lg">
+                    <a href="project-cubeshooter.html" class="block h-full">
+                        <div class="h-48 bg-slate-800 overflow-hidden relative">
+                        <div class="w-full h-full bg-gradient-to-br from-slate-700 to-slate-900 flex items-center justify-center">
+                            <i class="fas fa-puzzle-piece text-5xl text-slate-600"></i>
+                        </div>
+                        <div class="absolute inset-0 bg-primary/20 opacity-0 group-hover:opacity-100 transition duration-300"></div>
+                    </div>
+                    <div class="p-6">
+                        <span class="text-xs font-bold text-primary tracking-wider uppercase mb-2 block">Casual</span>
+                        <h3 class="text-xl font-bold text-white mb-3">Mania & Gaminators</h3>
+                        <p class="text-slate-400 mb-6 text-sm line-clamp-3">
+                            Contributed to the full development cycle of various casual Android games, from initial prototyping to final polishing and deployment using C#.
+                        </p>
+                    </div>
+                </div>
+            </a>
+            </div>
+
+            <!-- View All Projects Button -->
+            <div class="mt-16 text-center">
+                <a href="projects.html" class="cyber-btn inline-flex items-center justify-center gap-3 bg-dark text-white px-10 py-4 font-bold border-2 border-slate-700 hover:border-primary hover:bg-primary/10 transition-all duration-300 shadow-[0_0_15px_rgba(16,185,129,0.1)] hover:shadow-[0_0_30px_rgba(16,185,129,0.4)] z-10 relative">
+                    View All Projects <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-darker py-10 border-t border-slate-800 relative z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="text-center md:text-left">
+                <p class="text-slate-400">&copy; <span id="year">2026</span> Shehraz Khalid. All rights reserved.</p>
+            </div>
+            <div class="flex gap-4">
+                <a href="mailto:shehrazkhalid786@gmail.com" class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center text-white hover:bg-primary transition duration-300"><i class="fas fa-envelope"></i></a>
+                <a href="#" class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center text-white hover:bg-primary transition duration-300"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js?v=3"></script>
+</body>
+</html>
+
+
+
+
+
+

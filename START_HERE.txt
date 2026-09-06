@@ -1,0 +1,11 @@
+SHEHRAZ PORTFOLIO v6 — GITHUB READY
+
+1. ZIP ko naye folder mein extract karein.
+2. START_WINDOWS.bat double-click karein (Node.js 20+).
+3. 3D World mein Let's take a drive dabayein.
+4. TNT playground shortcut se red crates tak jayein; W se takrayein.
+5. L se sound on/off; Settings > Reset props se trees, poles aur TNT wapas aate hain.
+
+26 projects ke 26 icons aur 138 unique gallery images LOCAL included hain. Dobara download karna zaroori nahi.
+GitHub par ZIP ke andar ki files/folders upload karein, ZIP file akeli nahi. Hidden .github folder bhi include karein.
+README.md mein Pages setup aur docs/MEDIA_INVENTORY.md mein tamam galleries ki list hai.

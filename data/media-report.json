@@ -1,0 +1,221 @@
+{
+  "checkedOn": "2026-09-06T13:49:43.096Z",
+  "results": [
+    {
+      "id": "bloxstrike",
+      "status": "complete-local",
+      "screenshots": 4,
+      "expectedScreenshots": 4
+    },
+    {
+      "id": "ballblast",
+      "status": "complete-local",
+      "screenshots": 6,
+      "expectedScreenshots": 6
+    },
+    {
+      "id": "thief",
+      "status": "complete-local",
+      "screenshots": 6,
+      "expectedScreenshots": 6
+    },
+    {
+      "id": "going-balls",
+      "status": "complete-local",
+      "screenshots": 8,
+      "expectedScreenshots": 8
+    },
+    {
+      "id": "naughty-cat",
+      "status": "complete-local",
+      "screenshots": 4,
+      "expectedScreenshots": 4
+    },
+    {
+      "id": "gold-mining",
+      "status": "complete-local",
+      "screenshots": 5,
+      "expectedScreenshots": 5
+    },
+    {
+      "id": "mahjong",
+      "status": "complete-local",
+      "screenshots": 5,
+      "expectedScreenshots": 5
+    },
+    {
+      "id": "card-sort",
+      "status": "complete-local",
+      "screenshots": 4,
+      "expectedScreenshots": 4
+    },
+    {
+      "id": "triple-tile",
+      "status": "complete-local",
+      "screenshots": 6,
+      "expectedScreenshots": 6
+    },
+    {
+      "id": "hospital",
+      "status": "complete-local",
+      "screenshots": 5,
+      "expectedScreenshots": 5
+    },
+    {
+      "id": "keyboard-escape",
+      "status": "complete-local",
+      "screenshots": 4,
+      "expectedScreenshots": 4
+    },
+    {
+      "id": "punch-master",
+      "status": "complete-local",
+      "screenshots": 5,
+      "expectedScreenshots": 5
+    },
+    {
+      "id": "gorilla",
+      "status": "complete-local",
+      "screenshots": 7,
+      "expectedScreenshots": 7
+    },
+    {
+      "id": "scary-escape",
+      "status": "complete-local",
+      "screenshots": 4,
+      "expectedScreenshots": 4
+    },
+    {
+      "id": "hole-rush",
+      "status": "complete-local",
+      "screenshots": 6,
+      "expectedScreenshots": 6
+    },
+    {
+      "id": "thief-2",
+      "status": "complete-local",
+      "screenshots": 5,
+      "expectedScreenshots": 5
+    },
+    {
+      "id": "gym-ios",
+      "title": "Gym Simulator 24 Fitness Games",
+      "status": "complete",
+      "screenshots": 9,
+      "expectedScreenshots": 9,
+      "duplicateImages": 0,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://www.taptap.io/app/33657128",
+      "failures": []
+    },
+    {
+      "id": "gym-workout",
+      "title": "Idle Tycoon Gym Workout Games",
+      "status": "complete",
+      "screenshots": 3,
+      "expectedScreenshots": 8,
+      "duplicateImages": 5,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/gym-fitness-3d-simulation-game/com.sky.gym.workout.fitness.sim.game",
+      "failures": []
+    },
+    {
+      "id": "formula-racing",
+      "title": "Formula Car Racing 3d Games",
+      "status": "complete",
+      "screenshots": 5,
+      "expectedScreenshots": 8,
+      "duplicateImages": 3,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/formula-car-racing-3d-games/com.trends.games.formula.car.racing.ramp.stunts.impossible.tracks",
+      "failures": []
+    },
+    {
+      "id": "bike-stunts",
+      "title": "Tricky Bike Stunt Racing Sim",
+      "status": "complete",
+      "screenshots": 4,
+      "expectedScreenshots": 8,
+      "duplicateImages": 4,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/tricky-bike-stunt-racing-sim/com.trends.games.production.extreme.stuntbike.racing.trails.impossible.ramp",
+      "failures": []
+    },
+    {
+      "id": "police-chase",
+      "title": "US Police Car driving Chase 3D",
+      "status": "complete",
+      "screenshots": 4,
+      "expectedScreenshots": 8,
+      "duplicateImages": 4,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/us-police-car-driving-chase-3d/com.trends.games.production.mexican.traffic.police.car.chase.simulator2k20",
+      "failures": []
+    },
+    {
+      "id": "demolition-derby",
+      "title": "Demolition Derby Car Games 3D",
+      "status": "complete",
+      "screenshots": 7,
+      "expectedScreenshots": 8,
+      "duplicateImages": 1,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/demolition-derby-car-games-3d/com.extreme.games.production.demolition.car.derby.stunt.shooting.game2k20",
+      "failures": []
+    },
+    {
+      "id": "tuk-tuk",
+      "title": "Tuk Tuk Taxi Driving Games 3D",
+      "status": "complete",
+      "screenshots": 5,
+      "expectedScreenshots": 8,
+      "duplicateImages": 3,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/tuk-tuk-taxi-driving-games-3d/com.trendsgamesproduction.tuktuk.rickshaw.stunt.master.driving.games2021",
+      "failures": []
+    },
+    {
+      "id": "fire-hero",
+      "status": "complete-local",
+      "screenshots": 9,
+      "expectedScreenshots": 9
+    },
+    {
+      "id": "tractor-farming",
+      "title": "Real Indian Tractor Simulator",
+      "status": "complete",
+      "screenshots": 5,
+      "expectedScreenshots": 8,
+      "duplicateImages": 3,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/tractor-game-farming-games/com.skyloom.farm.sim.Tractor.Farming.Simulator23",
+      "failures": []
+    },
+    {
+      "id": "siren-jungle",
+      "title": "Scary Horror 3D: Escape Games",
+      "status": "complete",
+      "screenshots": 3,
+      "expectedScreenshots": 8,
+      "duplicateImages": 5,
+      "icon": true,
+      "archived": true,
+      "archiveUrl": "https://apkpure.net/siren-head-scary-horror-chase/com.arbi.horror.scary.adventure.siren.head.jungle",
+      "failures": []
+    }
+  ],
+  "note": "Exact app IDs; every unique screenshot exposed by the verified official listing. No gallery size limit. Unavailable listings use verified exact-ID archives; completeness refers to the available source gallery. Artwork is bundled locally.",
+  "localProjects": 26,
+  "completeProjects": 26,
+  "pending": [],
+  "pendingProjects": 0,
+  "totalScreenshots": 138
+}
